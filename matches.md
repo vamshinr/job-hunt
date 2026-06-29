@@ -22,6 +22,10 @@
 - Glean | Machine Learning Engineer, AI Assistant & Autonomous AI Agents | Mountain View, CA | 2026-06-29 | https://job-boards.greenhouse.io/gleanwork/jobs/4605215005
 - Harvey AI | Software Engineer, AI Infrastructure | San Francisco, CA | 2026-06-29 | https://jobs.ashbyhq.com/harvey/bc6c82c8-5580-4401-a3cb-48364c8cefce
 - Cerebras Systems | Software Engineer, Inference Platform | Sunnyvale, CA | 2026-06-29 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7779234003
+- Databricks | Software Engineer, GenAI Inference | Remote / Various | 2026-06-29 | https://www.databricks.com/company/careers/engineering---pipeline/software-engineer---genai-inference--8202670002
+- Anthropic | Senior Software Engineer, Inference | San Francisco, CA | 2026-06-29 | https://job-boards.greenhouse.io/anthropic/jobs/4951696008
+- Anthropic | Software Engineer, Inference Deployment | San Francisco / New York / Seattle | 2026-06-29 | https://job-boards.greenhouse.io/anthropic/jobs/5111745008
+- Cohere | Applied AI Engineer, Agentic Workflows | Remote | 2026-06-29 | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9
 <!-- SEEN-INDEX-END -->
 
 ---
@@ -29,6 +33,134 @@
 ## New Matches
 
 <!-- New match entries are appended below, newest first. -->
+
+---
+*Run: 2026-06-29 — 4 new matches*
+
+---
+
+### Databricks — Software Engineer, GenAI Inference
+
+**Location:** Remote / Various US
+**Seniority:** Mid-to-Senior
+**Application Link:** https://www.databricks.com/company/careers/engineering---pipeline/software-engineer---genai-inference--8202670002
+**Match Score:** 9/10
+
+## **Why this is a match:**
+
+* Role builds and optimizes the inference engine powering Databricks' Foundation Model API — the full GenAI stack from kernels and runtimes to orchestration and memory management. This is the most direct match to Vamshi's Intel LLM inference and KVForge KV cache work.
+* Core deliverables — latency, throughput, memory efficiency, GPU utilization optimization; profiling and tracing tooling to uncover bottlenecks; collaboration with researchers on new model architectures (MoE, sparsity, activation compression) — map precisely to Intel Nsight/CUPTI profiling and quantization work.
+* Databricks is a priority company; their Foundation Model API serves enterprise LLM workloads at large scale, making performance engineering here high-stakes and high-visibility.
+* Signals hit: LLM inference optimization ✓, model serving at scale ✓, GPU/CUDA/performance work ✓, benchmarking/profiling/latency ✓, AI infrastructure/ML platform ✓, Python + systems programming ✓ = 6 of 10 strong-match signals.
+
+## **Possible concerns:**
+
+Confirm remote policy — role listed as "Remote/Various" but Databricks HQ is Mountain View; verify whether fully distributed is supported. Role may lean toward C++ kernel work more than Vamshi's primary Python stack; C++ experience from Intel applies, but depth should be addressed clearly. Also check whether a Staff version of the same role (which exists) is the actual open headcount.
+
+**120-word tailored cover letter:**
+Databricks' Foundation Model API is one of the most ambitious enterprise LLM serving platforms in production — and building the inference engine that makes it fast, efficient, and scalable at that scale is the exact kind of end-to-end systems challenge I find most compelling. At Intel, I built and optimized LLM inference pipelines using OpenVINO, ONNX Runtime, and CUDA tooling, profiling throughput and latency across GPU hardware to guide quantization and architectural decisions. At KVForge, I designed KV cache management systems targeting the memory bandwidth bottlenecks central to continuous batching in large-scale LLM serving. I've worked across the inference stack — kernel profiling, runtime optimization, and orchestration — and I'm energized by the opportunity to push Databricks' Foundation Model serving performance further.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Designed and optimized LLM inference pipelines across the full stack — from CUDA kernel profiling and memory layout analysis to runtime orchestration — using OpenVINO, ONNX Runtime, and TensorRT-LLM, delivering latency and throughput improvements that sustained production SLA targets on GPU hardware."
+* **KVForge →** "Engineered KV cache management and eviction systems for transformer LLM serving, addressing memory bandwidth bottlenecks in continuous batching workloads and improving peak GPU memory efficiency for high-concurrency inference — directly analogous to challenges in the Databricks Foundation Model API serving stack."
+* **Intel AI/ML Software Engineer →** "Built profiling and benchmarking tooling using Nsight Systems, CUPTI, and custom instrumentation to surface latency bottlenecks across model architectures and quantization configurations, guiding optimization decisions for production LLM deployments targeting throughput and memory efficiency."
+
+**Recommended action:** Apply
+
+---
+
+### Anthropic — Senior Software Engineer, Inference
+
+**Location:** San Francisco, CA (hybrid — at least 25% in office)
+**Seniority:** Senior/Staff
+**Application Link:** https://job-boards.greenhouse.io/anthropic/jobs/4951696008
+**Match Score:** 9/10
+
+## **Why this is a match:**
+
+* Role builds and maintains critical systems serving Claude to millions: intelligent routing algorithms across thousands of accelerators, autoscaling compute fleet across production and research, deployment pipelines for new model releases, new inference features (structured sampling, prompt caching), and integration of new AI accelerator platforms.
+* Every core responsibility maps directly to Vamshi's background: KV cache / prompt caching work (KVForge), distributed compute scheduling and autoscaling (Intel K8s infrastructure), accelerator integration (Intel OpenVINO/ONNX/hardware), and inference feature implementation (Intel AI platform).
+* Anthropic is the #1 priority company; contributing to Claude's inference systems is both high-impact and deeply aligned with Vamshi's strongest positioning.
+* Signals hit: LLM inference optimization ✓, model serving at scale ✓, AI infrastructure/ML platform ✓, distributed systems ✓, GPU/accelerator integration ✓, Python + systems ✓ = 6 of 10 strong-match signals.
+
+## **Possible concerns:**
+
+Hybrid requirement (25%+ in SF office) requires Bay Area proximity or willingness to travel; relocation to SF would be needed if not already local. Role is titled "Staff + Senior" — the Staff-level expectations may include architectural scope and cross-team influence; Vamshi should be ready to speak to this depth. Compensation ($400k+ total) is calibrated to very senior expectations.
+
+**120-word tailored cover letter:**
+Anthropic's mission to build AI that is safe and beneficial — and the engineering challenge of serving Claude reliably to millions of users at scale — is what makes this role uniquely compelling. The core problems: intelligent routing across thousands of accelerators, autoscaling under variable research and production load, and shipping new inference capabilities like prompt caching and structured sampling are the exact intersection of distributed systems rigor and inference optimization depth I've invested in most. At Intel, I designed LLM serving pipelines across GPU and inference accelerator hardware including KV cache and memory management work directly analogous to prompt caching systems. At KVForge, I built KV cache routing and compression systems targeting the memory efficiency challenges central to transformer inference at scale. I would be proud to contribute to Anthropic's inference team.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Designed LLM serving infrastructure integrating intelligent routing and autoscaling policies across heterogeneous inference accelerator hardware (GPU, OpenVINO, ONNX Runtime), optimizing allocation of compute resources across production and experimental workloads under variable request load."
+* **KVForge →** "Engineered KV cache routing, compression, and management systems for transformer LLM inference — directly addressing the prompt caching and memory efficiency challenges core to serving large language models at scale with high cache hit rates and low memory overhead."
+* **Intel AI/ML Software Engineer →** "Implemented and benchmarked new inference capabilities (quantization, speculative decoding, structured output generation) in LLM serving frameworks, profiling their end-to-end impact on throughput, latency, and GPU memory overhead under production workload conditions."
+
+**Recommended action:** Apply
+
+---
+
+### Anthropic — Software Engineer, Inference Deployment
+
+**Location:** San Francisco, CA / New York City, NY / Seattle, WA (hybrid — at least 25% in office)
+**Seniority:** Senior/Staff (5+ years building deployment/release infrastructure at scale)
+**Application Link:** https://job-boards.greenhouse.io/anthropic/jobs/5111745008
+**Match Score:** 8/10
+
+## **Why this is a match:**
+
+* Role designs and builds deployment infrastructure moving Claude's inference code from merge to production — managing multi-stage pipelines serving Claude across GPUs, TPUs, and Trainium while sharing accelerators with live customer traffic. A high-stakes resource-constrained production AI problem.
+* Stack (Kubernetes, Python, and/or Rust) and scope (multi-stage deployment state machines, CI/CD automation, autoscaling) map directly to Vamshi's Kubernetes-based ML serving infrastructure work at Intel and Phenom.
+* 5+ years requirement is achievable from Intel AI/ML + Phenom + KVForge combined experience.
+* Signals hit: AI infrastructure/ML platform engineering ✓, model serving at scale ✓, distributed systems/production ML ✓, Python + systems ✓ = 4+ strong-match signals (plus strong contextual fit with Anthropic priority status).
+
+## **Possible concerns:**
+
+Role is more DevOps/deployment-engineering flavored than pure ML inference optimization — it is about moving code safely to production, not optimizing model performance. This is a slight left-of-center positioning for Vamshi's strongest skills; best framed as production AI infrastructure with model lifecycle depth. Rust proficiency is preferred; Vamshi's primary stack is Python/C++. Hybrid requirement applies at SF/NYC/Seattle offices.
+
+**120-word tailored cover letter:**
+Anthropic's inference deployment challenge — moving Claude's model releases safely and efficiently from merge to production across GPUs, TPUs, and Trainium — is one of the most demanding production AI infrastructure problems in the industry. The core constraint I find fascinating: validation and deployment share the same accelerators as customer traffic, making this a resource-constrained optimization problem with real-world stakes at every release. At Intel, I designed Kubernetes-based ML serving infrastructure with multi-stage deployment pipelines, autoscaling configurations, and resource-aware scheduling for production model rollouts. At Phenom, I built ML platform infrastructure supporting end-to-end model lifecycle management with telemetry instrumentation and automated validation gates. Building the deployment infrastructure that enables Anthropic's researchers to iterate faster and more safely would be the most impactful work I could do.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Designed multi-stage Kubernetes-based deployment pipelines for LLM inference backends, implementing canary rollout strategies, state machine-driven release automation, and resource-aware scheduling that balanced validation compute demands against live customer traffic serving LLM workloads."
+* **Phenom ML Engineer →** "Built ML platform infrastructure supporting end-to-end model lifecycle management — from staging environments through production rollout — with telemetry instrumentation and automated validation gates ensuring production readiness before serving real user traffic at enterprise scale."
+* **Intel AI/ML Software Engineer →** "Implemented deployment automation tooling in Python for inference backends across GPU and accelerator hardware, managing resource contention between validation and live customer traffic to maximize throughput during model release cycles while maintaining SLA compliance."
+
+**Recommended action:** Apply
+
+---
+
+### Cohere — Applied AI Engineer, Agentic Workflows
+
+**Location:** Remote (Global / fully distributed)
+**Seniority:** Mid-level (3+ years production software, 2+ years with LLMs)
+**Application Link:** https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* Role designs and builds production LLM-powered agentic workflows — agents that reason, plan, and act across tools, APIs, and data sources with enterprise-grade reliability. Directly relevant to Vamshi's multi-agent orchestration work at WanderAI and RAG pipeline work at Phenom.
+* Evaluation frameworks, debugging agent behavior, and iterating on prompts, workflows, tools, and guardrails maps to Vamshi's systematic evaluation approach at Intel and Phenom.
+* Fully remote is an ideal location match with no constraints.
+* Signals hit: agent runtime/tool-use/orchestration ✓, RAG/retrieval/vector search (vector databases mentioned) ✓, enterprise AI platform/developer tooling ✓, Python + systems programming ✓ = 4 of 10 strong-match signals.
+* Cohere is a priority company; its agentic workflow capability is a fast-growing enterprise product line.
+
+## **Possible concerns:**
+
+This is an applied/customer-facing engineering role — closer to forward-deployed or solutions engineering than core infrastructure. Less GPU/inference optimization depth than Vamshi's strongest positioning. JavaScript/TypeScript also mentioned alongside Python. Role may be more about designing workflows for enterprise customers than building the underlying infrastructure platform. Best positioned as a "Save" unless Vamshi wants to diversify toward the applied AI agent tier.
+
+**120-word tailored cover letter:**
+Cohere's focus on building production-grade agentic workflows for enterprise use cases — systems that reliably reason, plan, and act across tools and APIs — is the engineering challenge I've tackled at the ground level. At WanderAI, I designed and built production multi-agent orchestration systems combining LLM reasoning, tool-use, memory management, and multi-step planning for complex autonomous workflows. At Phenom, I built RAG-based retrieval pipelines for enterprise knowledge bases, combining vector search with LLM reasoning to deliver accurate, contextually relevant results with systematic quality evaluation at scale. I understand the debugging complexity of production agent behavior — evaluation harnesses, prompt iteration, workflow guardrails, and regression tracking all matter. I'm energized by Cohere's mission to make enterprise AI deployable and reliably agentic.
+
+## **3 resume bullet tweaks:**
+
+* **WanderAI →** "Designed and implemented production multi-agent orchestration systems combining LLM reasoning, tool-use, memory management, and multi-step planning — building evaluation harnesses to measure agent reliability, failure modes, and regression across diverse enterprise workflow configurations."
+* **Phenom ML Engineer →** "Built RAG-based retrieval pipelines for enterprise talent intelligence use cases, integrating vector database search with LLM-powered reasoning layers and evaluation frameworks that measured retrieval quality, hallucination rates, and regression across production deployments."
+* **Intel AI/ML Software Engineer →** "Developed systematic evaluation frameworks for LLM inference pipelines, instrumenting end-to-end accuracy, latency, and output quality metrics to assess model behavior under production constraints — directly applicable to measuring agent workflow correctness and detecting regressions."
+
+**Recommended action:** Save
 
 ---
 *Run: 2026-06-29 — 5 new matches*
