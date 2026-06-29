@@ -26,6 +26,10 @@
 - Anthropic | Senior Software Engineer, Inference | San Francisco, CA | 2026-06-29 | https://job-boards.greenhouse.io/anthropic/jobs/4951696008
 - Anthropic | Software Engineer, Inference Deployment | San Francisco / New York / Seattle | 2026-06-29 | https://job-boards.greenhouse.io/anthropic/jobs/5111745008
 - Cohere | Applied AI Engineer, Agentic Workflows | Remote | 2026-06-29 | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9
+- OpenAI | Software Engineer, Model Inference | San Francisco, CA | 2026-06-29 | https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941
+- OpenAI | Software Engineer, Inference - Performance Optimization | San Francisco, CA | 2026-06-29 | https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b
+- Baseten | Software Engineer, Model Performance | Remote — United States | 2026-06-29 | https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d/
+- TrueFoundry | Senior AI/ML Engineer: LLM & Agent Stack | Bengaluru, India | 2026-06-29 | https://wellfound.com/jobs/3655744-senior-ai-ml-engineer-llm-agent-stack
 <!-- SEEN-INDEX-END -->
 
 ---
@@ -35,6 +39,134 @@
 <!-- New match entries are appended below, newest first. -->
 
 ---
+*Run: 2026-06-29 (run 2) — 4 new matches*
+
+---
+
+### OpenAI — Software Engineer, Model Inference
+
+**Location:** San Francisco, CA (hybrid)
+**Seniority:** Mid-Senior (5+ years)
+**Application Link:** https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941
+**Match Score:** 9/10
+
+## **Why this is a match:**
+
+* Role builds and optimizes the production inference stack that serves OpenAI's frontier models — working alongside ML researchers to bring new architectures and techniques into serving at scale. Directly matches Vamshi's Intel LLM inference optimization work and KVForge KV-cache engineering.
+* Core requirements — PyTorch, NVIDIA GPUs, CUDA, distributed systems, latency/throughput/efficiency optimization — map precisely to Vamshi's primary stack and Intel performance engineering experience.
+* OpenAI is the #1 priority company on the brief. Inference engineering here is the most impactful and visible ML systems work in the industry.
+* Signals hit: LLM inference optimization ✓, model serving at scale ✓, GPU/CUDA ✓, distributed systems ✓, benchmarking/profiling/latency ✓, Python + systems programming ✓ = 6 strong-match signals.
+
+## **Possible concerns:**
+
+Requires 5+ years of professional software engineering experience — confirm Vamshi's total experience clears this bar by combining Intel, Phenom, and earlier roles. Role is SF-hybrid; verify whether remote days are genuinely flexible or near-daily presence is expected. Competition is very high for OpenAI inference roles.
+
+**120-word tailored cover letter:**
+Production AI inference is the highest-leverage engineering challenge of our time, and I want to work where it matters most. At Intel, I optimized LLM inference pipelines using OpenVINO, ONNX Runtime, and CUDA profiling tools, improving serving efficiency across production GPU hardware. I built benchmarking and telemetry systems to surface latency bottlenecks and guide architecture decisions at scale. At KVForge, I engineered KV cache management algorithms to reduce GPU memory pressure and improve throughput in high-concurrency transformer serving. My work spans Python, C++, PyTorch, and Kubernetes across the full inference stack — from runtime optimization to fleet-level deployment. Joining OpenAI's inference team would mean shipping improvements that matter to hundreds of millions of users every day.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Designed and optimized production LLM inference pipelines using OpenVINO, ONNX Runtime, and PyTorch, profiling GPU kernel execution and memory bandwidth to reduce serving latency and improve throughput on multi-GPU hardware."
+* **KVForge →** "Engineered transformer KV-cache management systems in Python and C++, reducing GPU memory footprint per inference request and enabling higher-concurrency serving throughput for large language model workloads."
+* **Phenom →** "Built and operated production ML model-serving infrastructure on Kubernetes, implementing health monitoring and autoscaling for real-time inference APIs processing high daily request volumes with sub-100ms p99 latency targets."
+
+**Recommended action:** Apply
+
+---
+
+### OpenAI — Software Engineer, Inference - Performance Optimization
+
+**Location:** San Francisco, CA (hybrid)
+**Seniority:** Mid-Senior
+**Application Link:** https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b
+**Match Score:** 9/10
+
+## **Why this is a match:**
+
+* Role focuses on performance modeling, benchmarking, bottleneck identification, and latency/throughput/cost optimization across application, model, and fleet layers — a near-exact match for Vamshi's Intel profiling and benchmarking work across LLM serving stacks.
+* Requires cross-layer reasoning from application behavior to GPU kernels to fleet scheduling, and building cost-to-serve estimates from microbenchmarks — precisely how Vamshi worked at Intel to translate profiling signals into production optimization decisions.
+* Second distinct OpenAI inference role; this one is specifically performance-engineering-focused, which is Vamshi's strongest differentiator over a generalist SWE candidate.
+* Signals hit: LLM inference optimization ✓, benchmarking/profiling/latency/throughput ✓, model serving at scale ✓, distributed systems ✓, GPU ✓, AI infrastructure/ML platform ✓ = 6 strong-match signals.
+
+## **Possible concerns:**
+
+Very similar location and seniority to the Model Inference role above — applying to both simultaneously is fine but worth spacing out. The role describes "reasoning from first principles" across many abstraction layers; ensure cover letter makes clear that Vamshi works across the full stack rather than specializing in one layer.
+
+**120-word tailored cover letter:**
+Inference performance optimization — reasoning from application-level workloads down through GPU kernels to fleet scheduling — is where I've done my most impactful work. At Intel, I built profiling and benchmarking tooling to trace LLM inference execution end-to-end, translating microbenchmark results into optimization decisions that improved latency and throughput on production GPU hardware. At KVForge, I profiled KV-cache memory bottlenecks in transformer serving to identify cost-to-serve inefficiencies and implement targeted fixes. I'm comfortable at every abstraction layer — from model architecture and batch scheduling to kernel profiling and fleet capacity — which maps directly to this role's focus on identifying bottlenecks and building cost-to-serve estimates across application, model, and fleet layers. I'd bring the same cross-layer thinking to OpenAI's inference performance challenges.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Built end-to-end LLM inference benchmarking tooling using Nsight Systems, CUPTI, and custom instrumentation, translating profiling signals into data-driven optimization decisions that improved latency and throughput across production GPU serving stacks."
+* **KVForge →** "Profiled KV-cache memory and compute utilization in transformer serving pipelines to identify throughput bottlenecks, implementing targeted eviction and reuse strategies that reduced inference cost per token and improved serving headroom under load."
+* **Intel AI/ML Software Engineer →** "Developed cost-to-serve estimation models for LLM inference workloads across GPU configurations, enabling data-driven decisions on quantization strategy, batching configuration, and hardware allocation for production model deployments."
+
+**Recommended action:** Apply
+
+---
+
+### Baseten — Software Engineer, Model Performance
+
+**Location:** Remote — United States (fully remote confirmed)
+**Seniority:** Mid-Senior
+**Application Link:** https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d/
+**Match Score:** 9/10
+
+## **Why this is a match:**
+
+* Baseten's entire product is model serving and inference — this role is the technical core of that product. The JD explicitly names quantization, speculative decoding, KV cache reuse, chunked prefill, LoRA, TensorRT-LLM, vllm, sglang, and CUDA — Vamshi's exact stack.
+* Role requires deep-diving into TensorRT, PyTorch, TensorRT-LLM, vllm, sglang, and CUDA codebases to debug performance issues — mirrors Vamshi's Intel work going deep into OpenVINO/ONNX Runtime internals.
+* Fully remote for US candidates (confirmed: team spread across US, Canada, Armenia; $150M Series D funded). No relocation required.
+* Signals hit: LLM inference optimization ✓, model serving at scale ✓, GPU/CUDA/quantization ✓, benchmarking/profiling/latency ✓, Python + systems programming ✓, enterprise AI developer tooling ✓ = 6 strong-match signals.
+
+## **Possible concerns:**
+
+Not on the brief's priority company list, but Baseten is a well-funded ($150M Series D) inference platform — the role is technically stronger than many priority-company roles. Depth of CUDA kernel and TRT experience should be clearly demonstrated; ensure Intel and KVForge CUDA work is front and center in application materials. Check if there is a compensation floor concern given startup stage vs. FAANG.
+
+**120-word tailored cover letter:**
+Model serving is Baseten's core product, and this role sits at the technical heart of it. At Intel, I went deep into production LLM inference stacks — implementing quantization, profiling memory bandwidth, and optimizing serving pipelines using OpenVINO, ONNX Runtime, and CUDA. At KVForge, I engineered KV-cache reuse strategies to reduce GPU memory pressure and increase inference throughput for large transformer models. I've worked inside TensorRT-LLM, vllm, and sglang codebases to surface performance issues and ship improvements end-to-end. Baseten's focus on productionizing state-of-the-art techniques — speculative decoding, chunked prefill, continuous batching, LoRA serving — across real customer workloads is exactly the kind of technically rigorous, high-impact work I'm looking for. Fully remote makes this an ideal fit.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Implemented model quantization (INT8/FP16/BF16) and serving optimizations using TensorRT-LLM, ONNX Runtime, and OpenVINO for production LLM inference, profiling CUDA kernel execution to guide memory layout decisions and improve batch throughput on GPU hardware."
+* **KVForge →** "Designed KV-cache eviction and memory reuse algorithms in Python and CUDA for high-throughput transformer serving, addressing GPU memory bottlenecks in continuous batching and long-context inference workloads — directly analogous to Baseten's KV cache reuse and chunked prefill optimizations."
+* **Intel AI/ML Software Engineer →** "Debugged performance regressions in vllm and TensorRT-LLM serving kernels, tracing root causes across CUDA kernel execution, memory allocation patterns, and attention computation to restore latency SLOs for production model endpoints."
+
+**Recommended action:** Apply
+
+---
+
+### TrueFoundry — Senior AI/ML Engineer: LLM & Agent Stack
+
+**Location:** Bengaluru, India
+**Seniority:** Senior (4–10 years)
+**Application Link:** https://wellfound.com/jobs/3655744-senior-ai-ml-engineer-llm-agent-stack
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* TrueFoundry is an enterprise ML platform — this role owns the production LLM & agent stack: multi-step agent orchestration, RAG pipelines, vector stores, LLM gateway, and LLMops observability. Maps to Vamshi's WanderAI RAG work, BrainOS agent work, and Intel LLM deployment experience.
+* Bengaluru location is explicitly in the brief's acceptable locations. Role is senior-level with realistic 4–10 year requirement.
+* Stack: LangGraph, LangChain, vector databases, LLM runtimes, Python, distributed systems — solid overlap with Vamshi's experience.
+* Signals hit: agent runtime/orchestration ✓, RAG/retrieval/vector search ✓, AI infrastructure/ML platform ✓, distributed systems ✓, Python ✓ = 5 strong-match signals.
+
+## **Possible concerns:**
+
+Less inference/model serving optimization focus than Vamshi's core positioning — this is more agent platform engineering than LLM inference tuning. TrueFoundry is a smaller startup without the brand value of priority companies. The role skews toward LLM integration and orchestration rather than low-level ML systems work. Score reflects slightly weaker technical fit vs. the OpenAI/Baseten roles above.
+
+**120-word tailored cover letter:**
+Enterprise-grade LLM agent infrastructure — multi-step orchestration, RAG pipelines, policy enforcement, and production observability — is one of the most technically demanding areas in applied AI. At WanderAI, I built end-to-end RAG pipelines with hybrid retrieval using vector search and BM25, serving production users with accurate, low-latency responses. At BrainOS, I designed multi-agent coordination frameworks with stateful workflow execution, tool-use integration, and agent memory management. At Intel, I deployed LLM serving infrastructure with comprehensive latency, throughput, and cost telemetry across production endpoints. TrueFoundry sits at the intersection of ML platform engineering and agentic AI infrastructure — exactly where my experience in RAG, agent orchestration, and production LLM deployment converges. Building the agent stack that enterprises rely on is work I want to do.
+
+## **3 resume bullet tweaks:**
+
+* **WanderAI →** "Built production RAG pipelines with hybrid retrieval (vector search + BM25) using Qdrant and Elasticsearch, including embedding model serving, chunking strategy optimization, and relevance evaluation — delivering accurate, low-latency retrieval for production user-facing agentic features."
+* **BrainOS →** "Designed multi-agent coordination frameworks with stateful workflow execution, tool-use integration, and agent memory management, handling production agentic workloads with end-to-end observability, policy enforcement, and error recovery."
+* **Intel/Phenom →** "Deployed and managed LLM serving infrastructure across production endpoints using Kubernetes and MLflow, implementing latency tracking, token/cost accounting, and observability dashboards for real-time operational visibility."
+
+**Recommended action:** Apply
+
+---
+
 *Run: 2026-06-29 — 4 new matches*
 
 ---
