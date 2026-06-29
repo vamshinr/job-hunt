@@ -17,6 +17,11 @@
 - Fireworks AI | Member of Technical Staff, Performance Optimization | San Mateo, CA | 2026-06-28 | https://job-boards.greenhouse.io/fireworksai/jobs/4001152009
 - Perplexity AI | AI Inference Engineer | San Francisco, CA | 2026-06-28 | https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef
 - Perplexity AI | AI Infra Engineer (MTS) | San Francisco / Palo Alto, CA | 2026-06-28 | https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315
+- Hugging Face | Machine Learning Engineer, Fast Optimized Inference | US Remote | 2026-06-29 | https://apply.workable.com/huggingface/j/890897DBC6/
+- Anyscale | Distributed LLM Inference Engineer | San Francisco, CA | 2026-06-29 | https://jobs.lever.co/anyscale/7e8976ee-5ff7-4f98-93cd-b762f2504cdc
+- Glean | Machine Learning Engineer, AI Assistant & Autonomous AI Agents | Mountain View, CA | 2026-06-29 | https://job-boards.greenhouse.io/gleanwork/jobs/4605215005
+- Harvey AI | Software Engineer, AI Infrastructure | San Francisco, CA | 2026-06-29 | https://jobs.ashbyhq.com/harvey/bc6c82c8-5580-4401-a3cb-48364c8cefce
+- Cerebras Systems | Software Engineer, Inference Platform | Sunnyvale, CA | 2026-06-29 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7779234003
 <!-- SEEN-INDEX-END -->
 
 ---
@@ -24,6 +29,166 @@
 ## New Matches
 
 <!-- New match entries are appended below, newest first. -->
+
+---
+*Run: 2026-06-29 — 5 new matches*
+
+---
+
+### Hugging Face — Machine Learning Engineer, Fast Optimized Inference
+
+**Location:** US Remote
+**Seniority:** Mid-Senior (engineer-level; not Staff-gated)
+**Application Link:** https://apply.workable.com/huggingface/j/890897DBC6/
+**Match Score:** 8/10
+
+## **Why this is a match:**
+
+* Role is explicitly about building fast, production-optimized inference libraries (text-generation-inference, text-embeddings-inference) — the exact work Vamshi has done with OpenVINO, ONNX Runtime, vLLM, and CUDA tooling at Intel and KVForge.
+* Stack (Python, Rust, CUDA kernels, PyTorch/Transformers) maps directly to Vamshi's background; CUDA profiling and kernel optimization experience from Intel is a direct fit.
+* Fully US remote — ideal location match with no relocation pressure.
+* Signals hit: LLM inference optimization ✓, model serving ✓, GPU/CUDA/Triton (CUDA kernels) ✓, benchmarking/latency/performance optimization ✓, Python + systems programming ✓ = 5 of 10 strong-match signals.
+* Hugging Face is a priority company; their inference team touches models served across millions of daily API calls worldwide.
+
+## **Possible concerns:**
+
+Rust is a first-class language on this team (text-generation-inference is primarily Rust); Vamshi's core stack is Python/C++ — Rust proficiency must be credibly addressed or a learning curve acknowledged. Role rewards a strong open-source GitHub presence; public contributions to HuggingFace libraries or inference frameworks would meaningfully strengthen the application.
+
+**120-word tailored cover letter:**
+Hugging Face's mission to democratize ML and its inference work — powering production-grade model serving at millions of endpoints — is exactly what energizes me most about this role. At Intel, I optimized LLM inference pipelines using OpenVINO, ONNX Runtime, and CUDA tooling, profiling end-to-end throughput and latency to meet production SLA targets. Through KVForge, I built KV cache management systems for transformer serving — the same memory efficiency problems central to text-generation-inference. I've worked hands-on with the Transformers library and PyTorch, understanding engineering tradeoffs in quantization, continuous batching, and runtime optimization. I'm drawn to Hugging Face because every performance improvement here reaches thousands of developers and millions of deployed models. I'd love to contribute to that mission.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Optimized LLM inference pipelines using OpenVINO and ONNX Runtime, profiling end-to-end throughput and latency across model architectures to drive quantization decisions and sustain production SLA targets in high-throughput serving environments."
+* **KVForge →** "Built KV cache management and compression systems for transformer LLM serving, reducing GPU memory overhead during continuous batching and enabling higher concurrent throughput on fixed hardware budgets — directly analogous to challenges in text-generation-inference."
+* **Intel AI/ML Software Engineer →** "Implemented CUDA-level profiling workflows using Nsight Systems and CUPTI for transformer model inference, identifying memory bandwidth bottlenecks and kernel scheduling inefficiencies that informed runtime optimization priorities and quantization strategy."
+
+**Recommended action:** Apply
+
+---
+
+### Anyscale — Distributed LLM Inference Engineer
+
+**Location:** San Francisco, CA (hybrid; confirm remote flexibility)
+**Seniority:** Senior (implied by scope; compensation $170k–$247k)
+**Application Link:** https://jobs.lever.co/anyscale/7e8976ee-5ff7-4f98-93cd-b762f2504cdc
+**Match Score:** 8/10
+
+## **Why this is a match:**
+
+* Role is explicitly about shipping end-to-end batch and online LLM inference at high scale using vLLM and Ray — both core to Vamshi's inference optimization background at Intel and KVForge.
+* Integration with and contributions to open-source vLLM are expected; Vamshi has hands-on vLLM experience from Intel benchmarking work.
+* Compensation ($170k–$247k), priority company status (Anyscale), and mission around scalable AI infrastructure all align.
+* Signals hit: LLM inference optimization ✓, model serving at scale ✓, distributed systems ✓, GPU/CUDA (bonus, strongly relevant) ✓, Python + systems programming ✓ = 5 of 10 strong-match signals.
+* Role sits at intersection of production engineering and open-source community — rewarding Vamshi's demonstrated interest in inference systems.
+
+## **Possible concerns:**
+
+Role is listed in San Francisco, CA — confirm whether hybrid-remote is available before applying. Ray ecosystem depth would be a plus; Vamshi's background includes distributed systems but explicit Ray experience should be clarified. Emphasis on contributing back to vLLM open-source means an active GitHub presence helps the application.
+
+**120-word tailored cover letter:**
+Anyscale's mission to make scalable AI infrastructure effortless puts it squarely at the intersection of distributed systems and LLM inference optimization — the two areas I've invested in most throughout my career. I've worked extensively with the core stack this role demands: vLLM integration, PyTorch distributed inference, and optimizing the tradeoffs between batch throughput and online latency. At Intel, I built and benchmarked LLM inference pipelines using OpenVINO, ONNX Runtime, and vLLM, delivering measurable performance improvements under production constraints. At KVForge, I built KV cache routing and management systems that improved GPU memory efficiency during continuous batching workloads. I'm eager to contribute to Anyscale's inference stack and the vLLM open-source community — shipping end-to-end solutions that serve enterprise customers at real scale.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Built and benchmarked LLM inference pipelines using vLLM and OpenVINO, optimizing throughput-latency tradeoffs across batch and online serving scenarios and delivering measurable performance improvements for production model deployments."
+* **KVForge →** "Developed KV cache routing and management systems for distributed LLM serving, integrating with continuous batching schedulers to improve cache hit rates and reduce per-request GPU compute cost under high request concurrency."
+* **Intel AI/ML Software Engineer →** "Worked across the ML serving stack to integrate inference backends (vLLM, ONNX Runtime, TensorRT-LLM) with distributed orchestration layers, profiling and optimizing end-to-end pipeline performance using Python and systems-level tooling."
+
+**Recommended action:** Apply
+
+---
+
+### Glean — Machine Learning Engineer, AI Assistant & Autonomous AI Agents
+
+**Location:** Mountain View, CA (Bay Area; hybrid/in-person likely required)
+**Seniority:** Senior
+**Application Link:** https://job-boards.greenhouse.io/gleanwork/jobs/4605215005
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* Role sits directly at the intersection of LLM orchestration, agentic frameworks, low-latency LLM inference, and RAG — all areas where Vamshi has production experience (WanderAI, KVForge, Phenom).
+* Glean's Enterprise Brain platform combines retrieval, knowledge graphs, and agentic reasoning — a direct match to Vamshi's RAG and agent infrastructure experience.
+* Compensation ($200k–$300k), Glean's priority company status, and Series D at $4.6B valuation make this a top-tier opportunity.
+* Signals hit: Agent runtime/orchestration/tool-use ✓, RAG/retrieval/knowledge systems ✓, LLM inference/optimization ✓, AI infrastructure/ML platform ✓, enterprise AI platform ✓ = 5 of 10 strong-match signals.
+
+## **Possible concerns:**
+
+Mountain View, CA — likely in-person or heavy hybrid; remote eligibility should be confirmed before applying. The role includes reinforcement learning in scope, which may require depth beyond Vamshi's core experience. Interview includes an "AI-focused exercise" on how candidates use AI tools — should prepare accordingly.
+
+**120-word tailored cover letter:**
+Glean is building enterprise AI that retrieves, reasons, and acts across complex knowledge environments at the quality bar enterprise customers demand — and building the agentic infrastructure to deliver that reliably is exactly the challenge I find most compelling. At Phenom, I built production RAG pipelines and real-time ML serving infrastructure for enterprise talent intelligence use cases, creating evaluation frameworks to measure retrieval quality at scale. At WanderAI, I designed and implemented multi-agent orchestration systems combining LLM reasoning, tool use, and memory management for complex autonomous workflows. I'm energized by Glean's focus on low-latency LLM inference and production-grade agent infrastructure — and I'd bring deep experience across both the retrieval pipeline and agent execution layers to this role.
+
+## **3 resume bullet tweaks:**
+
+* **WanderAI →** "Designed and implemented production multi-agent orchestration systems combining LLM reasoning, tool-use, memory management, and multi-step planning to automate complex autonomous workflows with verifiable, enterprise-grade outputs."
+* **Phenom ML Engineer →** "Built RAG-based retrieval pipelines for enterprise talent intelligence use cases, combining embedding-based vector search with LLM-powered reasoning layers to deliver contextually relevant results over large enterprise knowledge bases."
+* **Intel AI/ML Software Engineer →** "Developed evaluation frameworks for LLM inference pipelines, instrumenting end-to-end accuracy, latency, and quality metrics to assess model performance under production constraints and guide optimization decisions."
+
+**Recommended action:** Apply
+
+---
+
+### Harvey AI — Software Engineer, AI Infrastructure
+
+**Location:** San Francisco, CA (hybrid; Harvey HQ is SF)
+**Seniority:** Mid-Senior (4+ years for comparable Harvey infra roles)
+**Application Link:** https://jobs.ashbyhq.com/harvey/bc6c82c8-5580-4401-a3cb-48364c8cefce
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* Harvey is a priority company; this role explicitly calls for "experience building infrastructure for AI/ML workloads or high-throughput inference systems" — directly relevant to Vamshi's Intel and Phenom background.
+* Harvey's platform runs complex legal reasoning on frontier LLMs under strict latency and reliability requirements — a demanding production AI infrastructure environment with high engineering stakes.
+* Stack (Python, Go, Kubernetes, multi-cloud: Azure/GCP/AWS, Terraform, observability tools) aligns with Vamshi's background; Kubernetes and cloud-native infra experience from Intel applies directly.
+* Signals hit: AI infrastructure/ML platform engineering ✓, LLM inference/high-throughput serving ✓, distributed systems ✓, Python + systems programming ✓ = 4 of 10 strong-match signals.
+
+## **Possible concerns:**
+
+Role hits 4 signals (above threshold but not deeply ML-focused). Go and Terraform/IaC are central; Vamshi's primary stack is Python/C++. Azure is the preferred cloud; confirm whether AWS/GCP background is sufficient. The role is more cloud-platform-engineering-flavored than pure ML inference — best positioned as a production AI infrastructure role rather than an inference optimization role.
+
+**120-word tailored cover letter:**
+Harvey's ambition to transform professional services with reliable, enterprise-grade AI is one of the most demanding engineering challenges in applied AI — in legal and financial contexts, tolerance for latency or accuracy failure is near zero. Building the infrastructure to meet that bar requires both AI systems depth and distributed systems rigor. At Intel, I designed and operated Kubernetes-based ML serving infrastructure integrating container orchestration and cloud-native tooling across multi-cloud environments. At Phenom, I built production ML platform infrastructure supporting real-time inference endpoints, observability pipelines, and enterprise-scale model lifecycle management. I'm motivated to bring that experience to Harvey — where the reliability bar for AI infrastructure is uniquely high and the engineering problems are genuinely hard.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Designed and operated Kubernetes-based ML serving infrastructure integrating containerized inference backends with cloud-native orchestration, implementing autoscaling policies and observability instrumentation to maintain SLA reliability under variable production load."
+* **Phenom ML Engineer →** "Built production ML platform infrastructure supporting real-time inference endpoints, model lifecycle management, and telemetry-driven performance monitoring for enterprise-scale AI applications serving high-concurrency API workloads."
+* **Intel AI/ML Software Engineer →** "Managed ML infrastructure deployments across multi-cloud environments, integrating infrastructure-as-code tooling and CI/CD pipelines to streamline model deployment workflows and ensure consistent, auditable serving configurations."
+
+**Recommended action:** Apply
+
+---
+
+### Cerebras Systems — Software Engineer, Inference Platform
+
+**Location:** Sunnyvale, CA (Bay Area)
+**Seniority:** Senior/Staff (ownership of high-consequence architectural decisions implies senior-level expectations)
+**Application Link:** https://job-boards.greenhouse.io/cerebrassystems/jobs/7779234003
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* Cerebras is a priority company; its wafer-scale AI chips are deployed in partnership with OpenAI at 750 MW scale — one of the most consequential AI inference infrastructure programs in production.
+* Role owns Kubernetes-native Inference Platform architecture, driving latency/throughput/capacity efficiency improvements for Cerebras inference workloads — directly relevant to Vamshi's distributed systems and ML serving infrastructure background.
+* Stack (Kubernetes, Go, Python, Docker, Prometheus/Grafana) maps to Vamshi's background; Kubernetes and container orchestration experience from Intel applies directly.
+* Signals hit: AI infrastructure/ML platform engineering ✓, model serving at scale ✓, distributed systems/production ML infrastructure ✓, benchmarking/latency/throughput optimization ✓ = 4 of 10 strong-match signals.
+
+## **Possible concerns:**
+
+Go is the primary language (not Python); ML inference knowledge is listed as "a plus" rather than required — this is primarily a distributed systems/platform engineering role with AI serving context. The role may underutilize Vamshi's deepest ML inference optimization expertise. Verify exact seniority expectations given "high-consequence architectural decisions" framing — compensation or experience bar could be Staff-level.
+
+**120-word tailored cover letter:**
+Cerebras is pioneering a fundamentally different approach to AI inference — wafer-scale chips that deliver unprecedented throughput for LLM workloads, now deployed in partnership with OpenAI at 750 MW scale. Building the Kubernetes-native inference platform that makes this hardware reliably accessible to enterprise applications is exactly the kind of high-stakes distributed systems work I'm drawn to. At Intel, I designed Kubernetes-based ML serving infrastructure handling resource scheduling, autoscaling, and container orchestration for production inference workloads. At KVForge, I architected distributed serving systems focused on latency, throughput, and memory efficiency under high concurrency. I'm excited by the opportunity to build inference platform infrastructure at Cerebras — where the hardware is genuinely novel, the engineering scale is massive, and the stakes are high.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Designed and operated Kubernetes-based ML serving infrastructure for production inference workloads, implementing custom resource scheduling, autoscaling policies, and service mesh configurations to optimize throughput, latency, and cluster utilization."
+* **KVForge →** "Architected distributed LLM serving systems with active-active failover and graceful degradation patterns, optimizing memory layout and routing logic to sustain throughput and low latency under high-concurrency inference demand."
+* **Phenom ML Engineer →** "Instrumented production ML serving infrastructure with Prometheus and Grafana observability tooling, enabling real-time performance monitoring, resource utilization tracking, and capacity planning across distributed inference clusters."
+
+**Recommended action:** Apply
 
 ---
 *Run: 2026-06-28 — 5 new matches*
