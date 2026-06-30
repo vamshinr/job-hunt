@@ -26,4 +26,7 @@
 - Reddit | Senior Software Engineer, GenAI Platform | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/reddit/jobs/7753480
 - Groq | Software Engineer, Model Evaluation Systems | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/groq/jobs/6493328003
 - Baseten | Software Engineer, Model Performance Systems | Remote — United States | 2026-06-30 | https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/
+- Together AI | LLM Inference Frameworks and Optimization Engineer | San Francisco, CA | 2026-06-30 | https://job-boards.greenhouse.io/togetherai/jobs/4687884007
+- NVIDIA | Senior Deep Learning Software Engineer, Inference | Remote / Santa Clara, CA | 2026-06-30 | https://jobs.nvidia.com/careers/job/893382583022
+- Anthropic | Software Engineer, Agent Platform | San Francisco, CA | 2026-06-30 | https://job-boards.greenhouse.io/anthropic/jobs/4965172008
 <!-- SEEN-INDEX-END -->
