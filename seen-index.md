@@ -29,4 +29,7 @@
 - Together AI | LLM Inference Frameworks and Optimization Engineer | San Francisco, CA | 2026-06-30 | https://job-boards.greenhouse.io/togetherai/jobs/4687884007
 - NVIDIA | Senior Deep Learning Software Engineer, Inference | Remote / Santa Clara, CA | 2026-06-30 | https://jobs.nvidia.com/careers/job/893382583022
 - Anthropic | Software Engineer, Agent Platform | San Francisco, CA | 2026-06-30 | https://job-boards.greenhouse.io/anthropic/jobs/4965172008
+- Palantir Technologies | Software Engineer, Hosted Model Infrastructure | Palo Alto, CA / New York, NY / Washington, DC | 2026-06-30 | https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a
+- Hippocratic AI | LLM Inference Engineer | Palo Alto, CA | 2026-06-30 | https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0
+- Reddit | Staff Machine Learning Engineer, AI Serving | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/reddit/jobs/7886459
 <!-- SEEN-INDEX-END -->
