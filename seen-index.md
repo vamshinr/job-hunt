@@ -32,4 +32,7 @@
 - Palantir Technologies | Software Engineer, Hosted Model Infrastructure | Palo Alto, CA / New York, NY / Washington, DC | 2026-06-30 | https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a
 - Hippocratic AI | LLM Inference Engineer | Palo Alto, CA | 2026-06-30 | https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0
 - Reddit | Staff Machine Learning Engineer, AI Serving | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/reddit/jobs/7886459
+- Mozilla | Senior Machine Learning Engineer, AI Platform | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/mozilla/jobs/7993046
+- AssemblyAI | Senior Software Engineer, Machine Learning | Remote — United States (EST) | 2026-06-30 | https://job-boards.greenhouse.io/assemblyai/jobs/4664764005
+- Microsoft AI (MAI) | Member of Technical Staff, LLM Inference | Redmond, WA / Sunnyvale, CA / New York, NY (hybrid) | 2026-06-30 | https://microsoft.ai/job/member-of-technical-staff-llm-inference-mai-superintelligence-team/
 <!-- SEEN-INDEX-END -->
