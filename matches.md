@@ -30,6 +30,9 @@
 - OpenAI | Software Engineer, Inference - Performance Optimization | San Francisco, CA | 2026-06-29 | https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b
 - Baseten | Software Engineer, Model Performance | Remote — United States | 2026-06-29 | https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d/
 - TrueFoundry | Senior AI/ML Engineer: LLM & Agent Stack | Bengaluru, India | 2026-06-29 | https://wellfound.com/jobs/3655744-senior-ai-ml-engineer-llm-agent-stack
+- Reddit | Senior Software Engineer, GenAI Platform | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/reddit/jobs/7753480
+- Groq | Software Engineer, Model Evaluation Systems | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/groq/jobs/6493328003
+- Baseten | Software Engineer, Model Performance Systems | Remote — United States | 2026-06-30 | https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/
 <!-- SEEN-INDEX-END -->
 
 ---
@@ -37,6 +40,102 @@
 ## New Matches
 
 <!-- New match entries are appended below, newest first. -->
+
+---
+*Run: 2026-06-30 — 3 new matches*
+
+---
+
+### Reddit — Senior Software Engineer, GenAI Platform
+
+**Location:** Remote — United States
+**Seniority:** Senior (5+ years)
+**Application Link:** https://job-boards.greenhouse.io/reddit/jobs/7753480
+**Match Score:** 8/10
+
+## **Why this is a match:**
+
+* Role builds Reddit's LLM Gateway — unified API endpoints for internal/external LLM routing, rate/token limit management, intelligent failover — plus enterprise-grade RAG applications using embeddings, vector search, and retrieval pipelines. Maps directly to Vamshi's RAG platform work at Phenom and WanderAI, and LLM serving experience at Intel.
+* Agentic AI workflows with tool use via LangChain/LangGraph explicitly required — directly matches Vamshi's multi-agent orchestration work at WanderAI, BrainOS, and KVForge.
+* Fully remote US role at a major tech platform (Reddit has 100M+ daily users), giving high-scale production impact and excellent compensation.
+* Signals hit: AI infrastructure/ML platform engineering ✓, RAG/retrieval/vector search ✓, agent runtime/orchestration ✓, distributed systems (Kubernetes at scale, AWS) ✓, Python + systems programming ✓ = 5 strong-match signals.
+
+## **Possible concerns:**
+
+Not focused on low-level LLM inference optimization or GPU performance — more about AI platform plumbing (LLM gateway, RAG, agents). Role is senior (5+ years); ensure Vamshi's Intel + Phenom + WanderAI experience makes the bar. Not a priority company from the brief, but Reddit is a well-known product and high-scale platform.
+
+**120-word tailored cover letter:**
+Building the infrastructure layer that makes AI systems reliable, scalable, and observable is where I've spent my career — and Reddit's scale makes this genuinely hard. I built production RAG pipelines at Phenom using vector search and retrieval orchestration that powered live recruiting AI features. At WanderAI and BrainOS, I designed and deployed multi-agent systems with tool-use, structured output, and stateful orchestration using LangGraph and LangChain. At Intel, I engineered LLM serving infrastructure with unified model-routing abstractions and comprehensive latency and throughput telemetry across GPU and accelerator hardware. Reddit's GenAI Platform challenge — building an LLM gateway, RAG infrastructure, and agentic workflow orchestration at the scale of 100M+ daily users — is exactly the kind of high-stakes, distributed AI engineering I want to tackle.
+
+## **3 resume bullet tweaks:**
+
+* **Phenom ML Engineer →** "Built production RAG platform for enterprise recruiting AI: designed vector embedding pipelines, Qdrant vector search, BM25 retrieval fusion, and LLM reranking — served as the retrieval backbone for agentic workflows processing high daily query volumes with sub-300ms P99 latency."
+* **WanderAI / BrainOS →** "Designed and deployed multi-agent orchestration systems using LangChain and LangGraph with tool-use, structured output, and stateful workflow execution; implemented CI/CD automation, versioning, and LLMOps observability to operationalize agentic AI features in production."
+* **Intel AI/ML Software Engineer →** "Built LLM serving abstraction layer with unified routing across heterogeneous model backends (OpenVINO, ONNX Runtime, TensorRT-LLM), implementing rate-limit management, intelligent failover, and real-time latency/throughput telemetry on Kubernetes."
+
+**Recommended action:** Apply
+
+---
+
+### Groq — Software Engineer, Model Evaluation Systems
+
+**Location:** Remote — United States (also Canada / Palo Alto, CA)
+**Seniority:** Mid/Senior
+**Application Link:** https://job-boards.greenhouse.io/groq/jobs/6493328003
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* Role builds evaluation systems ensuring LLM models deployed on Groq's GroqChip-based inference platform achieve best-in-class quality, throughput, and efficiency. Groq's unique hardware makes evaluation infrastructure critical — every model must be validated before production serving.
+* Core work: performance data collection and analysis, integration testing across system configurations, data-driven optimization recommendations — directly parallels Vamshi's Intel benchmarking and telemetry-driven optimization work.
+* Fully remote US with salary range $154K–$209K; Groq is a priority company with a uniquely differentiated inference platform (sub-millisecond LLM tokens).
+* Signals hit: AI infrastructure/ML platform engineering ✓, benchmarking/profiling/latency/throughput ✓, production AI systems ✓, Python + systems programming ✓ = 4 strong-match signals.
+
+## **Possible concerns:**
+
+Requires Golang proficiency alongside Python — Golang is not prominently in Vamshi's resume; would need to address learning curve. Role is about model evaluation and quality validation, not core LLM inference kernel engineering. Groq's stack is highly proprietary (GroqChip, GroqWare), so transferable depth is somewhat limited. Still a solid mid-senior fit given the benchmarking and performance-analysis alignment.
+
+**120-word tailored cover letter:**
+Groq's mission to make LLM inference dramatically faster is one of the most technically exciting problems in AI infrastructure. The Model Evaluation Systems role sits at the quality assurance core of that mission — ensuring every model deployed on GroqChip hardware meets the throughput, latency, and accuracy targets that make Groq's platform trustworthy at scale. At Intel, I built systematic performance evaluation pipelines for LLM inference across hardware configurations, collecting and analyzing throughput and latency data to surface optimization opportunities and validate improvements before production deployment. At Phenom, I developed evaluation harnesses to benchmark LLM quality and latency in production agentic workflows. I'm deeply comfortable with Python for evaluation tooling and actively building Go proficiency. Groq's hardware-aware serving challenges are uniquely motivating.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Built automated performance evaluation pipelines for LLM inference across heterogeneous hardware configurations — measuring throughput, latency P50/P99, and memory utilization using OpenVINO and ONNX Runtime benchmarking frameworks; drove data-driven optimization decisions adopted across Intel's model-serving stack."
+* **Phenom ML Engineer →** "Developed production LLM evaluation harnesses tracking quality (accuracy, coherence, relevance) and performance (latency, token throughput) metrics across agentic pipeline configurations, enabling iterative model improvement and regression detection in production serving workflows."
+* **KVForge / BrainOS →** "Built inference validation tooling to measure KV-cache hit rates, speculative decoding acceptance rates, and serving throughput under load — generating actionable performance insights that guided KV-cache design and batching configuration decisions."
+
+**Recommended action:** Apply
+
+---
+
+### Baseten — Software Engineer, Model Performance Systems
+
+**Location:** Remote — United States / Canada (fully remote confirmed)
+**Seniority:** Mid-level (early-career to mid, 1+ years)
+**Application Link:** https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/
+**Match Score:** 7/10
+
+## **Why this is a match:**
+
+* Role builds Baseten's automated LLM performance benchmarking and validation infrastructure — running quality benchmarks (GSM8K, MMLU), GPU cluster acceptance tests (measuring GPU memory bandwidth, networking throughput), and deep hardware profiling with PyTorch Profiler and NVIDIA Nsight Systems. This is the "speedometer and diagnostics" for Baseten's LLM inference platform (Cursor, Notion, Abridge are customers).
+* Distinct from the already-seen Baseten "Software Engineer, Model Performance" role (which focuses on hands-on inference optimization inside TensorRT/vLLM/CUDA codebases). This role is about systematic benchmarking infrastructure, CI/CD for performance testing, and real-time monitoring dashboards.
+* Fully remote, early-career-friendly, with a technically rich GPU performance and benchmarking scope.
+* Signals hit: benchmarking/profiling/latency/throughput/memory optimization ✓, LLM inference systems ✓, GPU hardware profiling ✓, AI infrastructure/developer tooling ✓ = 4 strong-match signals.
+
+## **Possible concerns:**
+
+This is Baseten's second role in the seen index — different job, but same company and similar domain. "Early-career friendly" means this is positioned as a mid-level role — may be below Vamshi's seniority ceiling. Focus is on benchmarking automation and CI/CD, not active kernel optimization or inference algorithm development. If prioritizing, the senior-level roles (Reddit, Groq) should come first.
+
+**120-word tailored cover letter:**
+Baseten powers mission-critical LLM inference for companies like Cursor and Notion — and the Model Performance Systems role is about ensuring that infrastructure is reliably fast. That's exactly the kind of systematic performance engineering I've built my career on. At Intel, I developed GPU profiling pipelines using NVIDIA Nsight Systems and PyTorch Profiler, measuring GPU memory bandwidth, compute utilization, and layer-by-layer latency across inference backends — the same tooling this role deploys for Baseten's cluster validation. I built automated benchmarking CI/CD at Phenom to detect performance regressions across model versions. Through KVForge, I designed inference performance monitoring with real-time dashboards tracking throughput and latency SLOs. I'm excited to build the performance measurement foundation that keeps Baseten's customers running at peak efficiency.
+
+## **3 resume bullet tweaks:**
+
+* **Intel AI/ML Software Engineer →** "Developed GPU cluster validation tooling using NVIDIA Nsight Systems and PyTorch Profiler; measured GPU memory bandwidth, networking throughput, and compute utilization across inference configurations — producing automated acceptance test suites for new hardware deployments."
+* **Phenom ML Engineer →** "Built automated CI/CD benchmarking infrastructure for production ML systems — running quality evaluations (MMLU-style benchmarks) and performance suites (latency P50/P99, token throughput) on each model update, enabling data-driven regression detection before production deployment."
+* **KVForge / BrainOS →** "Designed real-time inference performance monitoring dashboards tracking model startup times, KV-cache hit rates, GPU utilization, and serving latency SLOs — surfacing operational signals used to identify the Pareto frontier for optimal model configuration and batching parameters."
+
+**Recommended action:** Apply
 
 ---
 *Run: 2026-06-29 (run 2) — 4 new matches*
