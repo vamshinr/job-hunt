@@ -38,4 +38,7 @@
 - Character.AI | Research Engineer, ML Systems (All Industry Levels) | San Francisco Bay Area, CA | 2026-07-01 | https://jobs.ashbyhq.com/character/3ab40c3d-63bd-4634-a126-5a3d25d3263b
 - Cohere | Staff Software Engineer, Inference Infrastructure | Remote (Global / North America) | 2026-07-01 | https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64
 - OpenAI | Software Engineer, Inference – Multi Modal | San Francisco, CA | 2026-07-01 | https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086
+- Anthropic | Performance Engineer, Inference Systems | San Francisco, CA | 2026-07-01 | https://job-boards.greenhouse.io/anthropic/jobs/5224564008
+- Fireworks AI | Software Engineer, AI Infrastructure | San Mateo, CA / New York, NY | 2026-07-01 | https://job-boards.greenhouse.io/fireworksai/jobs/4056271009
+- Cerebras Systems | Staff Inference ML Runtime Engineer | Sunnyvale, CA / Toronto, Canada | 2026-07-01 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7523546003
 <!-- SEEN-INDEX-END -->
