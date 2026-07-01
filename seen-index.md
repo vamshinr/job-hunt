@@ -35,4 +35,7 @@
 - Mozilla | Senior Machine Learning Engineer, AI Platform | Remote — United States | 2026-06-30 | https://job-boards.greenhouse.io/mozilla/jobs/7993046
 - AssemblyAI | Senior Software Engineer, Machine Learning | Remote — United States (EST) | 2026-06-30 | https://job-boards.greenhouse.io/assemblyai/jobs/4664764005
 - Microsoft AI (MAI) | Member of Technical Staff, LLM Inference | Redmond, WA / Sunnyvale, CA / New York, NY (hybrid) | 2026-06-30 | https://microsoft.ai/job/member-of-technical-staff-llm-inference-mai-superintelligence-team/
+- Character.AI | Research Engineer, ML Systems (All Industry Levels) | San Francisco Bay Area, CA | 2026-07-01 | https://jobs.ashbyhq.com/character/3ab40c3d-63bd-4634-a126-5a3d25d3263b
+- Cohere | Staff Software Engineer, Inference Infrastructure | Remote (Global / North America) | 2026-07-01 | https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64
+- OpenAI | Software Engineer, Inference – Multi Modal | San Francisco, CA | 2026-07-01 | https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086
 <!-- SEEN-INDEX-END -->
