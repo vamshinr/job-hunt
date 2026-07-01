@@ -41,4 +41,6 @@
 - Anthropic | Performance Engineer, Inference Systems | San Francisco, CA | 2026-07-01 | https://job-boards.greenhouse.io/anthropic/jobs/5224564008
 - Fireworks AI | Software Engineer, AI Infrastructure | San Mateo, CA / New York, NY | 2026-07-01 | https://job-boards.greenhouse.io/fireworksai/jobs/4056271009
 - Cerebras Systems | Staff Inference ML Runtime Engineer | Sunnyvale, CA / Toronto, Canada | 2026-07-01 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7523546003
+- xAI | Software Engineer, Applied Inference | Palo Alto / San Francisco, CA (Bay Area) | 2026-07-01 | https://job-boards.greenhouse.io/xai/jobs/4682428007
+- Sierra | Software Engineer, Infrastructure | San Francisco, CA | 2026-07-01 | https://jobs.ashbyhq.com/Sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88
 <!-- SEEN-INDEX-END -->
