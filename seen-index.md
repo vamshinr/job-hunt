@@ -43,4 +43,8 @@
 - Cerebras Systems | Staff Inference ML Runtime Engineer | Sunnyvale, CA / Toronto, Canada | 2026-07-01 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7523546003
 - xAI | Software Engineer, Applied Inference | Palo Alto / San Francisco, CA (Bay Area) | 2026-07-01 | https://job-boards.greenhouse.io/xai/jobs/4682428007
 - Sierra | Software Engineer, Infrastructure | San Francisco, CA | 2026-07-01 | https://jobs.ashbyhq.com/Sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88
+- Scale AI | Software Engineer, ML Infrastructure - Training Platform | San Francisco / New York / Seattle | 2026-07-02 | https://scale.com/careers/4439780005
+- Snowflake | Senior/Staff Software Engineer, Machine Learning Platform (Inference) | Menlo Park, CA | 2026-07-02 | https://careers.snowflake.com/us/en/job/SNCOUS669A4FEC05EB471B95F1B31883F6D6D5EXTERNALENUS34584833B4104C03BF0C0208BCF962C6/Senior-Staff-Software-Engineer-Machine-Learning-Platform-Inference
+- LlamaIndex | Open Source Engineer, Agents | Remote / San Francisco, CA | 2026-07-02 | https://www.llamaindex.ai/careers/open-source-engineer-agents
+- Cerebras Systems | ML Research Engineer (Inference) | Bengaluru, India | 2026-07-02 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7694185003
 <!-- SEEN-INDEX-END -->
