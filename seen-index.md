@@ -48,4 +48,9 @@
 - LlamaIndex | Open Source Engineer, Agents | Remote / San Francisco, CA | 2026-07-02 | https://www.llamaindex.ai/careers/open-source-engineer-agents
 - Cerebras Systems | ML Research Engineer (Inference) | Bengaluru, India | 2026-07-02 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7694185003
 - NVIDIA | Software Engineer, LLM Inference | Santa Clara, CA | 2026-07-02 | https://jobs.nvidia.com/careers/job/893391498128
+- Parasail | Senior Software Engineer, LLM Performance | San Francisco Bay Area, CA | 2026-07-02 | https://job-boards.greenhouse.io/parasail/jobs/5107617008
+- Parasail | AI Performance Engineer | San Francisco Bay Area, CA | 2026-07-02 | https://job-boards.greenhouse.io/parasail/jobs/4532939008
+- Reducto | LLM/ML Engineer (Inference) | San Francisco, CA | 2026-07-02 | https://reducto.ai/careers/3102d706-6f72-4739-9181-9b1daf2fbb36
+- Scale AI | ML Research Engineer, ML Systems | San Francisco / New York / Seattle | 2026-07-02 | https://job-boards.greenhouse.io/scaleai/jobs/4534631005
+- Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco / Seattle | 2026-07-02 | https://job-boards.greenhouse.io/anthropic/jobs/5107466008
 <!-- SEEN-INDEX-END -->
