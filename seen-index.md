@@ -47,4 +47,5 @@
 - Snowflake | Senior/Staff Software Engineer, Machine Learning Platform (Inference) | Menlo Park, CA | 2026-07-02 | https://careers.snowflake.com/us/en/job/SNCOUS669A4FEC05EB471B95F1B31883F6D6D5EXTERNALENUS34584833B4104C03BF0C0208BCF962C6/Senior-Staff-Software-Engineer-Machine-Learning-Platform-Inference
 - LlamaIndex | Open Source Engineer, Agents | Remote / San Francisco, CA | 2026-07-02 | https://www.llamaindex.ai/careers/open-source-engineer-agents
 - Cerebras Systems | ML Research Engineer (Inference) | Bengaluru, India | 2026-07-02 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7694185003
+- NVIDIA | Software Engineer, LLM Inference | Santa Clara, CA | 2026-07-02 | https://jobs.nvidia.com/careers/job/893391498128
 <!-- SEEN-INDEX-END -->
