@@ -61,4 +61,7 @@
 - DatologyAI | Software Engineer, Training & Inference Infrastructure | Redwood City, CA | 2026-07-03 | https://jobs.ashbyhq.com/DatologyAI/b5a42904-d7ec-45a4-96df-84a93c803518
 - Anthropic | Staff + Senior Software Engineer, Inference Deployment | San Francisco, CA | 2026-07-03 | https://job-boards.greenhouse.io/anthropic/jobs/5285557008
 - NVIDIA | Senior GenAI Algorithms Engineer, Model Optimizations for Inference | Santa Clara, CA | 2026-07-03 | https://jobs.nvidia.com/careers/job/893391328290
+- Glean | Software Engineer, AI Infrastructure | Mountain View, CA | 2026-07-03 | https://job-boards.greenhouse.io/gleanwork/jobs/4501783005
+- OpenAI | ML Infrastructure Generalist | San Francisco, CA | 2026-07-03 | https://jobs.ashbyhq.com/openai/329cb76f-9922-4a1a-b9bb-536877346212
+- Cohere | Full-Stack Software Engineer, Inference | Remote (Global / North America) | 2026-07-03 | https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 <!-- SEEN-INDEX-END -->
