@@ -53,4 +53,7 @@
 - Reducto | LLM/ML Engineer (Inference) | San Francisco, CA | 2026-07-02 | https://reducto.ai/careers/3102d706-6f72-4739-9181-9b1daf2fbb36
 - Scale AI | ML Research Engineer, ML Systems | San Francisco / New York / Seattle | 2026-07-02 | https://job-boards.greenhouse.io/scaleai/jobs/4534631005
 - Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco / Seattle | 2026-07-02 | https://job-boards.greenhouse.io/anthropic/jobs/5107466008
+- NVIDIA | AI Inference Performance Engineer | Santa Clara, CA (hybrid) | 2026-07-03 | https://jobs.nvidia.com/careers/job/893393953033
+- Together AI | Senior Machine Learning Engineer, Voice AI | San Francisco, CA | 2026-07-03 | https://job-boards.greenhouse.io/togetherai/jobs/5088817007
+- Modal | Member of Technical Staff, ML Performance | San Francisco, CA (in-person) | 2026-07-03 | https://jobs.ashbyhq.com/modal/af17da5e-23ca-4802-854d-5f0546e1ed32
 <!-- SEEN-INDEX-END -->
