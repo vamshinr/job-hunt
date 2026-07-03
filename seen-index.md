@@ -56,4 +56,9 @@
 - NVIDIA | AI Inference Performance Engineer | Santa Clara, CA (hybrid) | 2026-07-03 | https://jobs.nvidia.com/careers/job/893393953033
 - Together AI | Senior Machine Learning Engineer, Voice AI | San Francisco, CA | 2026-07-03 | https://job-boards.greenhouse.io/togetherai/jobs/5088817007
 - Modal | Member of Technical Staff, ML Performance | San Francisco, CA (in-person) | 2026-07-03 | https://jobs.ashbyhq.com/modal/af17da5e-23ca-4802-854d-5f0546e1ed32
+- NVIDIA | Senior Software Engineer, AI Inference Systems | Santa Clara, CA | 2026-07-03 | https://jobs.nvidia.com/careers/job/893392030572
+- NVIDIA | AI Computing Software Development Engineer, LLM Inference | Santa Clara, CA | 2026-07-03 | https://jobs.nvidia.com/careers/job/893395661783
+- DatologyAI | Software Engineer, Training & Inference Infrastructure | Redwood City, CA | 2026-07-03 | https://jobs.ashbyhq.com/DatologyAI/b5a42904-d7ec-45a4-96df-84a93c803518
+- Anthropic | Staff + Senior Software Engineer, Inference Deployment | San Francisco, CA | 2026-07-03 | https://job-boards.greenhouse.io/anthropic/jobs/5285557008
+- NVIDIA | Senior GenAI Algorithms Engineer, Model Optimizations for Inference | Santa Clara, CA | 2026-07-03 | https://jobs.nvidia.com/careers/job/893391328290
 <!-- SEEN-INDEX-END -->
