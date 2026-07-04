@@ -68,4 +68,8 @@
 - Netflix | Software Engineer, Model Serving Systems, Machine Learning Platform | USA Remote | 2026-07-04 | https://explore.jobs.netflix.net/careers/job/790300350307-software-engineer-5-model-serving-systems-ai-platform-usa-remote
 - Netflix | Software Engineer, LLM Evaluation & Infrastructure, Machine Learning Platform | USA Remote | 2026-07-04 | https://explore.jobs.netflix.net/careers/job/790312128382-software-engineer-l4-l5-llm-evaluation-infrastructure-machine-learning-platform-usa-remote
 - Scale AI | AI Infrastructure Engineer, Core Infrastructure | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/scaleai/jobs/4624681005
+- Cerebras Systems | Inference ML Engineer | Sunnyvale, CA / Toronto, Canada | 2026-07-04 | https://job-boards.greenhouse.io/cerebrassystems/jobs/6325060003
+- Glean | Machine Learning Engineer, LLM Evals & Observability | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/gleanwork/jobs/4669417005
+- Cohere | Senior Software Engineer, Agent Infrastructure | Remote (Global / North America) | 2026-07-04 | https://jobs.ashbyhq.com/cohere/70664617-84f6-4ee8-a4f6-4037ebfda9db
+- Anthropic | Software Engineer, ML Performance and Scaling | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/anthropic/jobs/4646237008
 <!-- SEEN-INDEX-END -->
