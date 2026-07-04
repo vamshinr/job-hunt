@@ -72,4 +72,6 @@
 - Glean | Machine Learning Engineer, LLM Evals & Observability | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/gleanwork/jobs/4669417005
 - Cohere | Senior Software Engineer, Agent Infrastructure | Remote (Global / North America) | 2026-07-04 | https://jobs.ashbyhq.com/cohere/70664617-84f6-4ee8-a4f6-4037ebfda9db
 - Anthropic | Software Engineer, ML Performance and Scaling | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/anthropic/jobs/4646237008
+- Together AI | Machine Learning, Platform Engineer | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/togetherai/jobs/4835988007
+- Vectara | Senior Machine Learning Engineer | Remote — United States | 2026-07-04 | https://job-boards.greenhouse.io/vectara/jobs/4897601008
 <!-- SEEN-INDEX-END -->
