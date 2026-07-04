@@ -64,4 +64,8 @@
 - Glean | Software Engineer, AI Infrastructure | Mountain View, CA | 2026-07-03 | https://job-boards.greenhouse.io/gleanwork/jobs/4501783005
 - OpenAI | ML Infrastructure Generalist | San Francisco, CA | 2026-07-03 | https://jobs.ashbyhq.com/openai/329cb76f-9922-4a1a-b9bb-536877346212
 - Cohere | Full-Stack Software Engineer, Inference | Remote (Global / North America) | 2026-07-03 | https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
+- Hugging Face | Machine Learning Engineer, Optimization Team | US Remote | 2026-07-04 | https://apply.workable.com/huggingface/j/B93E754F23/
+- Netflix | Software Engineer, Model Serving Systems, Machine Learning Platform | USA Remote | 2026-07-04 | https://explore.jobs.netflix.net/careers/job/790300350307-software-engineer-5-model-serving-systems-ai-platform-usa-remote
+- Netflix | Software Engineer, LLM Evaluation & Infrastructure, Machine Learning Platform | USA Remote | 2026-07-04 | https://explore.jobs.netflix.net/careers/job/790312128382-software-engineer-l4-l5-llm-evaluation-infrastructure-machine-learning-platform-usa-remote
+- Scale AI | AI Infrastructure Engineer, Core Infrastructure | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/scaleai/jobs/4624681005
 <!-- SEEN-INDEX-END -->
