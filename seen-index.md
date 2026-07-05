@@ -81,4 +81,9 @@
 - OpenAI | Software Engineer, Agent Infrastructure | San Francisco, CA | 2026-07-05 | https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a
 - Groq | Senior Staff Software Engineer, High Performance Inference System | Remote (geo-agnostic) | 2026-07-05 | https://job-boards.greenhouse.io/groq/jobs/6010437003
 - DoorDash | Senior Software Engineer, ML Infrastructure, Generative AI | San Francisco / Sunnyvale, CA | 2026-07-05 | https://job-boards.greenhouse.io/doordashusa/jobs/8044246
+- Anthropic | Senior Software Engineer, Inference | San Francisco, CA | 2026-07-05 | https://job-boards.greenhouse.io/anthropic/jobs/5152348008
+- Prime Intellect | Member of Technical Staff, Inference | Remote / San Francisco, CA | 2026-07-05 | https://jobs.ashbyhq.com/PrimeIntellect/abfa70f7-a6f1-44d2-a6c1-560e1c8477d4
+- Periodic Labs | LLM Inference Engineer | Menlo Park, CA | 2026-07-05 | https://jobs.ashbyhq.com/periodic-labs/ad93b9c5-e5e5-4840-a250-e6c332c8fb53
+- Character.AI | Machine Learning Infrastructure Engineer | San Francisco Bay Area, CA | 2026-07-05 | https://jobs.ashbyhq.com/character/13006848-6a69-4467-9274-5d54e80b965d
+- Databricks | Staff Software Engineer, GenAI Performance and Kernel | San Francisco, CA | 2026-07-05 | https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---genai-performance-and-kernel-8202700002
 <!-- SEEN-INDEX-END -->
