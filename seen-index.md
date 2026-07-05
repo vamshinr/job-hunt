@@ -78,4 +78,7 @@
 - Fireworks AI | Software Engineer, Cloud Infrastructure | San Mateo, CA | 2026-07-05 | https://job-boards.greenhouse.io/fireworksai/jobs/4005894009
 - Red Hat | Forward Deployed Engineer, AI Inference (vLLM and Kubernetes) | Remote — United States | 2026-07-05 | https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Forward-Deployed-Engineer--AI-Inference--vLLM-and-Kubernetes-_R-053737-1
 - Fireworks AI | Software Engineer, Multimedia | Redwood City, CA | 2026-07-05 | https://job-boards.greenhouse.io/fireworksai/jobs/4010818009
+- OpenAI | Software Engineer, Agent Infrastructure | San Francisco, CA | 2026-07-05 | https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a
+- Groq | Senior Staff Software Engineer, High Performance Inference System | Remote (geo-agnostic) | 2026-07-05 | https://job-boards.greenhouse.io/groq/jobs/6010437003
+- DoorDash | Senior Software Engineer, ML Infrastructure, Generative AI | San Francisco / Sunnyvale, CA | 2026-07-05 | https://job-boards.greenhouse.io/doordashusa/jobs/8044246
 <!-- SEEN-INDEX-END -->
