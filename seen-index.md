@@ -74,4 +74,8 @@
 - Anthropic | Software Engineer, ML Performance and Scaling | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/anthropic/jobs/4646237008
 - Together AI | Machine Learning, Platform Engineer | San Francisco, CA | 2026-07-04 | https://job-boards.greenhouse.io/togetherai/jobs/4835988007
 - Vectara | Senior Machine Learning Engineer | Remote — United States | 2026-07-04 | https://job-boards.greenhouse.io/vectara/jobs/4897601008
+- Scale AI | Machine Learning Engineer, LLM Infrastructure | San Francisco, CA | 2026-07-05 | https://boards.greenhouse.io/scaleai/jobs/4314834005
+- Fireworks AI | Software Engineer, Cloud Infrastructure | San Mateo, CA | 2026-07-05 | https://job-boards.greenhouse.io/fireworksai/jobs/4005894009
+- Red Hat | Forward Deployed Engineer, AI Inference (vLLM and Kubernetes) | Remote — United States | 2026-07-05 | https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Forward-Deployed-Engineer--AI-Inference--vLLM-and-Kubernetes-_R-053737-1
+- Fireworks AI | Software Engineer, Multimedia | Redwood City, CA | 2026-07-05 | https://job-boards.greenhouse.io/fireworksai/jobs/4010818009
 <!-- SEEN-INDEX-END -->
