@@ -89,4 +89,6 @@
 - Anthropic | Staff+ Software Engineer, Inference Runtime | Remote | 2026-07-06 | https://job-boards.greenhouse.io/anthropic/jobs/5257650008
 - CIQ | Senior/Principal AI Performance Engineer | Remote — United States | 2026-07-06 | https://job-boards.greenhouse.io/ciq/jobs/5209714008
 - BentoML | Inference Optimization Engineer | Remote (San Mateo, CA) | 2026-07-06 | https://jobs.ashbyhq.com/bentoml/025f5909-5306-409a-be7f-8f3c6029e55e
+- Cohere | Staff Research Engineer, Model Efficiency | Remote (North America) | 2026-07-06 | https://jobs.ashbyhq.com/cohere/c80f0fe9-3fc4-49fe-9f26-a7115350b1fc
+- Hebbia | Backend Engineer, Agents | New York City / San Francisco, CA | 2026-07-06 | https://job-boards.greenhouse.io/hebbia/jobs/4584766005
 <!-- SEEN-INDEX-END -->
