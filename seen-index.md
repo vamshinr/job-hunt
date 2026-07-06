@@ -91,4 +91,7 @@
 - BentoML | Inference Optimization Engineer | Remote (San Mateo, CA) | 2026-07-06 | https://jobs.ashbyhq.com/bentoml/025f5909-5306-409a-be7f-8f3c6029e55e
 - Cohere | Staff Research Engineer, Model Efficiency | Remote (North America) | 2026-07-06 | https://jobs.ashbyhq.com/cohere/c80f0fe9-3fc4-49fe-9f26-a7115350b1fc
 - Hebbia | Backend Engineer, Agents | New York City / San Francisco, CA | 2026-07-06 | https://job-boards.greenhouse.io/hebbia/jobs/4584766005
+- OpenAI | Software Engineer, Inference – AMD GPU Enablement | San Francisco, CA | 2026-07-06 | https://openai.com/careers/software-engineer-inference-amd-gpu-enablement-san-francisco/
+- OpenAI | Software Engineer, Inference - CUDA / Kernels | San Francisco, CA | 2026-07-06 | https://jobs.ashbyhq.com/openai/b3c55a1c-9ee0-471d-8775-560d7c2a7fe8
+- Cerebras Systems | Staff Software Engineer, Inference Cloud | Sunnyvale, CA | 2026-07-06 | https://job-boards.greenhouse.io/cerebrassystems/jobs/6053533003
 <!-- SEEN-INDEX-END -->
