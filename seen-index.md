@@ -86,4 +86,7 @@
 - Periodic Labs | LLM Inference Engineer | Menlo Park, CA | 2026-07-05 | https://jobs.ashbyhq.com/periodic-labs/ad93b9c5-e5e5-4840-a250-e6c332c8fb53
 - Character.AI | Machine Learning Infrastructure Engineer | San Francisco Bay Area, CA | 2026-07-05 | https://jobs.ashbyhq.com/character/13006848-6a69-4467-9274-5d54e80b965d
 - Databricks | Staff Software Engineer, GenAI Performance and Kernel | San Francisco, CA | 2026-07-05 | https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---genai-performance-and-kernel-8202700002
+- Anthropic | Staff+ Software Engineer, Inference Runtime | Remote | 2026-07-06 | https://job-boards.greenhouse.io/anthropic/jobs/5257650008
+- CIQ | Senior/Principal AI Performance Engineer | Remote — United States | 2026-07-06 | https://job-boards.greenhouse.io/ciq/jobs/5209714008
+- BentoML | Inference Optimization Engineer | Remote (San Mateo, CA) | 2026-07-06 | https://jobs.ashbyhq.com/bentoml/025f5909-5306-409a-be7f-8f3c6029e55e
 <!-- SEEN-INDEX-END -->
