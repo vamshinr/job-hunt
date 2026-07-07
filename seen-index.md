@@ -99,4 +99,8 @@
 - Runway | Member of Technical Staff, Inference | Remote — United States / North America | 2026-07-07 | https://job-boards.greenhouse.io/runwayml/jobs/4650230005
 - Databricks | Staff Software Engineer, GenAI Inference | San Francisco / Mountain View, CA | 2026-07-07 | https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---genai-inference-8202698002
 - Anthropic | ML Infrastructure Engineer, Safeguards | San Francisco, CA | 2026-07-07 | https://job-boards.greenhouse.io/anthropic/jobs/4778843008
+- Plaud | Machine Learning Engineer, Inference & Serving (Speech LLM) | San Francisco, CA | 2026-07-07 | https://jobs.ashbyhq.com/Plaud/01f7453c-0f8f-456a-9182-3fe539ffec41
+- TRM Labs | Senior or Staff ML Systems Engineer, LLMs | San Francisco, CA | 2026-07-07 | https://jobs.ashbyhq.com/trm-labs/66f5c31f-6c3f-42b4-b02e-4a1e183254cd
+- Red Hat | Machine Learning Engineer, Distributed vLLM | Remote — United States | 2026-07-07 | https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Machine-Learning-Engineer--Distributed-vLLM_R-057174-1
+- SingleStore | Software Engineer, AI Platforms | Remote — United States | 2026-07-07 | https://job-boards.greenhouse.io/singlestore/jobs/7573638
 <!-- SEEN-INDEX-END -->
