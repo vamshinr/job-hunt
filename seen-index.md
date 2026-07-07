@@ -94,4 +94,9 @@
 - OpenAI | Software Engineer, Inference – AMD GPU Enablement | San Francisco, CA | 2026-07-06 | https://openai.com/careers/software-engineer-inference-amd-gpu-enablement-san-francisco/
 - OpenAI | Software Engineer, Inference - CUDA / Kernels | San Francisco, CA | 2026-07-06 | https://jobs.ashbyhq.com/openai/b3c55a1c-9ee0-471d-8775-560d7c2a7fe8
 - Cerebras Systems | Staff Software Engineer, Inference Cloud | Sunnyvale, CA | 2026-07-06 | https://job-boards.greenhouse.io/cerebrassystems/jobs/6053533003
+- Inferact | Member of Technical Staff, Inference | San Francisco, CA (remote US for exceptional candidates) | 2026-07-07 | https://jobs.ashbyhq.com/inferact/9470565b-c62d-4de9-8b87-26d525ecec49
+- Inferact | Member of Technical Staff, Performance and Scale | San Francisco, CA (remote US for exceptional candidates) | 2026-07-07 | https://jobs.ashbyhq.com/inferact/7f934a1b-1845-4f25-8fe4-1def2b039f60
+- Runway | Member of Technical Staff, Inference | Remote — United States / North America | 2026-07-07 | https://job-boards.greenhouse.io/runwayml/jobs/4650230005
+- Databricks | Staff Software Engineer, GenAI Inference | San Francisco / Mountain View, CA | 2026-07-07 | https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---genai-inference-8202698002
+- Anthropic | ML Infrastructure Engineer, Safeguards | San Francisco, CA | 2026-07-07 | https://job-boards.greenhouse.io/anthropic/jobs/4778843008
 <!-- SEEN-INDEX-END -->
