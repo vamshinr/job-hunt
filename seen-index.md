@@ -103,4 +103,7 @@
 - TRM Labs | Senior or Staff ML Systems Engineer, LLMs | San Francisco, CA | 2026-07-07 | https://jobs.ashbyhq.com/trm-labs/66f5c31f-6c3f-42b4-b02e-4a1e183254cd
 - Red Hat | Machine Learning Engineer, Distributed vLLM | Remote — United States | 2026-07-07 | https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Machine-Learning-Engineer--Distributed-vLLM_R-057174-1
 - SingleStore | Software Engineer, AI Platforms | Remote — United States | 2026-07-07 | https://job-boards.greenhouse.io/singlestore/jobs/7573638
+- EnCharge AI | LLM Inference Deployment Engineer | Remote — United States | 2026-07-07 | https://job-boards.greenhouse.io/enchargeai36/jobs/4008070009
+- Abridge | ML Infrastructure Engineer (Staff/Senior) | Remote — United States | 2026-07-07 | https://jobs.ashbyhq.com/abridge/fc243092-d722-43e9-8dab-483b7dbacb1c
+- alphaXiv | LLM Inference Engineer | San Francisco, CA | 2026-07-07 | https://www.alphaxiv.org/careers/llm-inference
 <!-- SEEN-INDEX-END -->
