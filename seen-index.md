@@ -109,4 +109,9 @@
 - Together AI | Forward Deployed Engineer (Inference & Post-Training) | San Francisco, CA | 2026-07-08 | https://job-boards.greenhouse.io/togetherai/jobs/5131941007
 - Luma AI | Software Engineer, Inference | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/luma-ai/e6983d5d-2af9-4512-b27a-442648736363
 - Comfy | Senior/Staff ML Engineer, Performance Optimization | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/comfy-org/5cc4d0bc-97b0-463b-8466-3ec1d07f6ac0
+- Adaption Labs | Distributed Systems Engineer, Data & Inference Platform | San Francisco Bay Area, CA (Hybrid) | 2026-07-08 | https://jobs.ashbyhq.com/adaption/7324a28a-74aa-4515-a4c0-77adc5fccd87
+- Stack AV | Senior Software Engineer, Machine Learning Inference Platform | Pittsburgh, PA or Remote — United States | 2026-07-08 | https://job-boards.greenhouse.io/stackav/jobs/5164790007
+- NVIDIA | Senior Deep Learning Research Engineer, LLM Inference | Remote or Santa Clara, CA | 2026-07-08 | https://jobs.nvidia.com/careers/job/893395110104
+- Abridge | Machine Learning Infrastructure Engineer, Model Inference | Remote — United States | 2026-07-08 | https://jobs.ashbyhq.com/abridge/5d72f158-14aa-4fe7-9d30-38f4064a20fe
+- Together AI | Distributed ML Systems Engineer, Inference | San Francisco, CA | 2026-07-08 | https://job-boards.greenhouse.io/togetherai/jobs/4385547007
 <!-- SEEN-INDEX-END -->
