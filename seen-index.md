@@ -114,4 +114,7 @@
 - NVIDIA | Senior Deep Learning Research Engineer, LLM Inference | Remote or Santa Clara, CA | 2026-07-08 | https://jobs.nvidia.com/careers/job/893395110104
 - Abridge | Machine Learning Infrastructure Engineer, Model Inference | Remote — United States | 2026-07-08 | https://jobs.ashbyhq.com/abridge/5d72f158-14aa-4fe7-9d30-38f4064a20fe
 - Together AI | Distributed ML Systems Engineer, Inference | San Francisco, CA | 2026-07-08 | https://job-boards.greenhouse.io/togetherai/jobs/4385547007
+- Decagon | Staff Software Engineer, ML Infrastructure | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/decagon/14ce8c8d-8c58-456f-acd1-0e200f9bce20
+- Decagon | Senior Software Engineer, ML Infrastructure | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/decagon/63cd7634-f67f-4051-be45-515ed4f6a074
+- Fireworks AI | AI Field Engineer - Enterprise | Remote — United States / New York, NY / San Mateo, CA | 2026-07-08 | https://job-boards.greenhouse.io/fireworksai/jobs/4284317009
 <!-- SEEN-INDEX-END -->
