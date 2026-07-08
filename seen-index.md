@@ -106,4 +106,7 @@
 - EnCharge AI | LLM Inference Deployment Engineer | Remote — United States | 2026-07-07 | https://job-boards.greenhouse.io/enchargeai36/jobs/4008070009
 - Abridge | ML Infrastructure Engineer (Staff/Senior) | Remote — United States | 2026-07-07 | https://jobs.ashbyhq.com/abridge/fc243092-d722-43e9-8dab-483b7dbacb1c
 - alphaXiv | LLM Inference Engineer | San Francisco, CA | 2026-07-07 | https://www.alphaxiv.org/careers/llm-inference
+- Together AI | Forward Deployed Engineer (Inference & Post-Training) | San Francisco, CA | 2026-07-08 | https://job-boards.greenhouse.io/togetherai/jobs/5131941007
+- Luma AI | Software Engineer, Inference | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/luma-ai/e6983d5d-2af9-4512-b27a-442648736363
+- Comfy | Senior/Staff ML Engineer, Performance Optimization | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/comfy-org/5cc4d0bc-97b0-463b-8466-3ec1d07f6ac0
 <!-- SEEN-INDEX-END -->
