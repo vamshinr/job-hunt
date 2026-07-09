@@ -119,4 +119,7 @@
 - Fireworks AI | AI Field Engineer - Enterprise | Remote — United States / New York, NY / San Mateo, CA | 2026-07-08 | https://job-boards.greenhouse.io/fireworksai/jobs/4284317009
 - Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | 2026-07-09 | https://job-boards.greenhouse.io/anthropic/jobs/5215028008
 - NVIDIA | Senior Software Engineer, TensorRT-LLM | Santa Clara, CA | 2026-07-09 | https://jobs.nvidia.com/careers/job/893391897703
+- Anthropic | Staff Software Engineer, Inference | San Francisco, CA | 2026-07-09 | https://job-boards.greenhouse.io/anthropic/jobs/5150472008
+- ByteDance | Software Engineer - AI Inference Infrastructure | San Jose, CA | 2026-07-09 | https://joinbytedance.com/search/7553580852757661960
+- CrowdStrike | Senior AI Infrastructure Engineer, LLM/AI Platforms | USA (remote unconfirmed) | 2026-07-09 | https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Senior-AI-Infrastructure-Engineer--LLM-AI-Platforms_R29213
 <!-- SEEN-INDEX-END -->
