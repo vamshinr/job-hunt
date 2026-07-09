@@ -117,4 +117,6 @@
 - Decagon | Staff Software Engineer, ML Infrastructure | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/decagon/14ce8c8d-8c58-456f-acd1-0e200f9bce20
 - Decagon | Senior Software Engineer, ML Infrastructure | San Francisco, CA | 2026-07-08 | https://jobs.ashbyhq.com/decagon/63cd7634-f67f-4051-be45-515ed4f6a074
 - Fireworks AI | AI Field Engineer - Enterprise | Remote — United States / New York, NY / San Mateo, CA | 2026-07-08 | https://job-boards.greenhouse.io/fireworksai/jobs/4284317009
+- Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | 2026-07-09 | https://job-boards.greenhouse.io/anthropic/jobs/5215028008
+- NVIDIA | Senior Software Engineer, TensorRT-LLM | Santa Clara, CA | 2026-07-09 | https://jobs.nvidia.com/careers/job/893391897703
 <!-- SEEN-INDEX-END -->
