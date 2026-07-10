@@ -132,4 +132,7 @@
 - Thinking Machines Lab | Research Engineer, Infrastructure, Inference | San Francisco, CA | 2026-07-10 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013924008
 - Anthropic | Research Engineer, Knowledge Team | San Francisco, CA (Hybrid) | 2026-07-10 | https://job-boards.greenhouse.io/anthropic/jobs/4017331008
 - Perplexity AI | Member of Technical Staff (AI Inference Engineer) | San Francisco, CA | 2026-07-10 | https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592
+- Anthropic | Research Engineer, RL Engineering | San Francisco, CA | 2026-07-10 | https://job-boards.greenhouse.io/anthropic/jobs/4952051008
+- xAI | Member of Technical Staff, RL Inference | Palo Alto, CA | 2026-07-10 | https://job-boards.greenhouse.io/xai/jobs/5180223007
+- Hippocratic AI | Performance Engineer | Palo Alto, CA | 2026-07-10 | https://jobs.ashbyhq.com/Hippocratic%20AI/57d592ac-9c07-42bf-8729-b495dbe3a35d
 <!-- SEEN-INDEX-END -->
