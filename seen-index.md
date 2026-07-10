@@ -124,4 +124,6 @@
 - CrowdStrike | Senior AI Infrastructure Engineer, LLM/AI Platforms | USA (remote unconfirmed) | 2026-07-09 | https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Senior-AI-Infrastructure-Engineer--LLM-AI-Platforms_R29213
 - Featherless AI | Machine Learning Engineer, Inference Optimization | Remote (Global) | 2026-07-09 | https://jobs.ashbyhq.com/featherlessai/1762b15b-9c0b-4a20-a2b3-ed12c8222156
 - Stack AV | Staff Software Engineer, Machine Learning Inference Platform | Pittsburgh, PA or Remote — United States | 2026-07-09 | https://job-boards.greenhouse.io/stackav/jobs/5164801007
+- NVIDIA | Senior Performance Engineer - LLM Inference Frameworks | Santa Clara, CA | 2026-07-10 | https://jobs.nvidia.com/careers/job/893394752123
+- NVIDIA | Senior Software Engineer, AI Inference | Remote / Santa Clara, CA | 2026-07-10 | https://jobs.nvidia.com/careers/job/893394595213
 <!-- SEEN-INDEX-END -->
