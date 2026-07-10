@@ -126,4 +126,10 @@
 - Stack AV | Staff Software Engineer, Machine Learning Inference Platform | Pittsburgh, PA or Remote — United States | 2026-07-09 | https://job-boards.greenhouse.io/stackav/jobs/5164801007
 - NVIDIA | Senior Performance Engineer - LLM Inference Frameworks | Santa Clara, CA | 2026-07-10 | https://jobs.nvidia.com/careers/job/893394752123
 - NVIDIA | Senior Software Engineer, AI Inference | Remote / Santa Clara, CA | 2026-07-10 | https://jobs.nvidia.com/careers/job/893394595213
+- Inferact | Member of Technical Staff, Exceptional Generalist | Remote (Global) | 2026-07-10 | https://jobs.ashbyhq.com/inferact/f0d2619d-28e0-4b25-8d30-3ac555071abb
+- Anthropic | Performance Engineer, GPU | San Francisco, CA | 2026-07-10 | https://job-boards.greenhouse.io/anthropic/jobs/4926227008
+- Baseten | Software Engineer, GPU Kernels | Remote — United States | 2026-07-10 | https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1/
+- Thinking Machines Lab | Research Engineer, Infrastructure, Inference | San Francisco, CA | 2026-07-10 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013924008
+- Anthropic | Research Engineer, Knowledge Team | San Francisco, CA (Hybrid) | 2026-07-10 | https://job-boards.greenhouse.io/anthropic/jobs/4017331008
+- Perplexity AI | Member of Technical Staff (AI Inference Engineer) | San Francisco, CA | 2026-07-10 | https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592
 <!-- SEEN-INDEX-END -->
