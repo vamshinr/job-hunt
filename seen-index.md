@@ -135,4 +135,7 @@
 - Anthropic | Research Engineer, RL Engineering | San Francisco, CA | 2026-07-10 | https://job-boards.greenhouse.io/anthropic/jobs/4952051008
 - xAI | Member of Technical Staff, RL Inference | Palo Alto, CA | 2026-07-10 | https://job-boards.greenhouse.io/xai/jobs/5180223007
 - Hippocratic AI | Performance Engineer | Palo Alto, CA | 2026-07-10 | https://jobs.ashbyhq.com/Hippocratic%20AI/57d592ac-9c07-42bf-8729-b495dbe3a35d
+- AMD | Principal AI Inference Systems Engineer | Santa Clara, CA | 2026-07-11 | https://careers.amd.com/careers-home/jobs/80733
+- Tessera Labs | AI Agent Engineer | San Francisco / San Jose, CA | 2026-07-11 | https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792
+- Mistral AI | Research Engineer, Machine Learning | Palo Alto, CA | 2026-07-11 | https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339
 <!-- SEEN-INDEX-END -->
