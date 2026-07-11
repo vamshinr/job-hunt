@@ -138,4 +138,6 @@
 - AMD | Principal AI Inference Systems Engineer | Santa Clara, CA | 2026-07-11 | https://careers.amd.com/careers-home/jobs/80733
 - Tessera Labs | AI Agent Engineer | San Francisco / San Jose, CA | 2026-07-11 | https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792
 - Mistral AI | Research Engineer, Machine Learning | Palo Alto, CA | 2026-07-11 | https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339
+- AMD | Senior Software Development Engineer – LLM Inference Framework | Santa Clara, CA | 2026-07-11 | https://careers.amd.com/careers-home/jobs/76255
+- AMD | Senior Software Development Engineer – SGLang and Inference Stack | Santa Clara, CA | 2026-07-11 | https://careers.amd.com/careers-home/jobs/78342
 <!-- SEEN-INDEX-END -->
