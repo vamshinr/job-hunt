@@ -140,4 +140,7 @@
 - Mistral AI | Research Engineer, Machine Learning | Palo Alto, CA | 2026-07-11 | https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339
 - AMD | Senior Software Development Engineer – LLM Inference Framework | Santa Clara, CA | 2026-07-11 | https://careers.amd.com/careers-home/jobs/76255
 - AMD | Senior Software Development Engineer – SGLang and Inference Stack | Santa Clara, CA | 2026-07-11 | https://careers.amd.com/careers-home/jobs/78342
+- Harvey AI | Senior Software Engineer, AI Platform | San Francisco, CA | 2026-07-11 | https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd
+- Glean | Machine Learning Engineer, Enterprise Brain | Mountain View, CA | 2026-07-11 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005
+- Glean | Software Engineer, Compute Infrastructure | Mountain View, CA | 2026-07-11 | https://job-boards.greenhouse.io/gleanwork/jobs/4704106005
 <!-- SEEN-INDEX-END -->
