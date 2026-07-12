@@ -147,4 +147,7 @@
 - Deepgram | Backend Engineer, Inference Services | Remote — United States | 2026-07-12 | https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b
 - Amazon Web Services | Software Development Engineer, AI/ML, Inference Serving, AWS Neuron | Cupertino, CA | 2026-07-12 | https://www.amazon.jobs/en/jobs/3089270/software-development-engineer-ai-ml-inference-serving-aws-neuron
 - Simplismart | Machine Learning Engineer | Bengaluru, India | 2026-07-12 | https://wellfound.com/jobs/3650842-machine-learning-engineer
+- Cohere | Member of Technical Staff, Model Efficiency | Remote (Global / North America) | 2026-07-12 | https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa
+- Together AI | Machine Learning Engineer | San Francisco, CA | 2026-07-12 | https://job-boards.greenhouse.io/togetherai/jobs/4626694007
+- Modal | Member of Technical Staff, Inference Research | San Francisco / New York (in-person) | 2026-07-12 | https://jobs.ashbyhq.com/modal/73c97bbc-8e27-4c5d-b38b-90b3afdb0d93
 <!-- SEEN-INDEX-END -->
