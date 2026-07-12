@@ -143,4 +143,6 @@
 - Harvey AI | Senior Software Engineer, AI Platform | San Francisco, CA | 2026-07-11 | https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd
 - Glean | Machine Learning Engineer, Enterprise Brain | Mountain View, CA | 2026-07-11 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005
 - Glean | Software Engineer, Compute Infrastructure | Mountain View, CA | 2026-07-11 | https://job-boards.greenhouse.io/gleanwork/jobs/4704106005
+- Lambda | Applied ML Engineer, Inference | San Francisco, CA (Hybrid) | 2026-07-12 | https://jobs.ashbyhq.com/Lambda/65487341-da88-498f-bdaa-b76ac1090c2c
+- Deepgram | Backend Engineer, Inference Services | Remote — United States | 2026-07-12 | https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b
 <!-- SEEN-INDEX-END -->
