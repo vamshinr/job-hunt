@@ -150,4 +150,7 @@
 - Cohere | Member of Technical Staff, Model Efficiency | Remote (Global / North America) | 2026-07-12 | https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa
 - Together AI | Machine Learning Engineer | San Francisco, CA | 2026-07-12 | https://job-boards.greenhouse.io/togetherai/jobs/4626694007
 - Modal | Member of Technical Staff, Inference Research | San Francisco / New York (in-person) | 2026-07-12 | https://jobs.ashbyhq.com/modal/73c97bbc-8e27-4c5d-b38b-90b3afdb0d93
+- CentML | Senior Software Engineer, LLM Inference | Remote (US / Canada) | 2026-07-13 | https://builtin.com/job/senior-software-engineer-llm-inference/3014786
+- NVIDIA | Senior Software Engineer, Machine Learning Inference | Santa Clara, CA | 2026-07-13 | https://jobs.nvidia.com/careers/job/893394590276
+- Databricks | Senior Software Engineer, Model Serving | San Francisco, CA | 2026-07-13 | https://www.linkedin.com/jobs/view/senior-software-engineer-model-serving-at-databricks-4312233431
 <!-- SEEN-INDEX-END -->
