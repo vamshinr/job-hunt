@@ -153,4 +153,6 @@
 - CentML | Senior Software Engineer, LLM Inference | Remote (US / Canada) | 2026-07-13 | https://builtin.com/job/senior-software-engineer-llm-inference/3014786
 - NVIDIA | Senior Software Engineer, Machine Learning Inference | Santa Clara, CA | 2026-07-13 | https://jobs.nvidia.com/careers/job/893394590276
 - Databricks | Senior Software Engineer, Model Serving | San Francisco, CA | 2026-07-13 | https://www.linkedin.com/jobs/view/senior-software-engineer-model-serving-at-databricks-4312233431
+- Affogato AI | Machine Learning Engineer – LLMs & Agent Systems | Bengaluru, India | 2026-07-13 | https://www.ycombinator.com/companies/affogato-ai/jobs/Zqv7q4C-machine-learning-engineer-llms-agent-systems
+- Anthropic | Staff + Sr. Software Engineer, AI Reliability Engineering | San Francisco, CA / New York, NY / Seattle, WA | 2026-07-13 | https://job-boards.greenhouse.io/anthropic/jobs/5113224008
 <!-- SEEN-INDEX-END -->
