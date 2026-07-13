@@ -155,4 +155,7 @@
 - Databricks | Senior Software Engineer, Model Serving | San Francisco, CA | 2026-07-13 | https://www.linkedin.com/jobs/view/senior-software-engineer-model-serving-at-databricks-4312233431
 - Affogato AI | Machine Learning Engineer – LLMs & Agent Systems | Bengaluru, India | 2026-07-13 | https://www.ycombinator.com/companies/affogato-ai/jobs/Zqv7q4C-machine-learning-engineer-llms-agent-systems
 - Anthropic | Staff + Sr. Software Engineer, AI Reliability Engineering | San Francisco, CA / New York, NY / Seattle, WA | 2026-07-13 | https://job-boards.greenhouse.io/anthropic/jobs/5113224008
+- OpenAI | Software Engineer, GPU Inference | San Francisco, CA | 2026-07-13 | https://jobs.ashbyhq.com/openai/3c2d1178-777f-4613-a084-75a3d37cd1af
+- Fin (Intercom) | AI Infrastructure Engineer | San Francisco, CA | 2026-07-13 | https://job-boards.greenhouse.io/intercom/jobs/7820671
+- HeyGen | AI Infrastructure Engineer | Los Angeles / San Francisco / Palo Alto, CA / Toronto | 2026-07-13 | https://job-boards.greenhouse.io/heygen/jobs/4352226007
 <!-- SEEN-INDEX-END -->
