@@ -161,4 +161,7 @@
 - OpenAI | Software Engineer, Inference - TL | San Francisco, CA | 2026-07-14 | https://jobs.ashbyhq.com/openai/f9721010-9e48-4a53-8eb0-da49e136df4b
 - Baseten | Software Engineer - BIS (Baseten Inference Stack) | Remote — United States | 2026-07-14 | https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73
 - NVIDIA | Principal Software Engineer - AI Inference | Santa Clara, CA | 2026-07-14 | https://jobs.nvidia.com/careers/job/893393627506
+- fal | Software Engineer, Distributed Systems | San Francisco, CA | 2026-07-14 | https://job-boards.greenhouse.io/fal/jobs/4183627009
+- Tesla AI | AI Engineer, ML Inference Optimization | Palo Alto, CA | 2026-07-14 | https://www.tesla.com/careers/search/job/ai-engineer-ml-inference-optimization-tesla-ai-255357
+- General Motors | Senior AI/ML Capacity and Performance Engineer | Remote/Hybrid — Sunnyvale, CA | 2026-07-14 | https://search-careers.gm.com/en/jobs/jr-202607049/senior-ai-ml-capacity-and-performance-engineer/
 <!-- SEEN-INDEX-END -->
