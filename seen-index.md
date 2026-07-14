@@ -158,4 +158,7 @@
 - OpenAI | Software Engineer, GPU Inference | San Francisco, CA | 2026-07-13 | https://jobs.ashbyhq.com/openai/3c2d1178-777f-4613-a084-75a3d37cd1af
 - Fin (Intercom) | AI Infrastructure Engineer | San Francisco, CA | 2026-07-13 | https://job-boards.greenhouse.io/intercom/jobs/7820671
 - HeyGen | AI Infrastructure Engineer | Los Angeles / San Francisco / Palo Alto, CA / Toronto | 2026-07-13 | https://job-boards.greenhouse.io/heygen/jobs/4352226007
+- OpenAI | Software Engineer, Inference - TL | San Francisco, CA | 2026-07-14 | https://jobs.ashbyhq.com/openai/f9721010-9e48-4a53-8eb0-da49e136df4b
+- Baseten | Software Engineer - BIS (Baseten Inference Stack) | Remote — United States | 2026-07-14 | https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73
+- NVIDIA | Principal Software Engineer - AI Inference | Santa Clara, CA | 2026-07-14 | https://jobs.nvidia.com/careers/job/893393627506
 <!-- SEEN-INDEX-END -->
