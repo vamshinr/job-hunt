@@ -164,4 +164,8 @@
 - fal | Software Engineer, Distributed Systems | San Francisco, CA | 2026-07-14 | https://job-boards.greenhouse.io/fal/jobs/4183627009
 - Tesla AI | AI Engineer, ML Inference Optimization | Palo Alto, CA | 2026-07-14 | https://www.tesla.com/careers/search/job/ai-engineer-ml-inference-optimization-tesla-ai-255357
 - General Motors | Senior AI/ML Capacity and Performance Engineer | Remote/Hybrid — Sunnyvale, CA | 2026-07-14 | https://search-careers.gm.com/en/jobs/jr-202607049/senior-ai-ml-capacity-and-performance-engineer/
+- Lemurian Labs | Senior ML Performance Engineer | Santa Clara, CA | 2026-07-14 | https://jobs.lever.co/lemurian-labs/8120a779-502e-43ba-922d-b39801dbffca
+- NVIDIA | Senior Software Engineer, CUTLASS Performance | Santa Clara, CA | 2026-07-14 | https://jobs.nvidia.com/careers/job/893395379556
+- Replit | Senior Software Engineer, Agent Platform | Remote — Global | 2026-07-14 | https://jobs.ashbyhq.com/replit/b82de6f8-aebf-47b8-8bdc-39ea33807975
+- Glean | Software Engineer, Agents | Mountain View, CA | 2026-07-14 | https://job-boards.greenhouse.io/gleanwork/jobs/4712442005
 <!-- SEEN-INDEX-END -->
