@@ -170,4 +170,6 @@
 - Glean | Software Engineer, Agents | Mountain View, CA | 2026-07-14 | https://job-boards.greenhouse.io/gleanwork/jobs/4712442005
 - Syllo | Staff Software Engineer, AI Inference | Remote — United States | 2026-07-15 | https://job-boards.greenhouse.io/tlatechinc/jobs/4314674009
 - Snowflake | Software Engineer, Cortex AI Infrastructure | Menlo Park, CA | 2026-07-15 | https://careers.snowflake.com/us/en/job/SNCOUS71F91948F0AA47CC9E81B95B0749112AEXTERNALENUS2DB865D91B324F208091DE76C5D2B7F4/Software-Engineer-Cortex-AI-Infrastructure
+- Cartesia | Inference Engineer | San Francisco, CA | 2026-07-15 | https://jobs.ashbyhq.com/cartesia/bd9d6688-5486-470f-a273-20874a44f107
+- zaimler | MLE, ML Platform | San Mateo, CA | 2026-07-15 | https://jobs.lever.co/zaimler/c4932cc1-5fba-4a80-92e4-15c4d0f30f96
 <!-- SEEN-INDEX-END -->
