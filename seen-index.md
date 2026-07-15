@@ -172,4 +172,7 @@
 - Snowflake | Software Engineer, Cortex AI Infrastructure | Menlo Park, CA | 2026-07-15 | https://careers.snowflake.com/us/en/job/SNCOUS71F91948F0AA47CC9E81B95B0749112AEXTERNALENUS2DB865D91B324F208091DE76C5D2B7F4/Software-Engineer-Cortex-AI-Infrastructure
 - Cartesia | Inference Engineer | San Francisco, CA | 2026-07-15 | https://jobs.ashbyhq.com/cartesia/bd9d6688-5486-470f-a273-20874a44f107
 - zaimler | MLE, ML Platform | San Mateo, CA | 2026-07-15 | https://jobs.lever.co/zaimler/c4932cc1-5fba-4a80-92e4-15c4d0f30f96
+- Cerebras Systems | Staff Software Engineer, Inference Platform | Sunnyvale, CA | 2026-07-15 | https://jobs.ashbyhq.com/cerebras/ef15b7be-2fa3-4343-81aa-47ef65171af0
+- RadixArk | GPU Kernel Engineer (CUDA / Triton / Pallas) | Palo Alto, CA | 2026-07-15 | https://job-boards.greenhouse.io/radixark/jobs/4087888009
+- Sciforium | GPU Kernel Engineer | San Francisco, CA | 2026-07-15 | https://jobs.ashbyhq.com/Sciforium/dc02d540-3a2d-4a35-af27-bf443a19384e
 <!-- SEEN-INDEX-END -->
