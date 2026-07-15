@@ -168,4 +168,6 @@
 - NVIDIA | Senior Software Engineer, CUTLASS Performance | Santa Clara, CA | 2026-07-14 | https://jobs.nvidia.com/careers/job/893395379556
 - Replit | Senior Software Engineer, Agent Platform | Remote — Global | 2026-07-14 | https://jobs.ashbyhq.com/replit/b82de6f8-aebf-47b8-8bdc-39ea33807975
 - Glean | Software Engineer, Agents | Mountain View, CA | 2026-07-14 | https://job-boards.greenhouse.io/gleanwork/jobs/4712442005
+- Syllo | Staff Software Engineer, AI Inference | Remote — United States | 2026-07-15 | https://job-boards.greenhouse.io/tlatechinc/jobs/4314674009
+- Snowflake | Software Engineer, Cortex AI Infrastructure | Menlo Park, CA | 2026-07-15 | https://careers.snowflake.com/us/en/job/SNCOUS71F91948F0AA47CC9E81B95B0749112AEXTERNALENUS2DB865D91B324F208091DE76C5D2B7F4/Software-Engineer-Cortex-AI-Infrastructure
 <!-- SEEN-INDEX-END -->
