@@ -177,4 +177,6 @@
 - Sciforium | GPU Kernel Engineer | San Francisco, CA | 2026-07-15 | https://jobs.ashbyhq.com/Sciforium/dc02d540-3a2d-4a35-af27-bf443a19384e
 - NVIDIA | Senior Inference Engineer, AIConfigurator for Dynamo | Santa Clara, CA (hybrid) | 2026-07-16 | https://jobs.nvidia.com/careers/job/893395609117
 - NVIDIA | Senior System Software Engineer, Dynamo-Triton Inference Server | US Remote / Santa Clara, CA (hybrid) | 2026-07-16 | https://jobs.nvidia.com/careers/job/893393544854
+- Anyscale | Software Engineer, Ray Serve | San Francisco, CA | 2026-07-16 | https://jobs.ashbyhq.com/anyscale/c35b6d34-710d-4943-85b6-2073ff4eecd1
+- General Motors | Senior ML Infrastructure Engineer, Inference Platform | Remote / Mountain View, CA (Bay Area hybrid) | 2026-07-16 | https://search-careers.gm.com/en/jobs/jr-202604629/senior-ml-infrastructure-engineer-inference-platform/
 <!-- SEEN-INDEX-END -->
