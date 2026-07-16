@@ -179,4 +179,11 @@
 - NVIDIA | Senior System Software Engineer, Dynamo-Triton Inference Server | US Remote / Santa Clara, CA (hybrid) | 2026-07-16 | https://jobs.nvidia.com/careers/job/893393544854
 - Anyscale | Software Engineer, Ray Serve | San Francisco, CA | 2026-07-16 | https://jobs.ashbyhq.com/anyscale/c35b6d34-710d-4943-85b6-2073ff4eecd1
 - General Motors | Senior ML Infrastructure Engineer, Inference Platform | Remote / Mountain View, CA (Bay Area hybrid) | 2026-07-16 | https://search-careers.gm.com/en/jobs/jr-202604629/senior-ml-infrastructure-engineer-inference-platform/
+- OpenAI | Inference Technical Lead, Sora | San Francisco, CA | 2026-07-16 | https://openai.com/careers/inference-technical-lead-sora-san-francisco/
+- AMD | Senior GPU Inference Performance Engineer | Santa Clara, CA | 2026-07-16 | https://careers.amd.com/careers-home/jobs/87853
+- OpenAI | Software Engineer, Networking - Inference | San Francisco, CA | 2026-07-16 | https://openai.com/careers/software-engineer-networking-inference-san-francisco/
+- Sarvam AI | Performance Engineer, On-Device Inference | Bengaluru, India | 2026-07-16 | https://jobs.ashbyhq.com/sarvam/6ad226cd-9400-41b6-9c64-db35b7d24516
+- Palo Alto Networks | Principal ML Platform Engineer, Prisma AIRS | Santa Clara, CA | 2026-07-16 | https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-machine-learning-platform-engineer-prisma-airs/47263/81075658768
+- WEX Inc. | AI Infrastructure Engineer | Remote — United States | 2026-07-16 | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/AI-Infrastructure-Engineer_R16635
+- Paytm | Senior AI Engineer | Bengaluru / Noida, India | 2026-07-16 | https://jobs.lever.co/paytm/3e497903-1076-45f2-87f6-bf451644327a
 <!-- SEEN-INDEX-END -->
