@@ -188,4 +188,6 @@
 - Paytm | Senior AI Engineer | Bengaluru / Noida, India | 2026-07-16 | https://jobs.lever.co/paytm/3e497903-1076-45f2-87f6-bf451644327a
 - Databricks | Senior Backend Software Engineer, AI Platform | San Francisco, CA | 2026-07-17 | https://www.databricks.com/company/careers/engineering/senior-backend-software-engineer--ai-platform-8035969002
 - Amazon Web Services | Software Engineer II, AI/ML, AWS Neuron, LLM Inference | Cupertino, CA | 2026-07-17 | https://www.amazon.jobs/en/jobs/3067759/software-engineer-ii-ai-ml-aws-neuron-llm-inference-ai-ml-aws-neuron-model-inference
+- Capital One | Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform) | San Jose, CA | 2026-07-17 | https://www.capitalonecareers.com/job/san-jose/sr-lead-ai-engineer-inference-optimization-fm-hosting-ai-platform/1732/95939085792
+- MARA | Senior ML Engineer – ML/Inference | Remote — United States | 2026-07-17 | https://job-boards.greenhouse.io/mara/jobs/4640845005
 <!-- SEEN-INDEX-END -->
