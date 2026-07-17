@@ -186,4 +186,6 @@
 - Palo Alto Networks | Principal ML Platform Engineer, Prisma AIRS | Santa Clara, CA | 2026-07-16 | https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-machine-learning-platform-engineer-prisma-airs/47263/81075658768
 - WEX Inc. | AI Infrastructure Engineer | Remote — United States | 2026-07-16 | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/AI-Infrastructure-Engineer_R16635
 - Paytm | Senior AI Engineer | Bengaluru / Noida, India | 2026-07-16 | https://jobs.lever.co/paytm/3e497903-1076-45f2-87f6-bf451644327a
+- Databricks | Senior Backend Software Engineer, AI Platform | San Francisco, CA | 2026-07-17 | https://www.databricks.com/company/careers/engineering/senior-backend-software-engineer--ai-platform-8035969002
+- Amazon Web Services | Software Engineer II, AI/ML, AWS Neuron, LLM Inference | Cupertino, CA | 2026-07-17 | https://www.amazon.jobs/en/jobs/3067759/software-engineer-ii-ai-ml-aws-neuron-llm-inference-ai-ml-aws-neuron-model-inference
 <!-- SEEN-INDEX-END -->
