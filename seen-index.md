@@ -190,4 +190,7 @@
 - Amazon Web Services | Software Engineer II, AI/ML, AWS Neuron, LLM Inference | Cupertino, CA | 2026-07-17 | https://www.amazon.jobs/en/jobs/3067759/software-engineer-ii-ai-ml-aws-neuron-llm-inference-ai-ml-aws-neuron-model-inference
 - Capital One | Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform) | San Jose, CA | 2026-07-17 | https://www.capitalonecareers.com/job/san-jose/sr-lead-ai-engineer-inference-optimization-fm-hosting-ai-platform/1732/95939085792
 - MARA | Senior ML Engineer – ML/Inference | Remote — United States | 2026-07-17 | https://job-boards.greenhouse.io/mara/jobs/4640845005
+- Harvey | Software Engineer, Agents | San Francisco, CA | 2026-07-17 | https://www.harvey.ai/company/careers/2bd5b22c-d873-45da-a6d3-89944edb701c
+- Capital One | Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration) | San Jose, CA | 2026-07-17 | https://www.capitalonecareers.com/job/san-jose/lead-ai-engineer-gen-ai-platform-agentic-ai-and-llm-infrastructure-and-orchestration/1732/92978245968
+- Cerebras Systems | Senior Research Engineer, Inference ML | Sunnyvale, CA / Toronto, Canada | 2026-07-17 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7548497003
 <!-- SEEN-INDEX-END -->
