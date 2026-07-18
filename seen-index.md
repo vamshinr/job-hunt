@@ -196,4 +196,5 @@
 - NVIDIA | Senior DL Algorithms Engineer - Inference Performance | Santa Clara, CA | 2026-07-18 | https://jobs.nvidia.com/careers/job/893381763403
 - Glean | Software Engineer, Evals | Bengaluru, India | 2026-07-18 | https://job-boards.greenhouse.io/gleanwork/jobs/4712438005
 - Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, CA | 2026-07-18 | https://www.databricks.com/company/careers/engineering/staff-backend-software-engineer--ai-platform-8367022002
+- Perplexity AI | Member of Technical Staff (Software Engineer, Inference & Training Platform) | San Francisco, CA | 2026-07-18 | https://jobs.ashbyhq.com/Perplexity/adf189e8-5802-4077-aa1f-3668206aacbb
 <!-- SEEN-INDEX-END -->
