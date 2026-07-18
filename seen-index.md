@@ -197,4 +197,7 @@
 - Glean | Software Engineer, Evals | Bengaluru, India | 2026-07-18 | https://job-boards.greenhouse.io/gleanwork/jobs/4712438005
 - Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, CA | 2026-07-18 | https://www.databricks.com/company/careers/engineering/staff-backend-software-engineer--ai-platform-8367022002
 - Perplexity AI | Member of Technical Staff (Software Engineer, Inference & Training Platform) | San Francisco, CA | 2026-07-18 | https://jobs.ashbyhq.com/Perplexity/adf189e8-5802-4077-aa1f-3668206aacbb
+- Inflection AI | Member of Technical Staff, Platform Engineer (LLM Infrastructure & Backend Systems) | Palo Alto, CA | 2026-07-18 | https://job-boards.greenhouse.io/inflectionai/jobs/4578202006
+- General Motors | Senior ML Inference Engineer - Platform | Sunnyvale, CA (Bay Area hybrid) | 2026-07-18 | https://search-careers.gm.com/en/jobs/jr-202602823/senior-ml-inference-engineer-platform/
+- ASAPP | Lead AI/ML Engineer | Mountain View, CA (Bay Area hybrid) | 2026-07-18 | https://jobs.lever.co/asapp-2/5bc8eb75-4e7f-411d-8269-d6072c56e738
 <!-- SEEN-INDEX-END -->
