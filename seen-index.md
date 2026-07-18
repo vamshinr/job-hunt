@@ -193,4 +193,7 @@
 - Harvey | Software Engineer, Agents | San Francisco, CA | 2026-07-17 | https://www.harvey.ai/company/careers/2bd5b22c-d873-45da-a6d3-89944edb701c
 - Capital One | Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration) | San Jose, CA | 2026-07-17 | https://www.capitalonecareers.com/job/san-jose/lead-ai-engineer-gen-ai-platform-agentic-ai-and-llm-infrastructure-and-orchestration/1732/92978245968
 - Cerebras Systems | Senior Research Engineer, Inference ML | Sunnyvale, CA / Toronto, Canada | 2026-07-17 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7548497003
+- NVIDIA | Senior DL Algorithms Engineer - Inference Performance | Santa Clara, CA | 2026-07-18 | https://jobs.nvidia.com/careers/job/893381763403
+- Glean | Software Engineer, Evals | Bengaluru, India | 2026-07-18 | https://job-boards.greenhouse.io/gleanwork/jobs/4712438005
+- Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, CA | 2026-07-18 | https://www.databricks.com/company/careers/engineering/staff-backend-software-engineer--ai-platform-8367022002
 <!-- SEEN-INDEX-END -->
