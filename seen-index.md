@@ -203,4 +203,6 @@
 - Inception Labs | Member of Technical Staff, MLSys | San Mateo, CA (Bay Area) | 2026-07-19 | https://www.inceptionlabs.ai/careers
 - CoreWeave | Staff Software Engineer, Inference | Sunnyvale, CA / Bellevue, WA (hybrid) | 2026-07-19 | https://job-boards.greenhouse.io/coreweave/jobs/4442021006
 - LiveKit | Senior Software Engineer, Agent Platform | Remote — United States | 2026-07-19 | https://jobs.ashbyhq.com/livekit/f152aa9f-981c-4661-99d3-6837654b9c8b
+- Together AI | Research Engineer, Core ML | San Francisco, CA | 2026-07-19 | https://job-boards.greenhouse.io/togetherai/jobs/4384627007
+- Modal | Member of Technical Staff, Platform Engineering | San Francisco, CA (in-person) | 2026-07-19 | https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71
 <!-- SEEN-INDEX-END -->
