@@ -200,4 +200,7 @@
 - Inflection AI | Member of Technical Staff, Platform Engineer (LLM Infrastructure & Backend Systems) | Palo Alto, CA | 2026-07-18 | https://job-boards.greenhouse.io/inflectionai/jobs/4578202006
 - General Motors | Senior ML Inference Engineer - Platform | Sunnyvale, CA (Bay Area hybrid) | 2026-07-18 | https://search-careers.gm.com/en/jobs/jr-202602823/senior-ml-inference-engineer-platform/
 - ASAPP | Lead AI/ML Engineer | Mountain View, CA (Bay Area hybrid) | 2026-07-18 | https://jobs.lever.co/asapp-2/5bc8eb75-4e7f-411d-8269-d6072c56e738
+- Inception Labs | Member of Technical Staff, MLSys | San Mateo, CA (Bay Area) | 2026-07-19 | https://www.inceptionlabs.ai/careers
+- CoreWeave | Staff Software Engineer, Inference | Sunnyvale, CA / Bellevue, WA (hybrid) | 2026-07-19 | https://job-boards.greenhouse.io/coreweave/jobs/4442021006
+- LiveKit | Senior Software Engineer, Agent Platform | Remote — United States | 2026-07-19 | https://jobs.ashbyhq.com/livekit/f152aa9f-981c-4661-99d3-6837654b9c8b
 <!-- SEEN-INDEX-END -->
