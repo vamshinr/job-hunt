@@ -215,4 +215,6 @@
 - Lambda | Senior Software Engineer, Inference Backend | San Francisco, CA (Hybrid) | 2026-07-20 | https://jobs.ashbyhq.com/lambda/a519980f-3069-4d86-82f9-1164f8a1b41e
 - Harvey AI | Staff Applied AI Engineer | San Francisco, CA (Hybrid) | 2026-07-20 | https://jobs.ashbyhq.com/harvey/83b05880-4574-439f-beb4-d692a5ab6955
 - Fireworks AI | Applied Machine Learning Engineer | San Mateo, CA / New York, NY | 2026-07-20 | https://job-boards.greenhouse.io/fireworksai/jobs/4001304009
+- Poolside | Member of Engineering (Inference) | Remote — Global (North America / Europe) | 2026-07-20 | https://poolside.ai/careers/member-of-engineering-inference--7f52749a-92c3-4427-8e51-7fffd0e41b6d
+- NVIDIA | Senior Deep Learning Algorithm Engineer - Agentic LLM Inference | Remote or Santa Clara, CA | 2026-07-20 | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Deep-Learning-Algorithm-Engineer---Agentic-LLM-Inference_JR1985783-1
 <!-- SEEN-INDEX-END -->
