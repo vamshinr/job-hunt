@@ -210,4 +210,9 @@
 - Glean | Software Engineer, Agentic Runtime | Mountain View, CA | 2026-07-20 | https://job-boards.greenhouse.io/gleanwork/jobs/4616929005
 - dottxt | Member of Technical Staff, LLM Inference | Remote — Global | 2026-07-20 | https://jobs.ashbyhq.com/dottxt/35704819-6533-4929-806b-0365c5912ea5
 - Cerebras Systems | Performance Engineer - Inference | Sunnyvale, CA | 2026-07-20 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7599454003
+- Perplexity AI | AI Infra Engineer | San Francisco, CA | 2026-07-20 | https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e
+- Databricks | Staff Software Engineer, Foundational Model Serving | San Francisco, CA | 2026-07-20 | https://www.databricks.com/company/careers/engineering/staff-software-engineer-foundational-model-serving-8224683002
+- Lambda | Senior Software Engineer, Inference Backend | San Francisco, CA (Hybrid) | 2026-07-20 | https://jobs.ashbyhq.com/lambda/a519980f-3069-4d86-82f9-1164f8a1b41e
+- Harvey AI | Staff Applied AI Engineer | San Francisco, CA (Hybrid) | 2026-07-20 | https://jobs.ashbyhq.com/harvey/83b05880-4574-439f-beb4-d692a5ab6955
+- Fireworks AI | Applied Machine Learning Engineer | San Mateo, CA / New York, NY | 2026-07-20 | https://job-boards.greenhouse.io/fireworksai/jobs/4001304009
 <!-- SEEN-INDEX-END -->
