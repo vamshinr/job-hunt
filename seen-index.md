@@ -207,4 +207,7 @@
 - Modal | Member of Technical Staff, Platform Engineering | San Francisco, CA (in-person) | 2026-07-19 | https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71
 - Fireworks AI | MTS, Research Engineer | San Mateo, CA / New York, NY | 2026-07-19 | https://job-boards.greenhouse.io/fireworksai/jobs/4308305009
 - xAI | Backend Engineer - API | Palo Alto, CA | 2026-07-19 | https://job-boards.greenhouse.io/xai/jobs/5119111007
+- Glean | Software Engineer, Agentic Runtime | Mountain View, CA | 2026-07-20 | https://job-boards.greenhouse.io/gleanwork/jobs/4616929005
+- dottxt | Member of Technical Staff, LLM Inference | Remote — Global | 2026-07-20 | https://jobs.ashbyhq.com/dottxt/35704819-6533-4929-806b-0365c5912ea5
+- Cerebras Systems | Performance Engineer - Inference | Sunnyvale, CA | 2026-07-20 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7599454003
 <!-- SEEN-INDEX-END -->
