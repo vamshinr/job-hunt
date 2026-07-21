@@ -219,4 +219,7 @@
 - NVIDIA | Senior Deep Learning Algorithm Engineer - Agentic LLM Inference | Remote or Santa Clara, CA | 2026-07-20 | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Deep-Learning-Algorithm-Engineer---Agentic-LLM-Inference_JR1985783-1
 - Luminal | Cloud Inference Engineer | San Francisco, CA | 2026-07-21 | https://www.ycombinator.com/companies/luminal/jobs/J87U2SS-cloud-inference-engineer
 - Together AI | GPU Cluster Resource Scheduling and Optimization Engineer | San Francisco, CA | 2026-07-21 | https://job-boards.greenhouse.io/togetherai/jobs/4626504007
+- Together AI | Senior Backend Engineer, Inference Platform | San Francisco, CA | 2026-07-21 | https://job-boards.greenhouse.io/togetherai/jobs/4835763007
+- NVIDIA | Senior Compiler Engineer, AI Inference Performance | Santa Clara, CA | 2026-07-21 | https://jobs.nvidia.com/careers/job/893393639722
+- Toast | Staff Machine Learning Engineer | Remote — United States | 2026-07-21 | https://job-boards.greenhouse.io/toast/jobs/8031086
 <!-- SEEN-INDEX-END -->
