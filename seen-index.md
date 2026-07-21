@@ -217,4 +217,6 @@
 - Fireworks AI | Applied Machine Learning Engineer | San Mateo, CA / New York, NY | 2026-07-20 | https://job-boards.greenhouse.io/fireworksai/jobs/4001304009
 - Poolside | Member of Engineering (Inference) | Remote — Global (North America / Europe) | 2026-07-20 | https://poolside.ai/careers/member-of-engineering-inference--7f52749a-92c3-4427-8e51-7fffd0e41b6d
 - NVIDIA | Senior Deep Learning Algorithm Engineer - Agentic LLM Inference | Remote or Santa Clara, CA | 2026-07-20 | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Deep-Learning-Algorithm-Engineer---Agentic-LLM-Inference_JR1985783-1
+- Luminal | Cloud Inference Engineer | San Francisco, CA | 2026-07-21 | https://www.ycombinator.com/companies/luminal/jobs/J87U2SS-cloud-inference-engineer
+- Together AI | GPU Cluster Resource Scheduling and Optimization Engineer | San Francisco, CA | 2026-07-21 | https://job-boards.greenhouse.io/togetherai/jobs/4626504007
 <!-- SEEN-INDEX-END -->
