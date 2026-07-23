@@ -229,4 +229,7 @@
 - ByteDance (Seed Infra) | Research Engineer, LLM/VLM Inference Optimization | San Jose, CA | 2026-07-22 | https://joinbytedance.com/search/7626484869123836165
 - NVIDIA | Senior AI Inference Compiler Engineer | Santa Clara, CA / Remote | 2026-07-22 | https://jobs.nvidia.com/careers/job/893393654970
 - Gimlet Labs | Member of Technical Staff - ML Systems & Inference | San Francisco, CA | 2026-07-23 | https://jobs.ashbyhq.com/gimlet/8df5a18f-fb87-4c23-8b8b-efffdace4223
+- Etched | Inference Software Engineer | Cupertino, CA (San Francisco Bay Area) | 2026-07-23 | https://jobs.ashbyhq.com/Etched/0f9c0162-97c6-4be6-9cb7-d9afdcf0fa7c
+- Inferact | Member of Technical Staff, Kernel Engineering | San Francisco, CA (remote US for exceptional candidates) | 2026-07-23 | https://jobs.ashbyhq.com/inferact/384d9db8-c712-4caa-8091-444b4189e161
+- Clarity AI | Senior MLE Staff Engineer | Remote — United States | 2026-07-23 | https://job-boards.greenhouse.io/clarityai/jobs/4784776101
 <!-- SEEN-INDEX-END -->
