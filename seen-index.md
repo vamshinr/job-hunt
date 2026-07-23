@@ -228,4 +228,5 @@
 - Sully.ai | Senior AI Systems Engineer, LLM Inference & Infra Optimization | Remote — United States | 2026-07-22 | https://builtin.com/job/senior-ai-systems-engineer-llm-inference-infra-optimization/7080683
 - ByteDance (Seed Infra) | Research Engineer, LLM/VLM Inference Optimization | San Jose, CA | 2026-07-22 | https://joinbytedance.com/search/7626484869123836165
 - NVIDIA | Senior AI Inference Compiler Engineer | Santa Clara, CA / Remote | 2026-07-22 | https://jobs.nvidia.com/careers/job/893393654970
+- Gimlet Labs | Member of Technical Staff - ML Systems & Inference | San Francisco, CA | 2026-07-23 | https://jobs.ashbyhq.com/gimlet/8df5a18f-fb87-4c23-8b8b-efffdace4223
 <!-- SEEN-INDEX-END -->
