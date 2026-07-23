@@ -232,4 +232,6 @@
 - Etched | Inference Software Engineer | Cupertino, CA (San Francisco Bay Area) | 2026-07-23 | https://jobs.ashbyhq.com/Etched/0f9c0162-97c6-4be6-9cb7-d9afdcf0fa7c
 - Inferact | Member of Technical Staff, Kernel Engineering | San Francisco, CA (remote US for exceptional candidates) | 2026-07-23 | https://jobs.ashbyhq.com/inferact/384d9db8-c712-4caa-8091-444b4189e161
 - Clarity AI | Senior MLE Staff Engineer | Remote — United States | 2026-07-23 | https://job-boards.greenhouse.io/clarityai/jobs/4784776101
+- Databricks | Staff Software Engineer, Model Serving | San Francisco, CA | 2026-07-23 | https://www.databricks.com/company/careers/engineering/staff-software-engineer-model-serving--8211647002
+- Databricks | Senior Machine Learning Engineer, GenAI Platform | San Francisco, CA | 2026-07-23 | https://www.databricks.com/company/careers/engineering---pipeline/senior-machine-learning-engineer---genai-platform--6954585002
 <!-- SEEN-INDEX-END -->
