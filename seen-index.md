@@ -240,4 +240,7 @@
 - DoorDash | Software Engineer, ML Infrastructure - Generative AI | San Francisco, CA | 2026-07-24 | https://job-boards.greenhouse.io/doordashusa/jobs/8013249
 - Inferact | Member of Technical Staff, Cloud Orchestration | San Francisco, CA (remote US for exceptional) | 2026-07-24 | https://jobs.ashbyhq.com/Inferact/3fc0dd9b-14d5-4068-b597-7ec2014e07c1
 - Scale AI | Staff Infrastructure Software Engineer, Enterprise AI | San Francisco, CA / New York, NY | 2026-07-24 | https://job-boards.greenhouse.io/scaleai/jobs/4599700005
+- xAI | Member of Technical Staff, Inference | San Francisco, CA (Bay Area) | 2026-07-24 | https://job-boards.greenhouse.io/xai/jobs/4533894007
+- Magic.dev | Member of Technical Staff, Inference & RL Systems | San Francisco, CA | 2026-07-24 | https://jobs.ashbyhq.com/magic.dev/427ffdee-d4d1-4a39-a730-4a96435daa67
+- Cartesia | Software Engineer, Platform (India) | India (Remote) | 2026-07-24 | https://jobs.ashbyhq.com/cartesia/9d9c6cc0-218c-4fd4-a478-3e4b37de1d76
 <!-- SEEN-INDEX-END -->
