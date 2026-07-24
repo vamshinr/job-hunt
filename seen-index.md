@@ -236,4 +236,8 @@
 - Databricks | Senior Machine Learning Engineer, GenAI Platform | San Francisco, CA | 2026-07-23 | https://www.databricks.com/company/careers/engineering---pipeline/senior-machine-learning-engineer---genai-platform--6954585002
 - Anthropic | Senior/Staff Software Engineer, Inference (Scalability & Capability) | San Francisco, CA | 2026-07-24 | https://job-boards.greenhouse.io/anthropic/jobs/4609502008
 - Rhoda AI | Inference Infrastructure Engineer | Palo Alto, CA | 2026-07-24 | https://jobs.ashbyhq.com/rhoda-ai/5e09f46e-2c0f-4fab-aa1c-9d05e0096463
+- Anthropic | Software Engineer, Inference | San Francisco, CA | 2026-07-24 | https://boards.greenhouse.io/anthropic/jobs/4020356008
+- DoorDash | Software Engineer, ML Infrastructure - Generative AI | San Francisco, CA | 2026-07-24 | https://job-boards.greenhouse.io/doordashusa/jobs/8013249
+- Inferact | Member of Technical Staff, Cloud Orchestration | San Francisco, CA (remote US for exceptional) | 2026-07-24 | https://jobs.ashbyhq.com/Inferact/3fc0dd9b-14d5-4068-b597-7ec2014e07c1
+- Scale AI | Staff Infrastructure Software Engineer, Enterprise AI | San Francisco, CA / New York, NY | 2026-07-24 | https://job-boards.greenhouse.io/scaleai/jobs/4599700005
 <!-- SEEN-INDEX-END -->
