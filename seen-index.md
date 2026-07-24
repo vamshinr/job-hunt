@@ -234,4 +234,6 @@
 - Clarity AI | Senior MLE Staff Engineer | Remote — United States | 2026-07-23 | https://job-boards.greenhouse.io/clarityai/jobs/4784776101
 - Databricks | Staff Software Engineer, Model Serving | San Francisco, CA | 2026-07-23 | https://www.databricks.com/company/careers/engineering/staff-software-engineer-model-serving--8211647002
 - Databricks | Senior Machine Learning Engineer, GenAI Platform | San Francisco, CA | 2026-07-23 | https://www.databricks.com/company/careers/engineering---pipeline/senior-machine-learning-engineer---genai-platform--6954585002
+- Anthropic | Senior/Staff Software Engineer, Inference (Scalability & Capability) | San Francisco, CA | 2026-07-24 | https://job-boards.greenhouse.io/anthropic/jobs/4609502008
+- Rhoda AI | Inference Infrastructure Engineer | Palo Alto, CA | 2026-07-24 | https://jobs.ashbyhq.com/rhoda-ai/5e09f46e-2c0f-4fab-aa1c-9d05e0096463
 <!-- SEEN-INDEX-END -->
