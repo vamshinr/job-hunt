@@ -243,4 +243,6 @@
 - xAI | Member of Technical Staff, Inference | San Francisco, CA (Bay Area) | 2026-07-24 | https://job-boards.greenhouse.io/xai/jobs/4533894007
 - Magic.dev | Member of Technical Staff, Inference & RL Systems | San Francisco, CA | 2026-07-24 | https://jobs.ashbyhq.com/magic.dev/427ffdee-d4d1-4a39-a730-4a96435daa67
 - Cartesia | Software Engineer, Platform (India) | India (Remote) | 2026-07-24 | https://jobs.ashbyhq.com/cartesia/9d9c6cc0-218c-4fd4-a478-3e4b37de1d76
+- NVIDIA | Senior Software Engineer, AI Systems - vLLM and MLPerf | Santa Clara, CA | 2026-07-25 | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Systems---vLLM-and-MLPerf_JR2005630-1
+- Sarvam AI | Machine Learning Engineer - Inference | Bengaluru, India | 2026-07-25 | https://careers.kula.ai/sarvam-ai/2956
 <!-- SEEN-INDEX-END -->
