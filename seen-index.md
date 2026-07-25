@@ -246,4 +246,6 @@
 - NVIDIA | Senior Software Engineer, AI Systems - vLLM and MLPerf | Santa Clara, CA | 2026-07-25 | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Systems---vLLM-and-MLPerf_JR2005630-1
 - Sarvam AI | Machine Learning Engineer - Inference | Bengaluru, India | 2026-07-25 | https://careers.kula.ai/sarvam-ai/2956
 - Morph | Senior Machine Learning Infrastructure Engineer | San Francisco, CA | 2026-07-25 | https://www.ycombinator.com/companies/morph/jobs/kcGqxg3-senior-machine-learning-infrastructure-engineer
+- xAI | ML Infrastructure Engineer | Palo Alto, CA (Bay Area) | 2026-07-25 | https://job-boards.greenhouse.io/xai/jobs/5193037007
+- Speechify | AI Infrastructure Engineer | Remote — United States | 2026-07-25 | https://job-boards.greenhouse.io/speechify/jobs/5693770004
 <!-- SEEN-INDEX-END -->
