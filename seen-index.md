@@ -251,4 +251,5 @@
 - Black Forest Labs | Member of Technical Staff, Model Serving / API Backend | San Francisco, CA | 2026-07-26 | https://job-boards.greenhouse.io/blackforestlabs/jobs/4132239008
 - TRM Labs | Staff Software Engineer, Agent Engineering | Remote — United States | 2026-07-26 | https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57
 - Wafer AI | Member of Technical Staff | San Francisco, CA | 2026-07-26 | https://www.ycombinator.com/companies/wafer/jobs/umtIMMA-member-of-technical-staff
+- Anthropic | Senior Software Engineer, Compute ML Scheduling and Observability | San Francisco, CA | 2026-07-26 | https://job-boards.greenhouse.io/anthropic/jobs/4592228008
 <!-- SEEN-INDEX-END -->
