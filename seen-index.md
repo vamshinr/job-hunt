@@ -258,4 +258,7 @@
 - OpenAI | Software Engineer, Workload Enablement | San Francisco, CA | 2026-07-27 | https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b
 - Meshy AI | AI Infrastructure Engineer | San Francisco, CA | 2026-07-27 | https://jobs.ashbyhq.com/meshy/e82eca7a-4704-4af3-a84f-94c6fb5e1034
 - Ricursive Intelligence | LLM Infra Engineer | Palo Alto, CA | 2026-07-27 | https://jobs.ashbyhq.com/Ricursive%20Intelligence/b144fc36-2ff1-4915-af2c-b44f9c67d702
+- RadixArk | Member of Technical Staff, Inference | Palo Alto, CA | 2026-07-27 | https://job-boards.greenhouse.io/radixark/jobs/4134888009
+- Nebius | ML Engineer, Large Language Models (LLM Training & Inference Optimization) | Remote — United States | 2026-07-27 | https://job-boards.eu.greenhouse.io/nebius/jobs/4566091101
+- Databricks | Staff Software Engineer, Foundation Model Inference | San Francisco, CA | 2026-07-27 | https://job-boards.greenhouse.io/databricks/jobs/8649279002
 <!-- SEEN-INDEX-END -->
