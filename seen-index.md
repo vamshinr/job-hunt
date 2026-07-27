@@ -255,4 +255,7 @@
 - Anyscale | Software Engineer, Model Serving Infrastructure | San Francisco, CA | 2026-07-26 | https://jobs.ashbyhq.com/anyscale/667aa170-ac1e-48a3-b1d1-38c094665f4c
 - Groq | Sr. Staff Software Engineer, High Performance GPU Inference Systems | Palo Alto, CA | 2026-07-26 | https://job-boards.greenhouse.io/groq/jobs/6648615003
 - Cumulus Labs | Founding Engineer — ML Platforms Engineer | San Francisco, CA | 2026-07-27 | https://www.ycombinator.com/companies/cumulus-labs/jobs/xfY8M84-founding-engineer-ml-platforms-engineer
+- OpenAI | Software Engineer, Workload Enablement | San Francisco, CA | 2026-07-27 | https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b
+- Meshy AI | AI Infrastructure Engineer | San Francisco, CA | 2026-07-27 | https://jobs.ashbyhq.com/meshy/e82eca7a-4704-4af3-a84f-94c6fb5e1034
+- Ricursive Intelligence | LLM Infra Engineer | Palo Alto, CA | 2026-07-27 | https://jobs.ashbyhq.com/Ricursive%20Intelligence/b144fc36-2ff1-4915-af2c-b44f9c67d702
 <!-- SEEN-INDEX-END -->
