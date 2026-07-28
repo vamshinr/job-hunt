@@ -261,4 +261,5 @@
 - RadixArk | Member of Technical Staff, Inference | Palo Alto, CA | 2026-07-27 | https://job-boards.greenhouse.io/radixark/jobs/4134888009
 - Nebius | ML Engineer, Large Language Models (LLM Training & Inference Optimization) | Remote — United States | 2026-07-27 | https://job-boards.eu.greenhouse.io/nebius/jobs/4566091101
 - Databricks | Staff Software Engineer, Foundation Model Inference | San Francisco, CA | 2026-07-27 | https://job-boards.greenhouse.io/databricks/jobs/8649279002
+- OpenAI | TL, Research Inference | San Francisco, CA | 2026-07-28 | https://jobs.ashbyhq.com/openai/50aab80a-fa60-4fcc-882d-18ea76db5f11
 <!-- SEEN-INDEX-END -->
