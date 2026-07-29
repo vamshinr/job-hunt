@@ -263,4 +263,7 @@
 - Databricks | Staff Software Engineer, Foundation Model Inference | San Francisco, CA | 2026-07-27 | https://job-boards.greenhouse.io/databricks/jobs/8649279002
 - OpenAI | TL, Research Inference | San Francisco, CA | 2026-07-28 | https://jobs.ashbyhq.com/openai/50aab80a-fa60-4fcc-882d-18ea76db5f11
 - Reddit | Senior Machine Learning Engineer, ML Efficiency | Remote — United States | 2026-07-28 | https://job-boards.greenhouse.io/reddit/jobs/8084032
+- NVIDIA | Senior Compiler Engineer, AI Inference Platforms | Santa Clara, CA | 2026-07-29 | https://jobs.nvidia.com/careers/job/893393629102
+- Cerebras Systems | Member of Technical Staff (Software Engineer) | Sunnyvale, CA | 2026-07-29 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7728798003
+- Together AI | Senior Research Engineer, LLM Evaluation and Behavioral Analysis | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/togetherai/jobs/4998021007
 <!-- SEEN-INDEX-END -->
