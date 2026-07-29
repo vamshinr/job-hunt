@@ -268,4 +268,6 @@
 - Together AI | Senior Research Engineer, LLM Evaluation and Behavioral Analysis | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/togetherai/jobs/4998021007
 - Anyscale | Software Engineer, Platform Infrastructure (Foundations) | San Francisco / Palo Alto, CA | 2026-07-29 | https://jobs.ashbyhq.com/anyscale/316cf655-f3f1-40c2-823f-34f1fce54fdc
 - Scale AI | Senior AI Infrastructure Engineer, Training Platform | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/scaleai/jobs/4689751005
+- Anthropic | Research Engineer, Machine Learning (RL Velocity) | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/5198074008
+- Anthropic | Machine Learning Systems Engineer - Infrastructure & Runtime, Horizons | San Francisco, CA / New York City, NY | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/4613492008
 <!-- SEEN-INDEX-END -->
