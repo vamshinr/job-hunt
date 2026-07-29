@@ -266,4 +266,6 @@
 - NVIDIA | Senior Compiler Engineer, AI Inference Platforms | Santa Clara, CA | 2026-07-29 | https://jobs.nvidia.com/careers/job/893393629102
 - Cerebras Systems | Member of Technical Staff (Software Engineer) | Sunnyvale, CA | 2026-07-29 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7728798003
 - Together AI | Senior Research Engineer, LLM Evaluation and Behavioral Analysis | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/togetherai/jobs/4998021007
+- Anyscale | Software Engineer, Platform Infrastructure (Foundations) | San Francisco / Palo Alto, CA | 2026-07-29 | https://jobs.ashbyhq.com/anyscale/316cf655-f3f1-40c2-823f-34f1fce54fdc
+- Scale AI | Senior AI Infrastructure Engineer, Training Platform | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/scaleai/jobs/4689751005
 <!-- SEEN-INDEX-END -->
