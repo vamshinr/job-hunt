@@ -272,4 +272,7 @@
 - Anthropic | Machine Learning Systems Engineer - Infrastructure & Runtime, Horizons | San Francisco, CA / New York City, NY | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/4613492008
 - NVIDIA | Senior Deep Learning Software Engineer, LLM Performance | Remote — United States / Santa Clara, CA | 2026-07-30 | https://jobs.nvidia.com/careers/job/893394697238
 - Saviynt | AI Platform Engineer, Training and Inference | Remote — United States | 2026-07-30 | https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28
+- Glean | Software Engineer, Platform | Mountain View, CA (Bay Area) | 2026-07-30 | https://job-boards.greenhouse.io/gleanwork/jobs/4636739005
+- Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area, CA | 2026-07-30 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005
+- LangChain | Senior Backend Software Engineer, Observability & Evals Platform (LangSmith) | San Francisco, CA / Remote — United States | 2026-07-30 | https://jobs.ashbyhq.com/langchain/f07c1416-f126-4925-8606-5dd7c5a90f6f
 <!-- SEEN-INDEX-END -->
