@@ -271,4 +271,5 @@
 - Anthropic | Research Engineer, Machine Learning (RL Velocity) | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/5198074008
 - Anthropic | Machine Learning Systems Engineer - Infrastructure & Runtime, Horizons | San Francisco, CA / New York City, NY | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/4613492008
 - NVIDIA | Senior Deep Learning Software Engineer, LLM Performance | Remote — United States / Santa Clara, CA | 2026-07-30 | https://jobs.nvidia.com/careers/job/893394697238
+- Saviynt | AI Platform Engineer, Training and Inference | Remote — United States | 2026-07-30 | https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28
 <!-- SEEN-INDEX-END -->
