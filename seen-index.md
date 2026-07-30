@@ -270,4 +270,5 @@
 - Scale AI | Senior AI Infrastructure Engineer, Training Platform | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/scaleai/jobs/4689751005
 - Anthropic | Research Engineer, Machine Learning (RL Velocity) | San Francisco, CA | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/5198074008
 - Anthropic | Machine Learning Systems Engineer - Infrastructure & Runtime, Horizons | San Francisco, CA / New York City, NY | 2026-07-29 | https://job-boards.greenhouse.io/anthropic/jobs/4613492008
+- NVIDIA | Senior Deep Learning Software Engineer, LLM Performance | Remote — United States / Santa Clara, CA | 2026-07-30 | https://jobs.nvidia.com/careers/job/893394697238
 <!-- SEEN-INDEX-END -->
