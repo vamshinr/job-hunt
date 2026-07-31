@@ -279,4 +279,5 @@
 - ChipAgents | ML Systems Engineer | Santa Clara, CA (SF Bay Area) | 2026-07-31 | https://jobs.ashbyhq.com/alpha-design-ai-inc/be7a52ad-e2cc-49d6-a418-0504cf59ef79
 - LinkedIn | Sr. Software Engineer, AI Infrastructure | Sunnyvale, CA (Bay Area hybrid) | 2026-07-31 | https://jobs.smartrecruiters.com/LinkedIn3/744000138737449-sr-software-engineer-ai-infrastructure
 - DigitalOcean | Senior Engineer II, AI Inference Engine Systems | Remote — United States / San Francisco, CA / Seattle, WA | 2026-07-31 | https://www.linkedin.com/jobs/view/senior-engineer-ii-ai-inference-engine-systems-at-digitalocean-4386928443
+- Periodic Labs | ML Systems Engineer | Menlo Park, CA | 2026-07-31 | https://jobs.ashbyhq.com/periodic-labs/d9180228-c113-4d5f-a4d6-793994e50b7c
 <!-- SEEN-INDEX-END -->
