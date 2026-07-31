@@ -275,4 +275,6 @@
 - Glean | Software Engineer, Platform | Mountain View, CA (Bay Area) | 2026-07-30 | https://job-boards.greenhouse.io/gleanwork/jobs/4636739005
 - Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area, CA | 2026-07-30 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005
 - LangChain | Senior Backend Software Engineer, Observability & Evals Platform (LangSmith) | San Francisco, CA / Remote — United States | 2026-07-30 | https://jobs.ashbyhq.com/langchain/f07c1416-f126-4925-8606-5dd7c5a90f6f
+- Cloudflare | Senior Machine Learning Engineer (Workers AI) | Austin, TX / New York, NY (hybrid/remote) | 2026-07-31 | https://job-boards.greenhouse.io/cloudflare/jobs/8043974
+- ChipAgents | ML Systems Engineer | Santa Clara, CA (SF Bay Area) | 2026-07-31 | https://jobs.ashbyhq.com/alpha-design-ai-inc/be7a52ad-e2cc-49d6-a418-0504cf59ef79
 <!-- SEEN-INDEX-END -->
