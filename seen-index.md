@@ -282,4 +282,8 @@
 - Periodic Labs | ML Systems Engineer | Menlo Park, CA | 2026-07-31 | https://jobs.ashbyhq.com/periodic-labs/d9180228-c113-4d5f-a4d6-793994e50b7c
 - CoreWeave | Senior Software Engineer II, Inference | Sunnyvale, CA / Bellevue, WA (hybrid, Bay Area) | 2026-08-01 | https://www.linkedin.com/jobs/view/senior-software-engineer-ii-inference-at-coreweave-4347071557
 - BetterHelp | Machine Learning Engineer | Remote — United States | 2026-08-01 | https://job-boards.greenhouse.io/betterhelpcom/jobs/5254449008
+- Cohere | Audio Inference Engineer, Model Efficiency | Remote — Global | 2026-08-01 | https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1
+- Sciforium | Senior AI Serving Engineer, Backend | San Francisco, CA | 2026-08-01 | https://jobs.ashbyhq.com/Sciforium/12b31a2e-efd4-43b3-b610-64d37b4cade3
+- Scale AI | AI Infrastructure Engineer, Sandbox Platform | San Francisco / New York / Seattle | 2026-08-01 | https://job-boards.greenhouse.io/scaleai/jobs/4716453005
+- Replit | Staff Software Engineer, Agent Platform | Remote — United States | 2026-08-01 | https://jobs.ashbyhq.com/replit/43bd4e63-22c3-4b80-abd2-67eaf2c89790
 <!-- SEEN-INDEX-END -->
