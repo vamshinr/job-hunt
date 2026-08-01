@@ -281,4 +281,5 @@
 - DigitalOcean | Senior Engineer II, AI Inference Engine Systems | Remote — United States / San Francisco, CA / Seattle, WA | 2026-07-31 | https://www.linkedin.com/jobs/view/senior-engineer-ii-ai-inference-engine-systems-at-digitalocean-4386928443
 - Periodic Labs | ML Systems Engineer | Menlo Park, CA | 2026-07-31 | https://jobs.ashbyhq.com/periodic-labs/d9180228-c113-4d5f-a4d6-793994e50b7c
 - CoreWeave | Senior Software Engineer II, Inference | Sunnyvale, CA / Bellevue, WA (hybrid, Bay Area) | 2026-08-01 | https://www.linkedin.com/jobs/view/senior-software-engineer-ii-inference-at-coreweave-4347071557
+- BetterHelp | Machine Learning Engineer | Remote — United States | 2026-08-01 | https://job-boards.greenhouse.io/betterhelpcom/jobs/5254449008
 <!-- SEEN-INDEX-END -->
