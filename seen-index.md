@@ -286,4 +286,7 @@
 - Sciforium | Senior AI Serving Engineer, Backend | San Francisco, CA | 2026-08-01 | https://jobs.ashbyhq.com/Sciforium/12b31a2e-efd4-43b3-b610-64d37b4cade3
 - Scale AI | AI Infrastructure Engineer, Sandbox Platform | San Francisco / New York / Seattle | 2026-08-01 | https://job-boards.greenhouse.io/scaleai/jobs/4716453005
 - Replit | Staff Software Engineer, Agent Platform | Remote — United States | 2026-08-01 | https://jobs.ashbyhq.com/replit/43bd4e63-22c3-4b80-abd2-67eaf2c89790
+- Perplexity AI | AI Software Engineer - Agent Platform | San Francisco / New York / Palo Alto, CA | 2026-08-02 | https://jobs.ashbyhq.com/Perplexity/15ed640d-40d4-4905-9c85-13dffa4e0b49
+- Inference (inference.net) | Senior Software Engineer, Model Performance | San Francisco, CA | 2026-08-02 | https://jobs.ashbyhq.com/inference/7a2963de-1b33-4dfc-b711-990faa93a6a5
+- Bloomberg | Senior Software Engineer, AI Inference | New York, NY | 2026-08-02 | https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-AI-Inference/18957
 <!-- SEEN-INDEX-END -->
