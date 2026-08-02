@@ -289,4 +289,7 @@
 - Perplexity AI | AI Software Engineer - Agent Platform | San Francisco / New York / Palo Alto, CA | 2026-08-02 | https://jobs.ashbyhq.com/Perplexity/15ed640d-40d4-4905-9c85-13dffa4e0b49
 - Inference (inference.net) | Senior Software Engineer, Model Performance | San Francisco, CA | 2026-08-02 | https://jobs.ashbyhq.com/inference/7a2963de-1b33-4dfc-b711-990faa93a6a5
 - Bloomberg | Senior Software Engineer, AI Inference | New York, NY | 2026-08-02 | https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-AI-Inference/18957
+- DevRev | Senior Member of Technical Staff: ML Systems and Infrastructure | Bengaluru, India | 2026-08-02 | https://job-boards.greenhouse.io/devrev/jobs/5678778004
+- Scale AI | Machine Learning Engineer, Platform | San Francisco / New York / Seattle | 2026-08-02 | https://job-boards.greenhouse.io/scaleai/jobs/4711544005
+- Scale AI | Software Engineer, Frontier AI Infrastructure | San Francisco / New York / DC / St. Louis | 2026-08-02 | https://job-boards.greenhouse.io/scaleai/jobs/4363623005
 <!-- SEEN-INDEX-END -->
