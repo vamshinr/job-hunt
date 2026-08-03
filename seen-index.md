@@ -295,4 +295,6 @@
 - Hebbia | Platform Engineer, Agents | New York City / San Francisco, CA | 2026-08-03 | https://www.linkedin.com/jobs/view/platform-engineer-agents-at-hebbia-4261680386
 - TRM Labs | AI Agent Engineer | San Francisco, CA | 2026-08-03 | https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391
 - TRM Labs | Senior or Staff AI Infrastructure Engineer | San Francisco, CA | 2026-08-03 | https://jobs.ashbyhq.com/trm-labs/92fb2ce1-437c-4bac-8263-dc0a4d858cd2
+- Lila Sciences | Staff/Principal DevOps Engineer, AI Inference | San Francisco, CA / Cambridge, MA | 2026-08-03 | https://job-boards.greenhouse.io/lilasciences/jobs/4248032009
+- Hebbia | Platform Engineer, Document Intelligence | San Francisco, CA / New York City, NY | 2026-08-03 | https://job-boards.greenhouse.io/hebbia/jobs/4584750005
 <!-- SEEN-INDEX-END -->
