@@ -292,4 +292,5 @@
 - DevRev | Senior Member of Technical Staff: ML Systems and Infrastructure | Bengaluru, India | 2026-08-02 | https://job-boards.greenhouse.io/devrev/jobs/5678778004
 - Scale AI | Machine Learning Engineer, Platform | San Francisco / New York / Seattle | 2026-08-02 | https://job-boards.greenhouse.io/scaleai/jobs/4711544005
 - Scale AI | Software Engineer, Frontier AI Infrastructure | San Francisco / New York / DC / St. Louis | 2026-08-02 | https://job-boards.greenhouse.io/scaleai/jobs/4363623005
+- Hebbia | Platform Engineer, Agents | New York City / San Francisco, CA | 2026-08-03 | https://www.linkedin.com/jobs/view/platform-engineer-agents-at-hebbia-4261680386
 <!-- SEEN-INDEX-END -->
