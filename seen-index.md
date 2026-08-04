@@ -297,4 +297,5 @@
 - TRM Labs | Senior or Staff AI Infrastructure Engineer | San Francisco, CA | 2026-08-03 | https://jobs.ashbyhq.com/trm-labs/92fb2ce1-437c-4bac-8263-dc0a4d858cd2
 - Lila Sciences | Staff/Principal DevOps Engineer, AI Inference | San Francisco, CA / Cambridge, MA | 2026-08-03 | https://job-boards.greenhouse.io/lilasciences/jobs/4248032009
 - Hebbia | Platform Engineer, Document Intelligence | San Francisco, CA / New York City, NY | 2026-08-03 | https://job-boards.greenhouse.io/hebbia/jobs/4584750005
+- Modular | Cloud Inference Engineer | Remote — United States / Canada (Los Altos, CA optional) | 2026-08-04 | https://job-boards.greenhouse.io/modularai/jobs/4632988005
 <!-- SEEN-INDEX-END -->
