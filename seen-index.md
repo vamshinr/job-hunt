@@ -302,4 +302,5 @@
 - Sesame AI | ML Model Serving Engineer | Bellevue, WA / New York, NY | 2026-08-05 | https://jobs.ashbyhq.com/sesame/35793528-2b5c-47b3-9422-eaced2b69f63
 - Rhoda AI | ML Inference Engineer | Palo Alto, CA | 2026-08-05 | https://jobs.ashbyhq.com/rhoda-ai/5fbe9c15-342b-4d46-b1bf-34d99d2f243c
 - LiteLLM | Founding Reliability & Performance Engineer | San Francisco, CA | 2026-08-05 | https://jobs.ashbyhq.com/litellm/62213705-30b3-4988-8461-55c975fc2eac
+- Hugging Face | Machine Learning Engineer, Fast Optimized Inference | EMEA Remote | 2026-08-05 | https://apply.workable.com/huggingface/j/3124FE3292/
 <!-- SEEN-INDEX-END -->
