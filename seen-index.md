@@ -306,4 +306,6 @@
 - NVIDIA | Senior Machine Learning Engineer, Quantized Inference | Santa Clara, CA | 2026-08-06 | https://jobs.nvidia.com/careers/job/893393661052
 - Reka AI | Member of Technical Staff, GPU Performance Engineer | Remote — United States / UK / Singapore | 2026-08-07 | https://jobs.ashbyhq.com/reka/6595a48b-8dfc-479d-ba2a-0bf9d188ec4d
 - Liquid AI | Member of Technical Staff, GPU Performance Engineer | Remote — United States / Global | 2026-08-07 | https://jobs.ashbyhq.com/liquid-ai/dfc3bae5-003f-4438-b51a-4cdfdb4199ba
+- Glean | Machine Learning Engineer, Assistant Quality | Mountain View, CA | 2026-08-07 | https://job-boards.greenhouse.io/gleanwork/jobs/4711484005
+- Cerebras Systems | Applied Machine Learning Research Scientist | Sunnyvale, CA / Toronto, Canada | 2026-08-07 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7655035003
 <!-- SEEN-INDEX-END -->
