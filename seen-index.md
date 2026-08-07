@@ -304,4 +304,6 @@
 - LiteLLM | Founding Reliability & Performance Engineer | San Francisco, CA | 2026-08-05 | https://jobs.ashbyhq.com/litellm/62213705-30b3-4988-8461-55c975fc2eac
 - Hugging Face | Machine Learning Engineer, Fast Optimized Inference | EMEA Remote | 2026-08-05 | https://apply.workable.com/huggingface/j/3124FE3292/
 - NVIDIA | Senior Machine Learning Engineer, Quantized Inference | Santa Clara, CA | 2026-08-06 | https://jobs.nvidia.com/careers/job/893393661052
+- Reka AI | Member of Technical Staff, GPU Performance Engineer | Remote — United States / UK / Singapore | 2026-08-07 | https://jobs.ashbyhq.com/reka/6595a48b-8dfc-479d-ba2a-0bf9d188ec4d
+- Liquid AI | Member of Technical Staff, GPU Performance Engineer | Remote — United States / Global | 2026-08-07 | https://jobs.ashbyhq.com/liquid-ai/dfc3bae5-003f-4438-b51a-4cdfdb4199ba
 <!-- SEEN-INDEX-END -->
