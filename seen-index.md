@@ -308,4 +308,6 @@
 - Liquid AI | Member of Technical Staff, GPU Performance Engineer | Remote — United States / Global | 2026-08-07 | https://jobs.ashbyhq.com/liquid-ai/dfc3bae5-003f-4438-b51a-4cdfdb4199ba
 - Glean | Machine Learning Engineer, Assistant Quality | Mountain View, CA | 2026-08-07 | https://job-boards.greenhouse.io/gleanwork/jobs/4711484005
 - Cerebras Systems | Applied Machine Learning Research Scientist | Sunnyvale, CA / Toronto, Canada | 2026-08-07 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7655035003
+- TikTok | AI Infra Engineer - Large Model Inference Systems (Multimodal/LLM/VLM) | San Jose, CA | 2026-08-07 | https://lifeattiktok.com/search/7651899647627807029
+- Physical Intelligence | ML Infrastructure Engineer | San Francisco, CA | 2026-08-07 | https://jobs.ashbyhq.com/physicalintelligence/70ebf855-16df-4879-a6a7-ee0161174acc
 <!-- SEEN-INDEX-END -->
