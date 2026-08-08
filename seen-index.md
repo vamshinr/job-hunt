@@ -312,4 +312,6 @@
 - Physical Intelligence | ML Infrastructure Engineer | San Francisco, CA | 2026-08-07 | https://jobs.ashbyhq.com/physicalintelligence/70ebf855-16df-4879-a6a7-ee0161174acc
 - Scale AI | AI Infrastructure Engineer, Serving Platform | San Francisco / New York / Seattle | 2026-08-08 | https://job-boards.greenhouse.io/scaleai/jobs/4717977005
 - DigitalOcean | Senior Engineer, Inference Data Plane | Remote — United States | 2026-08-08 | https://www.digitalocean.com/careers/position/apply?gh_jid=6794396
+- OpenAI | ChatGPT Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c
+- OpenAI | Workload Porting & Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a
 <!-- SEEN-INDEX-END -->
