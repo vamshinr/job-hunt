@@ -310,4 +310,6 @@
 - Cerebras Systems | Applied Machine Learning Research Scientist | Sunnyvale, CA / Toronto, Canada | 2026-08-07 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7655035003
 - TikTok | AI Infra Engineer - Large Model Inference Systems (Multimodal/LLM/VLM) | San Jose, CA | 2026-08-07 | https://lifeattiktok.com/search/7651899647627807029
 - Physical Intelligence | ML Infrastructure Engineer | San Francisco, CA | 2026-08-07 | https://jobs.ashbyhq.com/physicalintelligence/70ebf855-16df-4879-a6a7-ee0161174acc
+- Scale AI | AI Infrastructure Engineer, Serving Platform | San Francisco / New York / Seattle | 2026-08-08 | https://job-boards.greenhouse.io/scaleai/jobs/4717977005
+- DigitalOcean | Senior Engineer, Inference Data Plane | Remote — United States | 2026-08-08 | https://www.digitalocean.com/careers/position/apply?gh_jid=6794396
 <!-- SEEN-INDEX-END -->
