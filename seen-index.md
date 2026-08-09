@@ -315,4 +315,5 @@
 - OpenAI | ChatGPT Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c
 - OpenAI | Workload Porting & Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a
 - Together AI | Staff Software Engineer, Inference / Compute Infrastructure Engineering | San Francisco, CA | 2026-08-09 | https://job-boards.greenhouse.io/togetherai/jobs/5186628007
+- Cohere | Senior ML Systems Engineer, Frameworks & Tooling | Remote — Global | 2026-08-09 | https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f
 <!-- SEEN-INDEX-END -->
