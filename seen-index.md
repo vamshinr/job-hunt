@@ -314,4 +314,5 @@
 - DigitalOcean | Senior Engineer, Inference Data Plane | Remote — United States | 2026-08-08 | https://www.digitalocean.com/careers/position/apply?gh_jid=6794396
 - OpenAI | ChatGPT Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c
 - OpenAI | Workload Porting & Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a
+- Together AI | Staff Software Engineer, Inference / Compute Infrastructure Engineering | San Francisco, CA | 2026-08-09 | https://job-boards.greenhouse.io/togetherai/jobs/5186628007
 <!-- SEEN-INDEX-END -->
