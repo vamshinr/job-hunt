@@ -319,4 +319,5 @@
 - Reddit | Staff Machine Learning Engineer, ML Efficiency | Remote — United States | 2026-08-10 | https://job-boards.greenhouse.io/reddit/jobs/8018527
 - Andromeda | Performance Engineer, AI Infrastructure | Remote — United States | 2026-08-10 | https://jobs.ashbyhq.com/andromeda/5709ec62-5fa8-488c-b36d-5e27a5007e8f
 - Cerebras Systems | Principal Engineer, AI Inference Reliability | Remote / Sunnyvale, CA | 2026-08-10 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7511484003
+- Egen | Lead Machine Learning Engineer, Inference & Performance | Remote — United States | 2026-08-10 | https://jobs.lever.co/egen/33a647f3-76f1-4c8c-aa5d-eb0cd08f7be9
 <!-- SEEN-INDEX-END -->
