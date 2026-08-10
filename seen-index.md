@@ -316,4 +316,7 @@
 - OpenAI | Workload Porting & Performance Engineer | San Francisco, CA | 2026-08-08 | https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a
 - Together AI | Staff Software Engineer, Inference / Compute Infrastructure Engineering | San Francisco, CA | 2026-08-09 | https://job-boards.greenhouse.io/togetherai/jobs/5186628007
 - Cohere | Senior ML Systems Engineer, Frameworks & Tooling | Remote — Global | 2026-08-09 | https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f
+- Reddit | Staff Machine Learning Engineer, ML Efficiency | Remote — United States | 2026-08-10 | https://job-boards.greenhouse.io/reddit/jobs/8018527
+- Andromeda | Performance Engineer, AI Infrastructure | Remote — United States | 2026-08-10 | https://jobs.ashbyhq.com/andromeda/5709ec62-5fa8-488c-b36d-5e27a5007e8f
+- Cerebras Systems | Principal Engineer, AI Inference Reliability | Remote / Sunnyvale, CA | 2026-08-10 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7511484003
 <!-- SEEN-INDEX-END -->
