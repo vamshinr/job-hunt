@@ -323,4 +323,5 @@
 - Together AI | AI Infrastructure Systems Engineer | San Francisco, CA | 2026-08-10 | https://job-boards.greenhouse.io/togetherai/jobs/5138540007
 - Inception Labs | Member of Technical Staff, Kernels | San Mateo, CA | 2026-08-11 | https://www.inceptionlabs.ai/careers
 - Spellbrush | AI Infrastructure Engineer | San Francisco, CA | 2026-08-11 | https://jobs.ashbyhq.com/spellbrush/55633abd-f242-4e43-b390-4508d7bb65ea
+- DDN | Senior/Staff AI Engineer | Remote — United States | 2026-08-11 | https://careers-ddn.icims.com/jobs/5811/senior-staff-ai-engineer/job
 <!-- SEEN-INDEX-END -->
