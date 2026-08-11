@@ -322,4 +322,5 @@
 - Egen | Lead Machine Learning Engineer, Inference & Performance | Remote — United States | 2026-08-10 | https://jobs.lever.co/egen/33a647f3-76f1-4c8c-aa5d-eb0cd08f7be9
 - Together AI | AI Infrastructure Systems Engineer | San Francisco, CA | 2026-08-10 | https://job-boards.greenhouse.io/togetherai/jobs/5138540007
 - Inception Labs | Member of Technical Staff, Kernels | San Mateo, CA | 2026-08-11 | https://www.inceptionlabs.ai/careers
+- Spellbrush | AI Infrastructure Engineer | San Francisco, CA | 2026-08-11 | https://jobs.ashbyhq.com/spellbrush/55633abd-f242-4e43-b390-4508d7bb65ea
 <!-- SEEN-INDEX-END -->
