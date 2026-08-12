@@ -325,4 +325,5 @@
 - Spellbrush | AI Infrastructure Engineer | San Francisco, CA | 2026-08-11 | https://jobs.ashbyhq.com/spellbrush/55633abd-f242-4e43-b390-4508d7bb65ea
 - DDN | Senior/Staff AI Engineer | Remote — United States | 2026-08-11 | https://careers-ddn.icims.com/jobs/5811/senior-staff-ai-engineer/job
 - Roblox | Senior / Principal Inference Engineer, ML Platform | San Mateo, CA (Bay Area hybrid) | 2026-08-12 | https://careers.roblox.com/jobs/6683296
+- Intel | AI Infrastructure Engineer | Remote — United States | 2026-08-12 | https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Infrastructure-Engineer_JR0286233
 <!-- SEEN-INDEX-END -->
