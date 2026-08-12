@@ -326,4 +326,6 @@
 - DDN | Senior/Staff AI Engineer | Remote — United States | 2026-08-11 | https://careers-ddn.icims.com/jobs/5811/senior-staff-ai-engineer/job
 - Roblox | Senior / Principal Inference Engineer, ML Platform | San Mateo, CA (Bay Area hybrid) | 2026-08-12 | https://careers.roblox.com/jobs/6683296
 - Intel | AI Infrastructure Engineer | Remote — United States | 2026-08-12 | https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Infrastructure-Engineer_JR0286233
+- Nebius | Senior ML Engineer (Token Factory) | Remote — United States / Europe / UK | 2026-08-12 | https://job-boards.eu.greenhouse.io/nebius/jobs/4610269101
+- Inflection AI | Member of Technical Staff, Research Engineer / Research Scientist (Inference) | Palo Alto, CA | 2026-08-12 | https://job-boards.greenhouse.io/inflectionai/jobs/4388305006
 <!-- SEEN-INDEX-END -->
