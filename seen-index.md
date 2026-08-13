@@ -328,4 +328,5 @@
 - Intel | AI Infrastructure Engineer | Remote — United States | 2026-08-12 | https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Infrastructure-Engineer_JR0286233
 - Nebius | Senior ML Engineer (Token Factory) | Remote — United States / Europe / UK | 2026-08-12 | https://job-boards.eu.greenhouse.io/nebius/jobs/4610269101
 - Inflection AI | Member of Technical Staff, Research Engineer / Research Scientist (Inference) | Palo Alto, CA | 2026-08-12 | https://job-boards.greenhouse.io/inflectionai/jobs/4388305006
+- NVIDIA | Senior Applied AI Software Engineer, Distributed Inference Systems | Remote — United States | 2026-08-13 | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Applied-AI-Software-Engineer--Distributed-Inference-Systems_JR1998487-1
 <!-- SEEN-INDEX-END -->
