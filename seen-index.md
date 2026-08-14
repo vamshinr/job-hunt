@@ -332,4 +332,6 @@
 - Anyscale | Software Engineer, Infrastructure | San Francisco, CA | 2026-08-13 | https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82
 - Sumo Logic | AI Tech Lead - Staff Machine Learning Engineer | Remote — United States | 2026-08-13 | https://job-boards.greenhouse.io/sumologic/jobs/7306781
 - Coval | ML Infrastructure Engineer | San Francisco, CA | 2026-08-14 | https://www.ycombinator.com/companies/coval/jobs/U8fVGfh-ml-infrastructure-engineer
+- Bland AI | Senior Infrastructure Engineer | San Francisco, CA (Hybrid) | 2026-08-14 | https://jobs.ashbyhq.com/bland/a3a383e0-9c15-4777-a95b-536cb8c1174c
+- Virtue AI | Inference Engineer | San Francisco, CA / Remote | 2026-08-14 | https://jobs.ashbyhq.com/virtue-AI/fe1385c1-3aed-448c-8eb0-c81ff40853f0
 <!-- SEEN-INDEX-END -->
