@@ -338,4 +338,5 @@
 - Ambient.ai | Senior Software Engineer, AI Infrastructure - LVM Inference & Evaluation | San Francisco Bay Area, CA | 2026-08-15 | https://jobs.ashbyhq.com/ambient.ai/d1f836d3-e4b8-4239-8baf-4afba61d6619
 - OpenAI | Performance & Systems Engineer, Codex | San Francisco, CA | 2026-08-15 | https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500
 - Anthropic | Research Engineer, Discovery | San Francisco, CA | 2026-08-15 | https://job-boards.greenhouse.io/anthropic/jobs/4669581008
+- OpenAI | Software Engineer, ML Performance | San Francisco, CA | 2026-08-15 | https://openai.com/careers/software-engineer-ml-performance/
 <!-- SEEN-INDEX-END -->
