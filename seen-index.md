@@ -334,4 +334,6 @@
 - Coval | ML Infrastructure Engineer | San Francisco, CA | 2026-08-14 | https://www.ycombinator.com/companies/coval/jobs/U8fVGfh-ml-infrastructure-engineer
 - Bland AI | Senior Infrastructure Engineer | San Francisco, CA (Hybrid) | 2026-08-14 | https://jobs.ashbyhq.com/bland/a3a383e0-9c15-4777-a95b-536cb8c1174c
 - Virtue AI | Inference Engineer | San Francisco, CA / Remote | 2026-08-14 | https://jobs.ashbyhq.com/virtue-AI/fe1385c1-3aed-448c-8eb0-c81ff40853f0
+- Anthropic | Machine Learning Infrastructure Engineer, Safeguards Research | San Francisco, CA | 2026-08-15 | https://job-boards.greenhouse.io/anthropic/jobs/5364804008
+- Ambient.ai | Senior Software Engineer, AI Infrastructure - LVM Inference & Evaluation | San Francisco Bay Area, CA | 2026-08-15 | https://jobs.ashbyhq.com/ambient.ai/d1f836d3-e4b8-4239-8baf-4afba61d6619
 <!-- SEEN-INDEX-END -->
