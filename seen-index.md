@@ -344,4 +344,6 @@
 - MongoDB | Senior Software Engineer, Inference Platform | Palo Alto, CA (SF Bay Area — hybrid) | 2026-08-16 | https://boards.greenhouse.io/mongodb/jobs/7467701
 - Harvey | Staff Software Engineer, AI Platform | San Francisco, CA | 2026-08-16 | https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c
 - Together AI | AI Infrastructure System Engineer | Bengaluru, India | 2026-08-16 | https://job-boards.greenhouse.io/togetherai/jobs/5180155007
+- Cohere | Lead Member of Technical Staff, Inference Infrastructure | Remote — Global / North America | 2026-08-16 | https://jobs.ashbyhq.com/cohere/5806a521-8584-4bbe-b60a-49031b919251
+- XPENG | Staff Machine Learning Engineer, LLM Quantization & Deployment | Santa Clara, CA | 2026-08-16 | https://job-boards.greenhouse.io/xpengmotors/jobs/8710020002
 <!-- SEEN-INDEX-END -->
