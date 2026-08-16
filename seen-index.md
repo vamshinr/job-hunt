@@ -339,4 +339,7 @@
 - OpenAI | Performance & Systems Engineer, Codex | San Francisco, CA | 2026-08-15 | https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500
 - Anthropic | Research Engineer, Discovery | San Francisco, CA | 2026-08-15 | https://job-boards.greenhouse.io/anthropic/jobs/4669581008
 - OpenAI | Software Engineer, ML Performance | San Francisco, CA | 2026-08-15 | https://openai.com/careers/software-engineer-ml-performance/
+- Wizard AI | Senior Machine Learning Engineer, Inference Platform | Remote — United States | 2026-08-16 | https://boards.greenhouse.io/wizardcommerce/jobs/5020039004
+- GMI Cloud | Machine Learning Engineer, LLM Inference Optimization | San Francisco Bay Area, CA | 2026-08-16 | https://www.gmicloud.ai/en/company/career
+- MongoDB | Senior Software Engineer, Inference Platform | Palo Alto, CA (SF Bay Area — hybrid) | 2026-08-16 | https://boards.greenhouse.io/mongodb/jobs/7467701
 <!-- SEEN-INDEX-END -->
