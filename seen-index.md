@@ -348,4 +348,5 @@
 - XPENG | Staff Machine Learning Engineer, LLM Quantization & Deployment | Santa Clara, CA | 2026-08-16 | https://job-boards.greenhouse.io/xpengmotors/jobs/8710020002
 - DigitalOcean | Senior Engineer II, AI Inference Optimization | Remote — United States | 2026-08-17 | https://www.digitalocean.com/careers/open-roles
 - Morph | Member of Technical Staff | San Francisco, CA | 2026-08-17 | https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff
+- NVIDIA | Senior Deep Learning Software Engineer, Inference | Santa Clara, CA | 2026-08-17 | https://jobs.nvidia.com/careers/job/893396950854
 <!-- SEEN-INDEX-END -->
