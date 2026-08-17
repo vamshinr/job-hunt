@@ -332,4 +332,20 @@
 - Anyscale | Software Engineer, Infrastructure | San Francisco, CA | 2026-08-13 | https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82
 - Sumo Logic | AI Tech Lead - Staff Machine Learning Engineer | Remote — United States | 2026-08-13 | https://job-boards.greenhouse.io/sumologic/jobs/7306781
 - Coval | ML Infrastructure Engineer | San Francisco, CA | 2026-08-14 | https://www.ycombinator.com/companies/coval/jobs/U8fVGfh-ml-infrastructure-engineer
+- Bland AI | Senior Infrastructure Engineer | San Francisco, CA (Hybrid) | 2026-08-14 | https://jobs.ashbyhq.com/bland/a3a383e0-9c15-4777-a95b-536cb8c1174c
+- Virtue AI | Inference Engineer | San Francisco, CA / Remote | 2026-08-14 | https://jobs.ashbyhq.com/virtue-AI/fe1385c1-3aed-448c-8eb0-c81ff40853f0
+- Anthropic | Machine Learning Infrastructure Engineer, Safeguards Research | San Francisco, CA | 2026-08-15 | https://job-boards.greenhouse.io/anthropic/jobs/5364804008
+- Ambient.ai | Senior Software Engineer, AI Infrastructure - LVM Inference & Evaluation | San Francisco Bay Area, CA | 2026-08-15 | https://jobs.ashbyhq.com/ambient.ai/d1f836d3-e4b8-4239-8baf-4afba61d6619
+- OpenAI | Performance & Systems Engineer, Codex | San Francisco, CA | 2026-08-15 | https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500
+- Anthropic | Research Engineer, Discovery | San Francisco, CA | 2026-08-15 | https://job-boards.greenhouse.io/anthropic/jobs/4669581008
+- OpenAI | Software Engineer, ML Performance | San Francisco, CA | 2026-08-15 | https://openai.com/careers/software-engineer-ml-performance/
+- Wizard AI | Senior Machine Learning Engineer, Inference Platform | Remote — United States | 2026-08-16 | https://boards.greenhouse.io/wizardcommerce/jobs/5020039004
+- GMI Cloud | Machine Learning Engineer, LLM Inference Optimization | San Francisco Bay Area, CA | 2026-08-16 | https://www.gmicloud.ai/en/company/career
+- MongoDB | Senior Software Engineer, Inference Platform | Palo Alto, CA (SF Bay Area — hybrid) | 2026-08-16 | https://boards.greenhouse.io/mongodb/jobs/7467701
+- Harvey | Staff Software Engineer, AI Platform | San Francisco, CA | 2026-08-16 | https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c
+- Together AI | AI Infrastructure System Engineer | Bengaluru, India | 2026-08-16 | https://job-boards.greenhouse.io/togetherai/jobs/5180155007
+- Cohere | Lead Member of Technical Staff, Inference Infrastructure | Remote — Global / North America | 2026-08-16 | https://jobs.ashbyhq.com/cohere/5806a521-8584-4bbe-b60a-49031b919251
+- XPENG | Staff Machine Learning Engineer, LLM Quantization & Deployment | Santa Clara, CA | 2026-08-16 | https://job-boards.greenhouse.io/xpengmotors/jobs/8710020002
+- DigitalOcean | Senior Engineer II, AI Inference Optimization | Remote — United States | 2026-08-17 | https://www.digitalocean.com/careers/open-roles
+- Morph | Member of Technical Staff | San Francisco, CA | 2026-08-17 | https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff
 <!-- SEEN-INDEX-END -->
