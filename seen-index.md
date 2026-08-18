@@ -352,4 +352,5 @@
 - Reddit | Senior Machine Learning Infrastructure Engineer, Embedding Platform | Remote — United States | 2026-08-18 | https://job-boards.greenhouse.io/reddit/jobs/8127022
 - Cerebras Systems | ML Research Engineer (Inference) | Sunnyvale, CA | 2026-08-18 | https://jobs.ashbyhq.com/cerebras/de47a79d-5ee5-4ad4-8623-49101d6de4fb
 - Samsung Semiconductor | Senior Engineer, AI Systems | San Jose, CA | 2026-08-18 | https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7676365003
+- The Token Company | Member of Technical Staff, Infrastructure | San Francisco, CA | 2026-08-18 | https://jobs.ashbyhq.com/the-token-company/18371043-b36a-4934-b2d6-e7d5d4f655d5
 <!-- SEEN-INDEX-END -->
