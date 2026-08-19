@@ -355,4 +355,5 @@
 - The Token Company | Member of Technical Staff, Infrastructure | San Francisco, CA | 2026-08-18 | https://jobs.ashbyhq.com/the-token-company/18371043-b36a-4934-b2d6-e7d5d4f655d5
 - Fireworks AI | Member of Technical Staff, Software Engineer | San Mateo, CA | 2026-08-19 | https://job-boards.greenhouse.io/fireworksai/jobs/4284300009
 - Cerebras Systems | AI Engineer, Model Quality and Performance | Sunnyvale, CA | 2026-08-19 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003
+- NVIDIA | Senior AI-Native Systems Software Engineer, TensorRT | Santa Clara, CA | 2026-08-19 | https://jobs.nvidia.com/careers/job/893394771395
 <!-- SEEN-INDEX-END -->
