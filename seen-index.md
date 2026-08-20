@@ -356,4 +356,5 @@
 - Fireworks AI | Member of Technical Staff, Software Engineer | San Mateo, CA | 2026-08-19 | https://job-boards.greenhouse.io/fireworksai/jobs/4284300009
 - Cerebras Systems | AI Engineer, Model Quality and Performance | Sunnyvale, CA | 2026-08-19 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003
 - NVIDIA | Senior AI-Native Systems Software Engineer, TensorRT | Santa Clara, CA | 2026-08-19 | https://jobs.nvidia.com/careers/job/893394771395
+- Eloquent AI | AI Engineer, AIOps & Infrastructure | San Francisco, CA | 2026-08-20 | https://jobs.ashbyhq.com/eloquentai/550ca2ac-4420-48fb-a37f-e765053d7e7f
 <!-- SEEN-INDEX-END -->
