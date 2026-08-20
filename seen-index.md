@@ -357,4 +357,5 @@
 - Cerebras Systems | AI Engineer, Model Quality and Performance | Sunnyvale, CA | 2026-08-19 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003
 - NVIDIA | Senior AI-Native Systems Software Engineer, TensorRT | Santa Clara, CA | 2026-08-19 | https://jobs.nvidia.com/careers/job/893394771395
 - Eloquent AI | AI Engineer, AIOps & Infrastructure | San Francisco, CA | 2026-08-20 | https://jobs.ashbyhq.com/eloquentai/550ca2ac-4420-48fb-a37f-e765053d7e7f
+- WaveForms AI | Software Engineer, LLM Inference Engine and Product | San Francisco, CA | 2026-08-20 | https://jobs.ashbyhq.com/waveforms-ai/de656b50-4b67-4047-b1c7-5db28d9fecef
 <!-- SEEN-INDEX-END -->
