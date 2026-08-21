@@ -359,4 +359,6 @@
 - Eloquent AI | AI Engineer, AIOps & Infrastructure | San Francisco, CA | 2026-08-20 | https://jobs.ashbyhq.com/eloquentai/550ca2ac-4420-48fb-a37f-e765053d7e7f
 - WaveForms AI | Software Engineer, LLM Inference Engine and Product | San Francisco, CA | 2026-08-20 | https://jobs.ashbyhq.com/waveforms-ai/de656b50-4b67-4047-b1c7-5db28d9fecef
 - Sixtyfour | Senior Software Engineer, Infrastructure | San Francisco, CA | 2026-08-20 | https://www.ycombinator.com/companies/sixtyfour/jobs/mVKkiel-senior-software-engineer-infrastructure
+- Cerebras Systems | Sr. Member of Technical Staff | Sunnyvale, CA | 2026-08-21 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7728796003
+- Cartesia | ML Infrastructure Engineer | San Francisco, CA | 2026-08-21 | https://jobs.ashbyhq.com/cartesia/9c2e5899-2a5d-4d1b-9e6f-d51db888cba1
 <!-- SEEN-INDEX-END -->
