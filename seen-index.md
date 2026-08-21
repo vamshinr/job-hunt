@@ -362,4 +362,6 @@
 - Cerebras Systems | Sr. Member of Technical Staff | Sunnyvale, CA | 2026-08-21 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7728796003
 - Cartesia | ML Infrastructure Engineer | San Francisco, CA | 2026-08-21 | https://jobs.ashbyhq.com/cartesia/9c2e5899-2a5d-4d1b-9e6f-d51db888cba1
 - Akamai Technologies | Machine Learning Senior Software Engineer | Remote — United States | 2026-08-21 | https://jobs.akamai.com/en/sites/CX_1/jobs?keyword=Machine+Learning
+- Armada | AI Engineer | Remote — United States | 2026-08-21 | https://job-boards.greenhouse.io/armada/jobs/5383028008
+- Yutori | AI Engineer — LLM Infra | San Francisco, CA | 2026-08-21 | https://jobs.ashbyhq.com/yutori/21fb72ad-0350-4275-a320-e419d910a483
 <!-- SEEN-INDEX-END -->
