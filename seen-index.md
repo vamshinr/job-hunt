@@ -361,4 +361,5 @@
 - Sixtyfour | Senior Software Engineer, Infrastructure | San Francisco, CA | 2026-08-20 | https://www.ycombinator.com/companies/sixtyfour/jobs/mVKkiel-senior-software-engineer-infrastructure
 - Cerebras Systems | Sr. Member of Technical Staff | Sunnyvale, CA | 2026-08-21 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7728796003
 - Cartesia | ML Infrastructure Engineer | San Francisco, CA | 2026-08-21 | https://jobs.ashbyhq.com/cartesia/9c2e5899-2a5d-4d1b-9e6f-d51db888cba1
+- Akamai Technologies | Machine Learning Senior Software Engineer | Remote — United States | 2026-08-21 | https://jobs.akamai.com/en/sites/CX_1/jobs?keyword=Machine+Learning
 <!-- SEEN-INDEX-END -->
