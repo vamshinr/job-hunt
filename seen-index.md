@@ -364,4 +364,5 @@
 - Akamai Technologies | Machine Learning Senior Software Engineer | Remote — United States | 2026-08-21 | https://jobs.akamai.com/en/sites/CX_1/jobs?keyword=Machine+Learning
 - Armada | AI Engineer | Remote — United States | 2026-08-21 | https://job-boards.greenhouse.io/armada/jobs/5383028008
 - Yutori | AI Engineer — LLM Infra | San Francisco, CA | 2026-08-21 | https://jobs.ashbyhq.com/yutori/21fb72ad-0350-4275-a320-e419d910a483
+- Zensors | AI/ML Infrastructure Engineer | San Francisco, CA | 2026-08-22 | https://www.ycombinator.com/companies/zensors-inc/jobs/O6towJf-ai-ml-infrastructure-engineer
 <!-- SEEN-INDEX-END -->
