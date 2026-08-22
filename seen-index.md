@@ -365,4 +365,5 @@
 - Armada | AI Engineer | Remote — United States | 2026-08-21 | https://job-boards.greenhouse.io/armada/jobs/5383028008
 - Yutori | AI Engineer — LLM Infra | San Francisco, CA | 2026-08-21 | https://jobs.ashbyhq.com/yutori/21fb72ad-0350-4275-a320-e419d910a483
 - Zensors | AI/ML Infrastructure Engineer | San Francisco, CA | 2026-08-22 | https://www.ycombinator.com/companies/zensors-inc/jobs/O6towJf-ai-ml-infrastructure-engineer
+- SpaceX | Software Engineer, Inference (AI Data Engineering) | Palo Alto, CA | 2026-08-22 | https://job-boards.greenhouse.io/spacex/jobs/8717350002
 <!-- SEEN-INDEX-END -->
