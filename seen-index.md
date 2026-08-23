@@ -368,4 +368,5 @@
 - SpaceX | Software Engineer, Inference (AI Data Engineering) | Palo Alto, CA | 2026-08-22 | https://job-boards.greenhouse.io/spacex/jobs/8717350002
 - Inworld AI | Staff / Principal Machine Learning Engineer, Serving | Mountain View, CA (SF Bay Area — hybrid) | 2026-08-22 | https://job-boards.greenhouse.io/inworldai/jobs/4060397007
 - Zoom | AI Inference Engineer - Speech | San Jose, CA / Seattle, WA | 2026-08-23 | https://careers.zoom.us/jobs/ai-inference-engineer-speech-seattle-washington-united-states-san-jose-california
+- Domino Data Lab | Staff Software Engineer, MDLC | Remote — United States | 2026-08-23 | https://boards.greenhouse.io/dominodatalab/jobs/7356848
 <!-- SEEN-INDEX-END -->
