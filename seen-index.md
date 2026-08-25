@@ -373,4 +373,7 @@
 - General Motors | Staff ML Engineer, Inference Platform | Sunnyvale, CA (Bay Area hybrid) | 2026-08-24 | https://search-careers.gm.com/en/jobs/jr-202513651/staff-ml-engineer-inference-platform/
 - Cerebras Systems | Distributed Systems Engineer, AI Inference Platform | Sunnyvale, CA (Bay Area) | 2026-08-25 | https://job-boards.greenhouse.io/cerebrassystems/jobs/6557524003
 - Harvey | Senior Software Engineer, Core Infrastructure | San Francisco, CA | 2026-08-25 | https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f
+- Sarvam AI | Platform Engineer - AI Infrastructure | Bengaluru, India | 2026-08-25 | https://www.sarvam.ai/careers/jobs/fcb15601-6440-41f7-aa79-b9992057a4b2
+- Sarvam AI | Applied AI Engineer, Sarvam Agents | Bengaluru, India | 2026-08-25 | https://jobs.ashbyhq.com/sarvam/30259734-50c3-4f1c-81cd-8bff07e585e7
+- Arcana Analytics | Senior AI Engineer — Inference & Agent Systems | Bengaluru / Remote India | 2026-08-25 | https://job-boards.greenhouse.io/arcanaanalytics/jobs/4169688009
 <!-- SEEN-INDEX-END -->
