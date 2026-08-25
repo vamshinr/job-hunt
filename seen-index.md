@@ -371,4 +371,5 @@
 - Domino Data Lab | Staff Software Engineer, MDLC | Remote — United States | 2026-08-23 | https://boards.greenhouse.io/dominodatalab/jobs/7356848
 - Lightning AI | Senior Research Engineer, LLM Training & Post-Training | Remote — United States (NYC / SF / Seattle hybrid) | 2026-08-24 | https://job-boards.greenhouse.io/lightningai/jobs/7860628003
 - General Motors | Staff ML Engineer, Inference Platform | Sunnyvale, CA (Bay Area hybrid) | 2026-08-24 | https://search-careers.gm.com/en/jobs/jr-202513651/staff-ml-engineer-inference-platform/
+- Cerebras Systems | Distributed Systems Engineer, AI Inference Platform | Sunnyvale, CA (Bay Area) | 2026-08-25 | https://job-boards.greenhouse.io/cerebrassystems/jobs/6557524003
 <!-- SEEN-INDEX-END -->
