@@ -376,4 +376,7 @@
 - Sarvam AI | Platform Engineer - AI Infrastructure | Bengaluru, India | 2026-08-25 | https://www.sarvam.ai/careers/jobs/fcb15601-6440-41f7-aa79-b9992057a4b2
 - Sarvam AI | Applied AI Engineer, Sarvam Agents | Bengaluru, India | 2026-08-25 | https://jobs.ashbyhq.com/sarvam/30259734-50c3-4f1c-81cd-8bff07e585e7
 - Arcana Analytics | Senior AI Engineer — Inference & Agent Systems | Bengaluru / Remote India | 2026-08-25 | https://job-boards.greenhouse.io/arcanaanalytics/jobs/4169688009
+- Piris Labs | Founding Engineer, AI Inference Stack | San Francisco, CA | 2026-08-26 | https://www.workatastartup.com/jobs/93808
+- Wallaroo.AI | Principal or Staff AI/ML Engineer | Remote — United States | 2026-08-26 | https://www.linkedin.com/jobs/view/principal-or-staff-ai-ml-engineer-at-wallaroo-ai-4334302622
+- Jarvis Labs | Senior Inference Platform Engineer | Remote — India | 2026-08-26 | https://jarvislabs.ai/careers/senior-inference-platform-engineer
 <!-- SEEN-INDEX-END -->
