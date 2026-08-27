@@ -381,4 +381,6 @@
 - Jarvis Labs | Senior Inference Platform Engineer | Remote — India | 2026-08-26 | https://jarvislabs.ai/careers/senior-inference-platform-engineer
 - Cerebras Systems | ML Performance Benchmarking Engineer | Bengaluru, India | 2026-08-27 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7669166003
 - Neurophos | Senior ML Engineer, Optimization | San Mateo, CA / Austin, TX | 2026-08-27 | https://jobs.ashbyhq.com/neurophos/c8275d25-5852-48dd-8d51-c94ec382f010
+- Liquid AI | Member of Technical Staff, Edge Inference Engineer | San Francisco, CA / Boston, MA | 2026-08-27 | https://jobs.ashbyhq.com/liquid-ai/1ed0e32c-11f4-4f93-bfab-bdfac37f0b1b
+- Groq | Senior Machine Learning Engineer: Post Training & Speculative Decoding | Palo Alto, CA | 2026-08-27 | https://job-boards.greenhouse.io/groq/jobs/6392618003
 <!-- SEEN-INDEX-END -->
