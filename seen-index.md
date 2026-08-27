@@ -380,4 +380,5 @@
 - Wallaroo.AI | Principal or Staff AI/ML Engineer | Remote — United States | 2026-08-26 | https://www.linkedin.com/jobs/view/principal-or-staff-ai-ml-engineer-at-wallaroo-ai-4334302622
 - Jarvis Labs | Senior Inference Platform Engineer | Remote — India | 2026-08-26 | https://jarvislabs.ai/careers/senior-inference-platform-engineer
 - Cerebras Systems | ML Performance Benchmarking Engineer | Bengaluru, India | 2026-08-27 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7669166003
+- Neurophos | Senior ML Engineer, Optimization | San Mateo, CA / Austin, TX | 2026-08-27 | https://jobs.ashbyhq.com/neurophos/c8275d25-5852-48dd-8d51-c94ec382f010
 <!-- SEEN-INDEX-END -->
