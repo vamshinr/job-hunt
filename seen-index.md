@@ -388,4 +388,5 @@
 - Poolside | Member of Engineering (Pre-training and inference software) | Remote — Global (North America / Europe) | 2026-08-28 | https://poolside.ai/careers/member-of-engineering-pre-training-and-inference-software--0d1883f5-7248-4055-9521-f75dcb089416
 - Hippocratic AI | Software Engineer, ML Infra | Palo Alto, CA | 2026-08-29 | https://jobs.ashbyhq.com/Hippocratic%20AI/982dd602-47b6-4f89-9c2a-03073ff26e03
 - Together AI | Senior Software Engineer, Infra Agent Systems | Remote — India | 2026-08-29 | https://job-boards.greenhouse.io/togetherai/jobs/5217063007
+- Pinecone | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Remote — United States | 2026-08-29 | https://jobs.ashbyhq.com/pinecone/8beaa81a-20be-4b3c-a38c-b85d13bf1df9
 <!-- SEEN-INDEX-END -->
