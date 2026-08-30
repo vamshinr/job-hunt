@@ -390,4 +390,6 @@
 - Together AI | Senior Software Engineer, Infra Agent Systems | Remote — India | 2026-08-29 | https://job-boards.greenhouse.io/togetherai/jobs/5217063007
 - Pinecone | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Remote — United States | 2026-08-29 | https://jobs.ashbyhq.com/pinecone/8beaa81a-20be-4b3c-a38c-b85d13bf1df9
 - Rivian | Staff Software Engineer, ML Training and Inference Infrastructure | Palo Alto, CA | 2026-08-30 | https://careers.rivian.com/careers-home/jobs/21711
+- Anthropic | Performance Engineer | San Francisco, CA | 2026-08-30 | https://job-boards.greenhouse.io/anthropic/jobs/4020350008
+- Federis | ML / RAG / Inference Engineer | Noida, India (Remote) | 2026-08-30 | https://wellfound.com/jobs/4345591-ml-rag-inference-engineer
 <!-- SEEN-INDEX-END -->
