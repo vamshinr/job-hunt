@@ -392,4 +392,5 @@
 - Rivian | Staff Software Engineer, ML Training and Inference Infrastructure | Palo Alto, CA | 2026-08-30 | https://careers.rivian.com/careers-home/jobs/21711
 - Anthropic | Performance Engineer | San Francisco, CA | 2026-08-30 | https://job-boards.greenhouse.io/anthropic/jobs/4020350008
 - Federis | ML / RAG / Inference Engineer | Noida, India (Remote) | 2026-08-30 | https://wellfound.com/jobs/4345591-ml-rag-inference-engineer
+- Sciforium | Senior HPC & GPU Infrastructure Engineer | San Francisco, CA | 2026-08-30 | https://jobs.ashbyhq.com/Sciforium/840adeda-38a1-4ca4-b7c9-304f651e2e55
 <!-- SEEN-INDEX-END -->
