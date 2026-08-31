@@ -393,4 +393,5 @@
 - Anthropic | Performance Engineer | San Francisco, CA | 2026-08-30 | https://job-boards.greenhouse.io/anthropic/jobs/4020350008
 - Federis | ML / RAG / Inference Engineer | Noida, India (Remote) | 2026-08-30 | https://wellfound.com/jobs/4345591-ml-rag-inference-engineer
 - Sciforium | Senior HPC & GPU Infrastructure Engineer | San Francisco, CA | 2026-08-30 | https://jobs.ashbyhq.com/Sciforium/840adeda-38a1-4ca4-b7c9-304f651e2e55
+- Snorkel AI | Senior AI/ML Engineer | Redwood City, CA / San Francisco, CA (Hybrid) | 2026-08-31 | https://job-boards.greenhouse.io/snorkelai/jobs/5971772004
 <!-- SEEN-INDEX-END -->
