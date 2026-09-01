@@ -385,4 +385,14 @@
 - Groq | Senior Machine Learning Engineer: Post Training & Speculative Decoding | Palo Alto, CA | 2026-08-27 | https://job-boards.greenhouse.io/groq/jobs/6392618003
 - Harvey | Staff Software Engineer, Core Infrastructure | San Francisco, CA / New York, NY / Bengaluru, India | 2026-08-28 | https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4
 - Glean | Software Engineer, Machine Learning (Infrastructure) | Mountain View, CA | 2026-08-28 | https://job-boards.greenhouse.io/gleanwork/jobs/4012745005
+- Poolside | Member of Engineering (Pre-training and inference software) | Remote — Global (North America / Europe) | 2026-08-28 | https://poolside.ai/careers/member-of-engineering-pre-training-and-inference-software--0d1883f5-7248-4055-9521-f75dcb089416
+- Hippocratic AI | Software Engineer, ML Infra | Palo Alto, CA | 2026-08-29 | https://jobs.ashbyhq.com/Hippocratic%20AI/982dd602-47b6-4f89-9c2a-03073ff26e03
+- Together AI | Senior Software Engineer, Infra Agent Systems | Remote — India | 2026-08-29 | https://job-boards.greenhouse.io/togetherai/jobs/5217063007
+- Pinecone | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Remote — United States | 2026-08-29 | https://jobs.ashbyhq.com/pinecone/8beaa81a-20be-4b3c-a38c-b85d13bf1df9
+- Rivian | Staff Software Engineer, ML Training and Inference Infrastructure | Palo Alto, CA | 2026-08-30 | https://careers.rivian.com/careers-home/jobs/21711
+- Anthropic | Performance Engineer | San Francisco, CA | 2026-08-30 | https://job-boards.greenhouse.io/anthropic/jobs/4020350008
+- Federis | ML / RAG / Inference Engineer | Noida, India (Remote) | 2026-08-30 | https://wellfound.com/jobs/4345591-ml-rag-inference-engineer
+- Sciforium | Senior HPC & GPU Infrastructure Engineer | San Francisco, CA | 2026-08-30 | https://jobs.ashbyhq.com/Sciforium/840adeda-38a1-4ca4-b7c9-304f651e2e55
+- Snorkel AI | Senior AI/ML Engineer | Redwood City, CA / San Francisco, CA (Hybrid) | 2026-08-31 | https://job-boards.greenhouse.io/snorkelai/jobs/5971772004
+- LangChain | Senior Backend Engineer, LangSmith Deployments | San Francisco, CA | 2026-09-01 | https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f/application
 <!-- SEEN-INDEX-END -->
