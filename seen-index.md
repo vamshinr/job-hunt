@@ -395,4 +395,5 @@
 - Sciforium | Senior HPC & GPU Infrastructure Engineer | San Francisco, CA | 2026-08-30 | https://jobs.ashbyhq.com/Sciforium/840adeda-38a1-4ca4-b7c9-304f651e2e55
 - Snorkel AI | Senior AI/ML Engineer | Redwood City, CA / San Francisco, CA (Hybrid) | 2026-08-31 | https://job-boards.greenhouse.io/snorkelai/jobs/5971772004
 - LangChain | Senior Backend Engineer, LangSmith Deployments | San Francisco, CA | 2026-09-01 | https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f/application
+- Sarvam AI | ML Engineer | Bengaluru, India | 2026-09-01 | https://www.sarvam.ai/careers/jobs/d02fa17f-67bb-4236-8c16-5674162457b0
 <!-- SEEN-INDEX-END -->
