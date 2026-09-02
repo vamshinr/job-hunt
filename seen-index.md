@@ -398,4 +398,6 @@
 - Sarvam AI | ML Engineer | Bengaluru, India | 2026-09-01 | https://www.sarvam.ai/careers/jobs/d02fa17f-67bb-4236-8c16-5674162457b0
 - Lilac Cloud | AI Inference Engineer | San Jose, CA / Seattle, WA | 2026-09-02 | https://jobs.8vc.com/companies/lilac-cloud/jobs/91505923-ai-inference-engineer
 - AZX | Senior Software Engineer (AI Inference & Runtime Platform) | Remote — United States | 2026-09-02 | https://jobs.ashbyhq.com/careers.azx.io/5176837b-843a-4e70-b8ba-53a2298ad8ac
+- Rime Labs | Machine Learning Engineer, Inference | Remote — United States | 2026-09-02 | https://startup.jobs/machine-learning-engineer-inference-rime-labs-8299377
+- Microsoft AI (MAI) | Member of Technical Staff, MM Inference | Mountain View, CA (Bay Area hybrid) | 2026-09-02 | https://microsoft.ai/job/member-of-technical-staff-mm-inference-mai-superintelligence-team/
 <!-- SEEN-INDEX-END -->
