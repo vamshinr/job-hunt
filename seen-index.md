@@ -400,4 +400,6 @@
 - AZX | Senior Software Engineer (AI Inference & Runtime Platform) | Remote — United States | 2026-09-02 | https://jobs.ashbyhq.com/careers.azx.io/5176837b-843a-4e70-b8ba-53a2298ad8ac
 - Rime Labs | Machine Learning Engineer, Inference | Remote — United States | 2026-09-02 | https://startup.jobs/machine-learning-engineer-inference-rime-labs-8299377
 - Microsoft AI (MAI) | Member of Technical Staff, MM Inference | Mountain View, CA (Bay Area hybrid) | 2026-09-02 | https://microsoft.ai/job/member-of-technical-staff-mm-inference-mai-superintelligence-team/
+- NVIDIA | Inference Performance Engineer, Agent Driven Inference Optimization | Santa Clara, CA | 2026-09-02 | https://jobs.nvidia.com/careers/job/893396900943
+- Salesforce | Lead Machine Learning Engineer, LLM Infrastructure | San Francisco / Palo Alto, CA | 2026-09-02 | https://careers.salesforce.com/en/jobs/jr329632/lead-machine-learning-engineer-llm-infrastructure/
 <!-- SEEN-INDEX-END -->
