@@ -405,4 +405,5 @@
 - Build AI | ML Engineer, Inference Optimization | San Francisco Bay Area, CA | 2026-09-03 | https://jobs.ashbyhq.com/build-ai/5ca509d2-a037-4295-9cca-a5c6f5b57718
 - SambaNova Systems | Inference Systems Performance Architect | San Jose, CA | 2026-09-03 | https://builtin.com/job/inference-systems-performance-architect/10706438
 - Apple | Senior Software Engineer, Model Inference | Cupertino, CA (Bay Area hybrid) | 2026-09-03 | https://jobs.apple.com/en-us/details/200638185-3401/senior-software-engineer-model-inference
+- NVIDIA | Senior Software Engineer, TensorRT Edge-LLM | Santa Clara, CA (Bay Area) | 2026-09-03 | https://jobs.nvidia.com/careers/job/893393380870
 <!-- SEEN-INDEX-END -->
