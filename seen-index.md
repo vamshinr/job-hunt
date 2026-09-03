@@ -402,4 +402,5 @@
 - Microsoft AI (MAI) | Member of Technical Staff, MM Inference | Mountain View, CA (Bay Area hybrid) | 2026-09-02 | https://microsoft.ai/job/member-of-technical-staff-mm-inference-mai-superintelligence-team/
 - NVIDIA | Inference Performance Engineer, Agent Driven Inference Optimization | Santa Clara, CA | 2026-09-02 | https://jobs.nvidia.com/careers/job/893396900943
 - Salesforce | Lead Machine Learning Engineer, LLM Infrastructure | San Francisco / Palo Alto, CA | 2026-09-02 | https://careers.salesforce.com/en/jobs/jr329632/lead-machine-learning-engineer-llm-infrastructure/
+- Build AI | ML Engineer, Inference Optimization | San Francisco Bay Area, CA | 2026-09-03 | https://jobs.ashbyhq.com/build-ai/5ca509d2-a037-4295-9cca-a5c6f5b57718
 <!-- SEEN-INDEX-END -->
