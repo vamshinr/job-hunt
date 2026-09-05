@@ -412,4 +412,6 @@
 - AssemblyAI | Senior Software Engineer, Inference | Remote — United States | 2026-09-05 | https://job-boards.greenhouse.io/assemblyai/jobs/4728911005
 - Hippocratic AI | Senior Machine Learning Engineer, LLM Evaluations | Palo Alto, CA | 2026-09-05 | https://jobs.ashbyhq.com/Hippocratic%20AI/efa7cccb-e8f3-49a1-ab2e-2e5dc56107b7
 - Utilidata | AI Infrastructure Engineer | Remote — United States | 2026-09-05 | https://builtin.com/job/ai-infrastructure-engineer/9047346
+- Wizard AI | Senior Machine Learning Engineer (Inference Platform) | Remote — United States | 2026-09-05 | https://job-boards.greenhouse.io/wizardcommerce/jobs/5837279004
+- Parasail | Senior Inference Reliability Engineer | San Francisco Bay Area, CA | 2026-09-05 | https://jobs.ashbyhq.com/parasail/4df8ea53-183f-48ae-843b-e290fbdbe705
 <!-- SEEN-INDEX-END -->
