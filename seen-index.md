@@ -410,4 +410,6 @@
 - Salesforce | SMTS/LMTS Software Engineer - ML Infrastructure | San Francisco / Seattle / Palo Alto / Bellevue | 2026-09-04 | https://careers.salesforce.com/en/jobs/jr321128/smtslmts-software-engineer-ml-infrastructure/
 - Together AI | Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering | India | 2026-09-04 | https://job-boards.greenhouse.io/togetherai/jobs/5213322007
 - AssemblyAI | Senior Software Engineer, Inference | Remote — United States | 2026-09-05 | https://job-boards.greenhouse.io/assemblyai/jobs/4728911005
+- Hippocratic AI | Senior Machine Learning Engineer, LLM Evaluations | Palo Alto, CA | 2026-09-05 | https://jobs.ashbyhq.com/Hippocratic%20AI/efa7cccb-e8f3-49a1-ab2e-2e5dc56107b7
+- Utilidata | AI Infrastructure Engineer | Remote — United States | 2026-09-05 | https://builtin.com/job/ai-infrastructure-engineer/9047346
 <!-- SEEN-INDEX-END -->
