@@ -409,4 +409,5 @@
 - Salesforce | Software Engineering SMTS - LLM Gateway | San Francisco, CA / Bellevue, WA | 2026-09-04 | https://careers.salesforce.com/en/jobs/jr340791/software-engineering-smts-llm-gateway/
 - Salesforce | SMTS/LMTS Software Engineer - ML Infrastructure | San Francisco / Seattle / Palo Alto / Bellevue | 2026-09-04 | https://careers.salesforce.com/en/jobs/jr321128/smtslmts-software-engineer-ml-infrastructure/
 - Together AI | Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering | India | 2026-09-04 | https://job-boards.greenhouse.io/togetherai/jobs/5213322007
+- AssemblyAI | Senior Software Engineer, Inference | Remote — United States | 2026-09-05 | https://job-boards.greenhouse.io/assemblyai/jobs/4728911005
 <!-- SEEN-INDEX-END -->
