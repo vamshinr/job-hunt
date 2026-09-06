@@ -417,4 +417,6 @@
 - Tubi | Software Engineer, ML Infra & Distributed Systems (Staff & Principal) | Remote — United States / San Francisco, CA | 2026-09-06 | https://job-boards.greenhouse.io/tubitv/jobs/7255621
 - Moveworks (ServiceNow) | Senior Machine Learning Engineer, Agentic Systems | Mountain View, CA | 2026-09-06 | https://careers.servicenow.com/jobs/744000122090573/senior-machine-learning-engineer-agentic-systems-moveworks/
 - Anthropic | Staff + Sr. Software Engineer, Scaling | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-06 | https://job-boards.greenhouse.io/anthropic/jobs/5400012008
+- AI Startup via Phizenix | ML Infrastructure Engineer | Menlo Park, CA | 2026-09-06 | https://job-boards.greenhouse.io/phizenix/jobs/4750857008
+- NVIDIA | Senior Inference Engineer, GPU Kernel Optimization | Santa Clara, CA | 2026-09-06 | https://jobs.nvidia.com/careers/job/893396599937
 <!-- SEEN-INDEX-END -->
