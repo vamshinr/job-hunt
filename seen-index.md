@@ -414,4 +414,6 @@
 - Utilidata | AI Infrastructure Engineer | Remote — United States | 2026-09-05 | https://builtin.com/job/ai-infrastructure-engineer/9047346
 - Wizard AI | Senior Machine Learning Engineer (Inference Platform) | Remote — United States | 2026-09-05 | https://job-boards.greenhouse.io/wizardcommerce/jobs/5837279004
 - Parasail | Senior Inference Reliability Engineer | San Francisco Bay Area, CA | 2026-09-05 | https://jobs.ashbyhq.com/parasail/4df8ea53-183f-48ae-843b-e290fbdbe705
+- Tubi | Software Engineer, ML Infra & Distributed Systems (Staff & Principal) | Remote — United States / San Francisco, CA | 2026-09-06 | https://job-boards.greenhouse.io/tubitv/jobs/7255621
+- Moveworks (ServiceNow) | Senior Machine Learning Engineer, Agentic Systems | Mountain View, CA | 2026-09-06 | https://careers.servicenow.com/jobs/744000122090573/senior-machine-learning-engineer-agentic-systems-moveworks/
 <!-- SEEN-INDEX-END -->
