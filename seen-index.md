@@ -422,4 +422,5 @@
 - Microsoft AI (MAI) | Member of Technical Staff, Multimodal Infrastructure | Mountain View / Redmond / New York (Bay Area hybrid) | 2026-09-07 | https://microsoft.ai/job/member-of-technical-staff-multimodal-infrastructure-mai-superintelligence-team/
 - Thinking Machines Lab | Research Engineer, Infrastructure, Kernels | San Francisco, CA | 2026-09-07 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013934008
 - Thinking Machines Lab | Research Infrastructure Engineer, Research Acceleration | San Francisco, CA / New York, NY | 2026-09-07 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5106415008
+- Nebius | Senior Machine Learning Engineer, LLM Inference Optimization | Palo Alto, CA (SF Bay Area) | 2026-09-07 | https://careers.nebius.com/
 <!-- SEEN-INDEX-END -->
