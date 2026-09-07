@@ -420,4 +420,6 @@
 - AI Startup via Phizenix | ML Infrastructure Engineer | Menlo Park, CA | 2026-09-06 | https://job-boards.greenhouse.io/phizenix/jobs/4750857008
 - NVIDIA | Senior Inference Engineer, GPU Kernel Optimization | Santa Clara, CA | 2026-09-06 | https://jobs.nvidia.com/careers/job/893396599937
 - Microsoft AI (MAI) | Member of Technical Staff, Multimodal Infrastructure | Mountain View / Redmond / New York (Bay Area hybrid) | 2026-09-07 | https://microsoft.ai/job/member-of-technical-staff-multimodal-infrastructure-mai-superintelligence-team/
+- Thinking Machines Lab | Research Engineer, Infrastructure, Kernels | San Francisco, CA | 2026-09-07 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013934008
+- Thinking Machines Lab | Research Infrastructure Engineer, Research Acceleration | San Francisco, CA / New York, NY | 2026-09-07 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5106415008
 <!-- SEEN-INDEX-END -->
