@@ -423,4 +423,6 @@
 - Thinking Machines Lab | Research Engineer, Infrastructure, Kernels | San Francisco, CA | 2026-09-07 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013934008
 - Thinking Machines Lab | Research Infrastructure Engineer, Research Acceleration | San Francisco, CA / New York, NY | 2026-09-07 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5106415008
 - Nebius | Senior Machine Learning Engineer, LLM Inference Optimization | Palo Alto, CA (SF Bay Area) | 2026-09-07 | https://careers.nebius.com/
+- Mistral AI | Software Engineer, Technical Lead, Inference | Paris, France / Palo Alto, CA / New York, NY (in-office) | 2026-09-08 | https://jobs.lever.co/mistral/0593f273-44f5-4c20-a84c-0406d5da6a0b
+- Microsoft AI (MAI) | Member of Technical Staff, Capacity & Efficiency Infrastructure | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-08 | https://microsoft.ai/job/member-of-technical-staff-capacity-efficiency-infrastructure-mai-superintelligence-team/
 <!-- SEEN-INDEX-END -->
