@@ -427,4 +427,6 @@
 - Microsoft AI (MAI) | Member of Technical Staff, Capacity & Efficiency Infrastructure | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-08 | https://microsoft.ai/job/member-of-technical-staff-capacity-efficiency-infrastructure-mai-superintelligence-team/
 - FriendliAI | Software Engineer, GPU Kernel | San Francisco, CA | 2026-09-08 | https://jobs.ashbyhq.com/friendliai/cd4dd23b-cf94-46ec-afc3-f84037dca735
 - TikTok | Software Engineer, TikTok AI Search Infrastructure | San Jose, CA | 2026-09-08 | https://lifeattiktok.com/search/7595445244009138485
+- Red Hat | Senior Software Engineer, AI Inference | Remote — United States | 2026-09-08 | https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Senior-Software-Engineer_R-053075-1
+- Anthropic | Senior / Staff+ Software Engineer, Voice Platform | San Francisco, CA | 2026-09-08 | https://job-boards.greenhouse.io/anthropic/jobs/5172245008
 <!-- SEEN-INDEX-END -->
