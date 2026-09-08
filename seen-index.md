@@ -425,4 +425,6 @@
 - Nebius | Senior Machine Learning Engineer, LLM Inference Optimization | Palo Alto, CA (SF Bay Area) | 2026-09-07 | https://careers.nebius.com/
 - Mistral AI | Software Engineer, Technical Lead, Inference | Paris, France / Palo Alto, CA / New York, NY (in-office) | 2026-09-08 | https://jobs.lever.co/mistral/0593f273-44f5-4c20-a84c-0406d5da6a0b
 - Microsoft AI (MAI) | Member of Technical Staff, Capacity & Efficiency Infrastructure | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-08 | https://microsoft.ai/job/member-of-technical-staff-capacity-efficiency-infrastructure-mai-superintelligence-team/
+- FriendliAI | Software Engineer, GPU Kernel | San Francisco, CA | 2026-09-08 | https://jobs.ashbyhq.com/friendliai/cd4dd23b-cf94-46ec-afc3-f84037dca735
+- TikTok | Software Engineer, TikTok AI Search Infrastructure | San Jose, CA | 2026-09-08 | https://lifeattiktok.com/search/7595445244009138485
 <!-- SEEN-INDEX-END -->
