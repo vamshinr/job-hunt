@@ -429,4 +429,6 @@
 - TikTok | Software Engineer, TikTok AI Search Infrastructure | San Jose, CA | 2026-09-08 | https://lifeattiktok.com/search/7595445244009138485
 - Red Hat | Senior Software Engineer, AI Inference | Remote — United States | 2026-09-08 | https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Senior-Software-Engineer_R-053075-1
 - Anthropic | Senior / Staff+ Software Engineer, Voice Platform | San Francisco, CA | 2026-09-08 | https://job-boards.greenhouse.io/anthropic/jobs/5172245008
+- Ambience Healthcare | Machine Learning Infrastructure Engineer | San Francisco, CA (Hybrid) | 2026-09-09 | https://jobs.ashbyhq.com/ambiencehealthcare/2c014d0c-2a7e-4095-b86d-9439dade6f62
+- FriendliAI | Software Engineer, AI Agents | San Francisco, CA | 2026-09-09 | https://jobs.ashbyhq.com/friendliai/6b7dbaf7-8751-402e-b253-ad968f7dc362
 <!-- SEEN-INDEX-END -->
