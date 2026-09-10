@@ -432,4 +432,5 @@
 - Ambience Healthcare | Machine Learning Infrastructure Engineer | San Francisco, CA (Hybrid) | 2026-09-09 | https://jobs.ashbyhq.com/ambiencehealthcare/2c014d0c-2a7e-4095-b86d-9439dade6f62
 - FriendliAI | Software Engineer, AI Agents | San Francisco, CA | 2026-09-09 | https://jobs.ashbyhq.com/friendliai/6b7dbaf7-8751-402e-b253-ad968f7dc362
 - d-Matrix | Inference Runtime Systems Software Engineer, Staff | Remote — United States | 2026-09-09 | https://jobs.ashbyhq.com/d-Matrix/8dfed088-0b31-4996-a7d6-f27e055b1de2
+- Level AI | Principal Software Engineer, Backend & Infrastructure | Noida / Bengaluru, India | 2026-09-10 | https://jobs.lever.co/levelai/d9c3409d-a86f-4901-b628-d27813c673b6
 <!-- SEEN-INDEX-END -->
