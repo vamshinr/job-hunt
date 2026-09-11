@@ -434,4 +434,6 @@
 - d-Matrix | Inference Runtime Systems Software Engineer, Staff | Remote — United States | 2026-09-09 | https://jobs.ashbyhq.com/d-Matrix/8dfed088-0b31-4996-a7d6-f27e055b1de2
 - Level AI | Principal Software Engineer, Backend & Infrastructure | Noida / Bengaluru, India | 2026-09-10 | https://jobs.lever.co/levelai/d9c3409d-a86f-4901-b628-d27813c673b6
 - AssemblyAI | Senior Research Engineer | Remote — United States | 2026-09-10 | https://job-boards.greenhouse.io/assemblyai/jobs/4729671005
+- NVIDIA | Senior AI and ML Engineer, Agentic AI Systems | Santa Clara, CA | 2026-09-11 | https://jobs.nvidia.com/careers/job/893396118020
+- Poolside | Member of Engineering (Agent Experience) | Remote (North America / Europe) | 2026-09-11 | https://jobs.ashbyhq.com/poolside/3253bd83-7ae2-42e8-9ac0-56d1e9ccbc6c
 <!-- SEEN-INDEX-END -->
