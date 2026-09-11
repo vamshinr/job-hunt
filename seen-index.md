@@ -436,4 +436,6 @@
 - AssemblyAI | Senior Research Engineer | Remote — United States | 2026-09-10 | https://job-boards.greenhouse.io/assemblyai/jobs/4729671005
 - NVIDIA | Senior AI and ML Engineer, Agentic AI Systems | Santa Clara, CA | 2026-09-11 | https://jobs.nvidia.com/careers/job/893396118020
 - Poolside | Member of Engineering (Agent Experience) | Remote (North America / Europe) | 2026-09-11 | https://jobs.ashbyhq.com/poolside/3253bd83-7ae2-42e8-9ac0-56d1e9ccbc6c
+- Anthropic | Staff+ Software Engineer, ML Sampling Path | San Francisco, CA | 2026-09-11 | https://job-boards.greenhouse.io/anthropic/jobs/5419868008
+- Anthropic | Staff+ Software Engineer, ML Inference Path | San Francisco, CA | 2026-09-11 | https://job-boards.greenhouse.io/anthropic/jobs/5419869008
 <!-- SEEN-INDEX-END -->
