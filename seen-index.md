@@ -439,4 +439,6 @@
 - Anthropic | Staff+ Software Engineer, ML Sampling Path | San Francisco, CA | 2026-09-11 | https://job-boards.greenhouse.io/anthropic/jobs/5419868008
 - Anthropic | Staff+ Software Engineer, ML Inference Path | San Francisco, CA | 2026-09-11 | https://job-boards.greenhouse.io/anthropic/jobs/5419869008
 - Anthropic | Performance Engineer, Inference Engine | San Francisco, CA / New York City, NY | 2026-09-11 | https://job-boards.greenhouse.io/anthropic/jobs/5418323008
+- GitLab | Senior AI Engineer | Remote — United States | 2026-09-12 | https://job-boards.greenhouse.io/gitlab/jobs/8565469002
+- Grafana Labs | Staff AI Engineer (Grafana AI/ML) | Remote — United States | 2026-09-12 | https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004
 <!-- SEEN-INDEX-END -->
