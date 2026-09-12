@@ -441,4 +441,7 @@
 - Anthropic | Performance Engineer, Inference Engine | San Francisco, CA / New York City, NY | 2026-09-11 | https://job-boards.greenhouse.io/anthropic/jobs/5418323008
 - GitLab | Senior AI Engineer | Remote — United States | 2026-09-12 | https://job-boards.greenhouse.io/gitlab/jobs/8565469002
 - Grafana Labs | Staff AI Engineer (Grafana AI/ML) | Remote — United States | 2026-09-12 | https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004
+- Crusoe | Staff Applied AI Inference Engineer | San Francisco, CA | 2026-09-12 | https://jobs.ashbyhq.com/Crusoe/9f83a7b1-5cd3-454d-b477-00107001f133
+- Modal | Forward Deployed Engineer - ML | San Francisco / New York (in-person) | 2026-09-12 | https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9
+- DiDi Labs | Sr./Staff AI Infrastructure Engineer, Inference & Optimization | San Jose, CA | 2026-09-12 | https://job-boards.greenhouse.io/didi
 <!-- SEEN-INDEX-END -->
