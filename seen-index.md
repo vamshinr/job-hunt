@@ -450,4 +450,7 @@
 - ServiceNow (Moveworks) | Machine Learning Engineer, Agentic AI Systems | Mountain View, CA | 2026-09-13 | https://careers.servicenow.com/jobs/744000134027173/machine-learning-engineer-agentic-ai-systems-moveworks/
 - Apple | Staff/Sr. Machine Learning Engineer, Foundation Models - AI, Search & Knowledge Platforms | Cupertino, CA (Bay Area hybrid) | 2026-09-13 | https://jobs.apple.com/en-us/details/200651038-3401/staff-sr-machine-learning-engineer-foundation-models-ai-search-knowledge-platforms
 - Amazon Web Services (Annapurna Labs) | Sr. Software Development Engineer, Inference Team, AWS Neuron | Cupertino, CA | 2026-09-13 | https://www.amazon.jobs/en/jobs/3055172/senior-software-development-engineer-ai-ml-aws-neuron-model-inference
+- FriendliAI | Software Engineer, AI Inference Engine | San Francisco, CA | 2026-09-13 | https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-inference-engine-at-friendliai-4401193104
+- Baseten | Software Engineer, Voice AI (Inference Runtime) | San Francisco, CA | 2026-09-13 | https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2
+- Thinking Machines Lab | Research Engineer, Infrastructure, Numerics | San Francisco, CA | 2026-09-13 | https://jobs.ashbyhq.com/ThinkingMachines/93855db2-9a80-421d-9e80-ace9eca24650
 <!-- SEEN-INDEX-END -->
