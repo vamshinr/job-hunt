@@ -448,4 +448,6 @@
 - Salesforce (Slack) | Senior/Staff Software Engineer, Machine Learning Infrastructure | Seattle, WA / Austin, TX / Atlanta, GA / Bellevue, WA | 2026-09-12 | https://careers.salesforce.com/en/jobs/jr329145/seniorstaff-software-engineer-machine-learning-infrastructure-slack/
 - ServiceNow (Moveworks) | Machine Learning Engineer, Agentic AI Harness & Quality | Mountain View, CA | 2026-09-13 | https://careers.servicenow.com/jobs/744000141813209/machine-learning-engineer-agentic-ai-harness-quality-moveworks/
 - ServiceNow (Moveworks) | Machine Learning Engineer, Agentic AI Systems | Mountain View, CA | 2026-09-13 | https://careers.servicenow.com/jobs/744000134027173/machine-learning-engineer-agentic-ai-systems-moveworks/
+- Apple | Staff/Sr. Machine Learning Engineer, Foundation Models - AI, Search & Knowledge Platforms | Cupertino, CA (Bay Area hybrid) | 2026-09-13 | https://jobs.apple.com/en-us/details/200651038-3401/staff-sr-machine-learning-engineer-foundation-models-ai-search-knowledge-platforms
+- Amazon Web Services (Annapurna Labs) | Sr. Software Development Engineer, Inference Team, AWS Neuron | Cupertino, CA | 2026-09-13 | https://www.amazon.jobs/en/jobs/3055172/senior-software-development-engineer-ai-ml-aws-neuron-model-inference
 <!-- SEEN-INDEX-END -->
