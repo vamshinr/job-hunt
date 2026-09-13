@@ -446,4 +446,6 @@
 - DiDi Labs | Sr./Staff AI Infrastructure Engineer, Inference & Optimization | San Jose, CA | 2026-09-12 | https://job-boards.greenhouse.io/didi
 - Perplexity AI | Member of Technical Staff (Software Engineer, Infrastructure) | San Francisco, CA | 2026-09-12 | https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3
 - Salesforce (Slack) | Senior/Staff Software Engineer, Machine Learning Infrastructure | Seattle, WA / Austin, TX / Atlanta, GA / Bellevue, WA | 2026-09-12 | https://careers.salesforce.com/en/jobs/jr329145/seniorstaff-software-engineer-machine-learning-infrastructure-slack/
+- ServiceNow (Moveworks) | Machine Learning Engineer, Agentic AI Harness & Quality | Mountain View, CA | 2026-09-13 | https://careers.servicenow.com/jobs/744000141813209/machine-learning-engineer-agentic-ai-harness-quality-moveworks/
+- ServiceNow (Moveworks) | Machine Learning Engineer, Agentic AI Systems | Mountain View, CA | 2026-09-13 | https://careers.servicenow.com/jobs/744000134027173/machine-learning-engineer-agentic-ai-systems-moveworks/
 <!-- SEEN-INDEX-END -->
