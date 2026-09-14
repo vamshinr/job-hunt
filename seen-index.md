@@ -453,4 +453,8 @@
 - FriendliAI | Software Engineer, AI Inference Engine | San Francisco, CA | 2026-09-13 | https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-inference-engine-at-friendliai-4401193104
 - Baseten | Software Engineer, Voice AI (Inference Runtime) | San Francisco, CA | 2026-09-13 | https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2
 - Thinking Machines Lab | Research Engineer, Infrastructure, Numerics | San Francisco, CA | 2026-09-13 | https://jobs.ashbyhq.com/ThinkingMachines/93855db2-9a80-421d-9e80-ace9eca24650
+- Anthropic | Staff + Senior Software Engineer, Inference | San Francisco / New York / Seattle | 2026-09-14 | https://job-boards.greenhouse.io/anthropic/jobs/5385998008
+- AMD | Principal GenAI Inference Optimization Engineer | San Jose, CA | 2026-09-14 | https://careers.amd.com/careers-home/jobs/80980
+- AMD | Post-Training Platform Infrastructure Engineer | San Jose, CA | 2026-09-14 | https://careers.amd.com/careers-home/jobs/78472
+- AMD | ML Systems Research Engineer, RL / Inference / Agent Systems | Santa Clara, CA | 2026-09-14 | https://careers.amd.com/careers-home/jobs/88874
 <!-- SEEN-INDEX-END -->
