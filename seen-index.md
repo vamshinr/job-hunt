@@ -457,4 +457,8 @@
 - AMD | Principal GenAI Inference Optimization Engineer | San Jose, CA | 2026-09-14 | https://careers.amd.com/careers-home/jobs/80980
 - AMD | Post-Training Platform Infrastructure Engineer | San Jose, CA | 2026-09-14 | https://careers.amd.com/careers-home/jobs/78472
 - AMD | ML Systems Research Engineer, RL / Inference / Agent Systems | Santa Clara, CA | 2026-09-14 | https://careers.amd.com/careers-home/jobs/88874
+- Apple | Sr. Machine Learning Engineer, Foundation Models Inference | Cupertino, CA | 2026-09-14 | https://jobs.apple.com/en-us/details/200677962-3337
+- Perplexity AI | AI Engineer, Applied ML | New York / Palo Alto / San Francisco | 2026-09-14 | https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a
+- SambaNova Systems | Senior ML Infrastructure Engineer | Remote / San Jose, CA | 2026-09-14 | https://boards.greenhouse.io/sambanovasystems
+- Clera | Senior ML/AI Engineer | San Francisco, CA | 2026-09-14 | https://jobs.ashbyhq.com/clera/c6e53d3d-ce22-4ae4-ae1c-05b748405fce
 <!-- SEEN-INDEX-END -->
