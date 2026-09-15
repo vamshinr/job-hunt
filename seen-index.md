@@ -466,4 +466,7 @@
 - Twelve Labs | Software Engineer, Inference Infrastructure | San Francisco, CA | 2026-09-14 | https://jobs.techstars.com/companies/twelve-labs/jobs/26767960-software-engineer-inference-infrastructure
 - Baseten | Software Engineer, Model Products | Remote — United States | 2026-09-15 | https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464/
 - Crusoe | Senior/Staff Software Engineer, Managed AI | San Francisco, CA / Sunnyvale, CA (Hybrid) | 2026-09-15 | https://jobs.ashbyhq.com/Crusoe/e3925145-0f84-42b3-a61c-f2e14be37403
+- PagerDuty | Senior AI/ML Engineer | San Francisco, CA (Hybrid) | 2026-09-15 | https://job-boards.greenhouse.io/pagerduty/jobs/6144823004
+- Scale AI | Software Engineer, ML Infrastructure - Evaluation Platform | San Francisco / New York / Seattle | 2026-09-15 | https://job-boards.greenhouse.io/scaleai/jobs/4471318005
+- Snorkel AI | Senior/Staff AI Engineer | San Francisco, CA / New York City, NY (Hybrid) | 2026-09-15 | https://job-boards.greenhouse.io/snorkelai/jobs/6185944004
 <!-- SEEN-INDEX-END -->
