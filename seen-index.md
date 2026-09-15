@@ -464,4 +464,6 @@
 - OpenAI | Software Engineer, Model Runtime | San Francisco, CA | 2026-09-14 | https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96
 - Poolside | Member of Engineering (Scalability) | Remote — Global (North America / Europe) | 2026-09-14 | https://jobs.ashbyhq.com/poolside/6659a321-9780-4f5a-bfa7-b285e0b56c62
 - Twelve Labs | Software Engineer, Inference Infrastructure | San Francisco, CA | 2026-09-14 | https://jobs.techstars.com/companies/twelve-labs/jobs/26767960-software-engineer-inference-infrastructure
+- Baseten | Software Engineer, Model Products | Remote — United States | 2026-09-15 | https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464/
+- Crusoe | Senior/Staff Software Engineer, Managed AI | San Francisco, CA / Sunnyvale, CA (Hybrid) | 2026-09-15 | https://jobs.ashbyhq.com/Crusoe/e3925145-0f84-42b3-a61c-f2e14be37403
 <!-- SEEN-INDEX-END -->
