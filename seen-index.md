@@ -469,4 +469,6 @@
 - PagerDuty | Senior AI/ML Engineer | San Francisco, CA (Hybrid) | 2026-09-15 | https://job-boards.greenhouse.io/pagerduty/jobs/6144823004
 - Scale AI | Software Engineer, ML Infrastructure - Evaluation Platform | San Francisco / New York / Seattle | 2026-09-15 | https://job-boards.greenhouse.io/scaleai/jobs/4471318005
 - Snorkel AI | Senior/Staff AI Engineer | San Francisco, CA / New York City, NY (Hybrid) | 2026-09-15 | https://job-boards.greenhouse.io/snorkelai/jobs/6185944004
+- Fireworks AI | Software Engineer, LLM Infrastructure | New York, NY / San Mateo, CA | 2026-09-15 | https://fireworks.ai/careers
+- MARA | Lead Software Engineer, ML & Agentic Workloads | Remote — United States | 2026-09-15 | https://job-boards.greenhouse.io/mara/jobs/4640830005
 <!-- SEEN-INDEX-END -->
