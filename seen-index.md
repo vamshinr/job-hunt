@@ -476,4 +476,6 @@
 - fal | Staff Software Engineer, ML Performance & Systems | San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/fal/ca46206d-1515-4d26-af24-b1dd39f28833
 - Yotta Labs | Research Engineer, AI Systems | Remote — United States | 2026-09-16 | https://jobs.ashbyhq.com/yotta/5ad886ff-a109-424e-910d-bb764a5201e9
 - Elorian AI | Inference Infrastructure Engineer, Serving | Palo Alto, CA (Hybrid) | 2026-09-16 | https://jobs.ashbyhq.com/elorian-ai-inc
+- Prime Intellect | Research Engineer, RL Infrastructure | Remote / San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/PrimeIntellect/05e4b76b-2570-4c89-baf2-9833fff7378f
+- Prime Intellect | Research Engineer, Distributed Training | Remote / San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/primeintellect/8bd52610-175c-42a7-a7cd-b29c45f9d305
 <!-- SEEN-INDEX-END -->
