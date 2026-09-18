@@ -480,4 +480,5 @@
 - Prime Intellect | Research Engineer, Distributed Training | Remote / San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/primeintellect/8bd52610-175c-42a7-a7cd-b29c45f9d305
 - Anthropic | Senior / Staff Software Engineer, Inference | San Francisco, CA | 2026-09-17 | https://job-boards.greenhouse.io/anthropic/jobs/4753256008
 - NVIDIA | Senior AI Software Development Engineer, TensorRT-LLM | Santa Clara, CA | 2026-09-17 | https://jobs.nvidia.com/careers/job/893392262752
+- Snowflake | AI System Research and Development Engineer - Optimization | Menlo Park, CA | 2026-09-18 | https://careers.snowflake.com/us/en/job/SNCOUSCC00B9E6FD7A40EC993FA4F667FBE0C7EXTERNALENUSB8B30900135E493791B4CEC38D7901FD/AI-System-Research-and-Development-Engineer-Optimization
 <!-- SEEN-INDEX-END -->
