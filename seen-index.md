@@ -483,4 +483,5 @@
 - Snowflake | AI System Research and Development Engineer - Optimization | Menlo Park, CA | 2026-09-18 | https://careers.snowflake.com/us/en/job/SNCOUSCC00B9E6FD7A40EC993FA4F667FBE0C7EXTERNALENUSB8B30900135E493791B4CEC38D7901FD/AI-System-Research-and-Development-Engineer-Optimization
 - Inception Labs | Member of Technical Staff, Inference & Serving | San Mateo, CA | 2026-09-18 | https://www.inceptionlabs.ai/careers
 - Apple | Sr./Staff ML Infrastructure Engineer, Compute (TPU Scheduling) - Foundation Model | Santa Clara, CA (SF Bay Area — hybrid) | 2026-09-19 | https://jobs.apple.com/en-us/details/200661483-3760/sr-staff-ml-infrastructure-engineer-compute-tpu-scheduling-foundation-model
+- Microsoft AI | Software Engineer, AI Infrastructure | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-19 | https://microsoft.ai/job/software-engineer-ai-infra/
 <!-- SEEN-INDEX-END -->
