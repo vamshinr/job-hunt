@@ -469,4 +469,18 @@
 - PagerDuty | Senior AI/ML Engineer | San Francisco, CA (Hybrid) | 2026-09-15 | https://job-boards.greenhouse.io/pagerduty/jobs/6144823004
 - Scale AI | Software Engineer, ML Infrastructure - Evaluation Platform | San Francisco / New York / Seattle | 2026-09-15 | https://job-boards.greenhouse.io/scaleai/jobs/4471318005
 - Snorkel AI | Senior/Staff AI Engineer | San Francisco, CA / New York City, NY (Hybrid) | 2026-09-15 | https://job-boards.greenhouse.io/snorkelai/jobs/6185944004
+- Fireworks AI | Software Engineer, LLM Infrastructure | New York, NY / San Mateo, CA | 2026-09-15 | https://fireworks.ai/careers
+- MARA | Lead Software Engineer, ML & Agentic Workloads | Remote — United States | 2026-09-15 | https://job-boards.greenhouse.io/mara/jobs/4640830005
+- Cerebras Systems | Software Engineer, GPU Inference | Sunnyvale, CA | 2026-09-16 | https://job-boards.greenhouse.io/cerebrassystems/jobs/7487314003
+- NEAR AI | LLM Inference Engineer | Remote / San Francisco, CA | 2026-09-16 | https://www.linkedin.com/jobs/view/llm-inference-engineer-at-near-ai-4436099647
+- fal | Staff Software Engineer, ML Performance & Systems | San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/fal/ca46206d-1515-4d26-af24-b1dd39f28833
+- Yotta Labs | Research Engineer, AI Systems | Remote — United States | 2026-09-16 | https://jobs.ashbyhq.com/yotta/5ad886ff-a109-424e-910d-bb764a5201e9
+- Elorian AI | Inference Infrastructure Engineer, Serving | Palo Alto, CA (Hybrid) | 2026-09-16 | https://jobs.ashbyhq.com/elorian-ai-inc
+- Prime Intellect | Research Engineer, RL Infrastructure | Remote / San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/PrimeIntellect/05e4b76b-2570-4c89-baf2-9833fff7378f
+- Prime Intellect | Research Engineer, Distributed Training | Remote / San Francisco, CA | 2026-09-16 | https://jobs.ashbyhq.com/primeintellect/8bd52610-175c-42a7-a7cd-b29c45f9d305
+- Anthropic | Senior / Staff Software Engineer, Inference | San Francisco, CA | 2026-09-17 | https://job-boards.greenhouse.io/anthropic/jobs/4753256008
+- NVIDIA | Senior AI Software Development Engineer, TensorRT-LLM | Santa Clara, CA | 2026-09-17 | https://jobs.nvidia.com/careers/job/893392262752
+- Snowflake | AI System Research and Development Engineer - Optimization | Menlo Park, CA | 2026-09-18 | https://careers.snowflake.com/us/en/job/SNCOUSCC00B9E6FD7A40EC993FA4F667FBE0C7EXTERNALENUSB8B30900135E493791B4CEC38D7901FD/AI-System-Research-and-Development-Engineer-Optimization
+- Inception Labs | Member of Technical Staff, Inference & Serving | San Mateo, CA | 2026-09-18 | https://www.inceptionlabs.ai/careers
+- Apple | Sr./Staff ML Infrastructure Engineer, Compute (TPU Scheduling) - Foundation Model | Santa Clara, CA (SF Bay Area — hybrid) | 2026-09-19 | https://jobs.apple.com/en-us/details/200661483-3760/sr-staff-ml-infrastructure-engineer-compute-tpu-scheduling-foundation-model
 <!-- SEEN-INDEX-END -->
