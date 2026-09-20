@@ -491,4 +491,5 @@
 - Qualcomm | Cloud Machine Learning LLM Serving Engineer | Bangalore, Karnataka, India | 2026-09-20 | https://careers.qualcomm.com/careers/job/446705532311-cloud-machine-learning-llm-serving-engineer-bangalore-karnataka-india
 - Qualcomm | Cloud Machine Learning LLM Serving Staff Engineer | Bangalore, Karnataka, India | 2026-09-20 | https://careers.qualcomm.com/careers/job/446714897354-cloud-machine-learning-llm-serving-staff-engineer-bangalore-karnataka-india
 - OpenRouter | Software Engineer, Platform | Remote — United States | 2026-09-20 | https://jobs.ashbyhq.com/openrouter/47c2bcd2-f71c-47a6-831f-a4130d607a7b
+- SpreeAI | Software Engineer (AI Infrastructure / Training / Inference) | San Francisco, CA (hybrid) | 2026-09-20 | https://ats.rippling.com/spreeai/jobs/d19b529a-386d-4d05-b084-9be82c8bcf1c
 <!-- SEEN-INDEX-END -->
