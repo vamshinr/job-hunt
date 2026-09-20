@@ -485,4 +485,7 @@
 - Apple | Sr./Staff ML Infrastructure Engineer, Compute (TPU Scheduling) - Foundation Model | Santa Clara, CA (SF Bay Area — hybrid) | 2026-09-19 | https://jobs.apple.com/en-us/details/200661483-3760/sr-staff-ml-infrastructure-engineer-compute-tpu-scheduling-foundation-model
 - Microsoft AI | Software Engineer, AI Infrastructure | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-19 | https://microsoft.ai/job/software-engineer-ai-infra/
 - Microsoft AI (MAI) | Member of Technical Staff, Pre-Training Infrastructure | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-19 | https://microsoft.ai/job/member-of-technical-staff-pre-training-infrastructure-mai-superintelligence-team/
+- Perplexity AI | Member of Technical Staff (Software Engineer, Model Platform) | San Francisco, CA | 2026-09-20 | https://jobs.ashbyhq.com/perplexity
+- Waymo | Senior Machine Learning Engineer, Runtime and Serving | Mountain View, CA | 2026-09-20 | https://careers.withwaymo.com/jobs/senior-machine-learning-engineer-runtime-and-serving-mountain-view-california-united-states
+- Waymo | Senior Software Engineer, Bulk/Interactive Inference | Mountain View, CA | 2026-09-20 | https://careers.withwaymo.com/jobs/software-engineer-bulk-interactive-inference-mountain-view-california-united-states
 <!-- SEEN-INDEX-END -->
