@@ -488,4 +488,7 @@
 - Perplexity AI | Member of Technical Staff (Software Engineer, Model Platform) | San Francisco, CA | 2026-09-20 | https://jobs.ashbyhq.com/perplexity
 - Waymo | Senior Machine Learning Engineer, Runtime and Serving | Mountain View, CA | 2026-09-20 | https://careers.withwaymo.com/jobs/senior-machine-learning-engineer-runtime-and-serving-mountain-view-california-united-states
 - Waymo | Senior Software Engineer, Bulk/Interactive Inference | Mountain View, CA | 2026-09-20 | https://careers.withwaymo.com/jobs/software-engineer-bulk-interactive-inference-mountain-view-california-united-states
+- Qualcomm | Cloud Machine Learning LLM Serving Engineer | Bangalore, Karnataka, India | 2026-09-20 | https://careers.qualcomm.com/careers/job/446705532311-cloud-machine-learning-llm-serving-engineer-bangalore-karnataka-india
+- Qualcomm | Cloud Machine Learning LLM Serving Staff Engineer | Bangalore, Karnataka, India | 2026-09-20 | https://careers.qualcomm.com/careers/job/446714897354-cloud-machine-learning-llm-serving-staff-engineer-bangalore-karnataka-india
+- OpenRouter | Software Engineer, Platform | Remote — United States | 2026-09-20 | https://jobs.ashbyhq.com/openrouter/47c2bcd2-f71c-47a6-831f-a4130d607a7b
 <!-- SEEN-INDEX-END -->
