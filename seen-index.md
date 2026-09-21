@@ -494,4 +494,6 @@
 - SpreeAI | Software Engineer (AI Infrastructure / Training / Inference) | San Francisco, CA (hybrid) | 2026-09-20 | https://ats.rippling.com/spreeai/jobs/d19b529a-386d-4d05-b084-9be82c8bcf1c
 - OpenAI | AI Infrastructure Engineer, pAGI | San Francisco, CA | 2026-09-21 | https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba
 - Samsara | Lead Machine Learning Engineer, ML Infrastructure | Remote — United States | 2026-09-21 | https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193
+- RadixArk | Member of Technical Staff, Performance | Palo Alto, CA | 2026-09-21 | https://job-boards.greenhouse.io/radixark
+- RadixArk | Member of Technical Staff, Inference-Multi-Hardware | Palo Alto, CA | 2026-09-21 | https://job-boards.greenhouse.io/radixark
 <!-- SEEN-INDEX-END -->
