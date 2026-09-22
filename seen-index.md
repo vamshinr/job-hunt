@@ -498,4 +498,6 @@
 - RadixArk | Member of Technical Staff, Inference-Multi-Hardware | Palo Alto, CA | 2026-09-21 | https://job-boards.greenhouse.io/radixark
 - Capital One | Senior Lead AI Engineering (GenAI Platform Services: Agentic Systems) | San Francisco, CA | 2026-09-22 | https://www.capitalonecareers.com/job/san-francisco/senior-lead-ai-engineering-genai-platform-services-agentic-systems/1732/100352508752
 - Anthropic | Senior Software Engineer, Inference | San Francisco, CA | 2026-09-22 | https://job-boards.greenhouse.io/anthropic/jobs/4641822008
+- vCluster Labs | Senior Inference Engineer | Remote — United States | 2026-09-22 | https://www.vcluster.com/careers/bc65fb85-af90-4d2c-b62b-f730815248c7
+- Wispr Flow | ML Engineer | San Francisco, CA (Remote — United States for some roles) | 2026-09-22 | https://jobs.ashbyhq.com/wispr-flow/9cf022b6-55b1-4fcc-940a-6988bd94b6d3
 <!-- SEEN-INDEX-END -->
