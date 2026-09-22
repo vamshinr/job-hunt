@@ -496,4 +496,6 @@
 - Samsara | Lead Machine Learning Engineer, ML Infrastructure | Remote — United States | 2026-09-21 | https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193
 - RadixArk | Member of Technical Staff, Performance | Palo Alto, CA | 2026-09-21 | https://job-boards.greenhouse.io/radixark
 - RadixArk | Member of Technical Staff, Inference-Multi-Hardware | Palo Alto, CA | 2026-09-21 | https://job-boards.greenhouse.io/radixark
+- Capital One | Senior Lead AI Engineering (GenAI Platform Services: Agentic Systems) | San Francisco, CA | 2026-09-22 | https://www.capitalonecareers.com/job/san-francisco/senior-lead-ai-engineering-genai-platform-services-agentic-systems/1732/100352508752
+- Anthropic | Senior Software Engineer, Inference | San Francisco, CA | 2026-09-22 | https://job-boards.greenhouse.io/anthropic/jobs/4641822008
 <!-- SEEN-INDEX-END -->
