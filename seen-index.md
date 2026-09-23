@@ -506,4 +506,5 @@
 - Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities) | San Francisco, CA / New York, NY | 2026-09-23 | https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892
 - Anthropic | Staff+ Software Engineer, Claude Managed Agents | San Francisco, CA / New York City, NY | 2026-09-23 | https://job-boards.greenhouse.io/anthropic/jobs/5395767008
 - Harvey | Senior Software Engineer, Model Infrastructure | San Francisco, CA | 2026-09-23 | https://jobs.ashbyhq.com/harvey
+- Pokee AI | AI Infrastructure Engineer | Remote (US preferred) | 2026-09-23 | https://pokee.ai/careers/ai-infrastructure-engineer
 <!-- SEEN-INDEX-END -->
