@@ -504,4 +504,6 @@
 - Cohere | Applied AI Engineer, Agents & Automations | Remote — Global (Toronto / New York / Ottawa / Montreal / UK) | 2026-09-22 | https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e
 - Anthropic | Staff + Senior Software Engineer, Inference Infrastructure | San Francisco, CA / New York, NY / Seattle, WA | 2026-09-23 | https://job-boards.greenhouse.io/anthropic/jobs/5245851008
 - Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities) | San Francisco, CA / New York, NY | 2026-09-23 | https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892
+- Anthropic | Staff+ Software Engineer, Claude Managed Agents | San Francisco, CA / New York City, NY | 2026-09-23 | https://job-boards.greenhouse.io/anthropic/jobs/5395767008
+- Harvey | Senior Software Engineer, Model Infrastructure | San Francisco, CA | 2026-09-23 | https://jobs.ashbyhq.com/harvey
 <!-- SEEN-INDEX-END -->
