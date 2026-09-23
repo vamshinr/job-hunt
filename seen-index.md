@@ -502,4 +502,6 @@
 - Wispr Flow | ML Engineer | San Francisco, CA (Remote — United States for some roles) | 2026-09-22 | https://jobs.ashbyhq.com/wispr-flow/9cf022b6-55b1-4fcc-940a-6988bd94b6d3
 - Microsoft AI (MAI) | Member of Technical Staff, Compute Orchestration & Scheduling | Mountain View, CA / Redmond, WA / New York, NY (hybrid) | 2026-09-22 | https://microsoft.ai/job/member-of-technical-staff-compute-orchestration-scheduling-mai-superintelligence-team-2/
 - Cohere | Applied AI Engineer, Agents & Automations | Remote — Global (Toronto / New York / Ottawa / Montreal / UK) | 2026-09-22 | https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e
+- Anthropic | Staff + Senior Software Engineer, Inference Infrastructure | San Francisco, CA / New York, NY / Seattle, WA | 2026-09-23 | https://job-boards.greenhouse.io/anthropic/jobs/5245851008
+- Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities) | San Francisco, CA / New York, NY | 2026-09-23 | https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892
 <!-- SEEN-INDEX-END -->
