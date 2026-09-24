@@ -507,4 +507,6 @@
 - Anthropic | Staff+ Software Engineer, Claude Managed Agents | San Francisco, CA / New York City, NY | 2026-09-23 | https://job-boards.greenhouse.io/anthropic/jobs/5395767008
 - Harvey | Senior Software Engineer, Model Infrastructure | San Francisco, CA | 2026-09-23 | https://jobs.ashbyhq.com/harvey
 - Pokee AI | AI Infrastructure Engineer | Remote (US preferred) | 2026-09-23 | https://pokee.ai/careers/ai-infrastructure-engineer
+- NVIDIA | Senior DGX Cloud AI Infrastructure Software Engineer | Santa Clara, CA / Remote (OR, WA) | 2026-09-24 | https://jobs.nvidia.com/careers/job/893393115205
+- Microsoft AI | Senior and/or Principal Software Engineer, LLM Serving Performance | Mountain View, CA (Bay Area hybrid) | 2026-09-24 | https://freehire.me/jobs/senior-and-or-principal-software-engineer-llm-serving-performance-microsoft-lznngvke
 <!-- SEEN-INDEX-END -->
