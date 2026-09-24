@@ -509,4 +509,6 @@
 - Pokee AI | AI Infrastructure Engineer | Remote (US preferred) | 2026-09-23 | https://pokee.ai/careers/ai-infrastructure-engineer
 - NVIDIA | Senior DGX Cloud AI Infrastructure Software Engineer | Santa Clara, CA / Remote (OR, WA) | 2026-09-24 | https://jobs.nvidia.com/careers/job/893393115205
 - Microsoft AI | Senior and/or Principal Software Engineer, LLM Serving Performance | Mountain View, CA (Bay Area hybrid) | 2026-09-24 | https://freehire.me/jobs/senior-and-or-principal-software-engineer-llm-serving-performance-microsoft-lznngvke
+- Atlassian | Machine Learning Software Engineer | Remote India / Bengaluru | 2026-09-24 | https://www.atlassian.com/company/careers/details/22915
+- Dialpad | Sr. Software Engineer, AI / ML Inference Platform | Remote — United States | 2026-09-24 | https://job-boards.greenhouse.io/dialpad/jobs/8785402002
 <!-- SEEN-INDEX-END -->
