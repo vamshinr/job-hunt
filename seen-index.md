@@ -512,4 +512,6 @@
 - Atlassian | Machine Learning Software Engineer | Remote India / Bengaluru | 2026-09-24 | https://www.atlassian.com/company/careers/details/22915
 - Dialpad | Sr. Software Engineer, AI / ML Inference Platform | Remote — United States | 2026-09-24 | https://job-boards.greenhouse.io/dialpad/jobs/8785402002
 - Inflection AI | Staff Engineer, Agentic | Palo Alto, CA | 2026-09-24 | https://job-boards.greenhouse.io/inflectionai/jobs/4681064006
+- Fireworks AI | AI Field Engineer, AI Natives | Remote US / New York, NY / San Mateo, CA | 2026-09-25 | https://jobs.ashbyhq.com/fireworks/7730b5a4-0b58-46c7-bcff-61a929a3d1bd
+- Stealth AI Infra (via Raydar/Paraform) | Member of Technical Staff, Inference Systems | San Francisco / South Bay Area, CA | 2026-09-25 | https://freehire.me/jobs/member-of-technical-staff-inference-systems-raydar-x5f4q3oh
 <!-- SEEN-INDEX-END -->
