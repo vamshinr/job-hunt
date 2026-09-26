@@ -516,4 +516,6 @@
 - Stealth AI Infra (via Raydar/Paraform) | Member of Technical Staff, Inference Systems | San Francisco / South Bay Area, CA | 2026-09-25 | https://freehire.me/jobs/member-of-technical-staff-inference-systems-raydar-x5f4q3oh
 - NVIDIA | Principal Software Engineer, Large-Scale LLM Memory and Storage Systems | Santa Clara, CA | 2026-09-25 | https://jobs.nvidia.com/careers/job/893392559275
 - Odyssey (odysseyml) | Member of Technical Staff, ML Performance | Santa Clara, CA | 2026-09-25 | https://jobs.ashbyhq.com/odysseyml/28c99a01-1e1a-498c-adca-f2271656e824
+- Anthropic | TPU Kernel Engineer | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-26 | https://job-boards.greenhouse.io/anthropic/jobs/4720576008
+- Anthropic | Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-26 | https://job-boards.greenhouse.io/anthropic/jobs/4970314008
 <!-- SEEN-INDEX-END -->
