@@ -518,4 +518,6 @@
 - Odyssey (odysseyml) | Member of Technical Staff, ML Performance | Santa Clara, CA | 2026-09-25 | https://jobs.ashbyhq.com/odysseyml/28c99a01-1e1a-498c-adca-f2271656e824
 - Anthropic | TPU Kernel Engineer | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-26 | https://job-boards.greenhouse.io/anthropic/jobs/4720576008
 - Anthropic | Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-26 | https://job-boards.greenhouse.io/anthropic/jobs/4970314008
+- NVIDIA | AI Computing Software Development Engineer, TensorRT-LLM | Santa Clara, CA | 2026-09-26 | https://jobs.nvidia.com/careers/job/893391509896
+- Databricks | Staff Software Engineer, Foundation Model API | San Francisco, CA | 2026-09-26 | https://www.databricks.com/company/careers/engineering/staff-software-engineer-foundation-model-api-8637143002?gh_jid=8637143002
 <!-- SEEN-INDEX-END -->
