@@ -521,4 +521,6 @@
 - NVIDIA | AI Computing Software Development Engineer, TensorRT-LLM | Santa Clara, CA | 2026-09-26 | https://jobs.nvidia.com/careers/job/893391509896
 - Databricks | Staff Software Engineer, Foundation Model API | San Francisco, CA | 2026-09-26 | https://www.databricks.com/company/careers/engineering/staff-software-engineer-foundation-model-api-8637143002?gh_jid=8637143002
 - RunPod | Senior ML Systems Engineer, Inference | Remote — United States | 2026-09-26 | https://jobs.ashbyhq.com/runpod/6c67ef7b-ae53-42fd-a1ca-6c635f8f00ff
+- TypeSafe AI | Member of Technical Staff, Infrastructure (Kubernetes Specialist) | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/4da613b6-6d56-4e8d-8cc4-fad8ca57e4ce
+- TypeSafe AI | Member of Technical Staff, Backend/Platform | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/d15fb33c-0679-4822-be50-2afb75320e4b
 <!-- SEEN-INDEX-END -->
