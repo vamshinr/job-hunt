@@ -524,4 +524,5 @@
 - TypeSafe AI | Member of Technical Staff, Infrastructure (Kubernetes Specialist) | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/4da613b6-6d56-4e8d-8cc4-fad8ca57e4ce
 - TypeSafe AI | Member of Technical Staff, Backend/Platform | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/d15fb33c-0679-4822-be50-2afb75320e4b
 - Google DeepMind | Staff Software Engineer, Inference Performance Optimization, GenAI | Mountain View, CA | 2026-09-27 | https://www.google.com/about/careers/applications/jobs/results/123195592674288326-staff-software-engineer-inference-performance-optimization-genai-deepmind
+- Abridge | Machine Learning Infrastructure Engineer, Model Inference | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b
 <!-- SEEN-INDEX-END -->
