@@ -525,4 +525,5 @@
 - TypeSafe AI | Member of Technical Staff, Backend/Platform | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/d15fb33c-0679-4822-be50-2afb75320e4b
 - Google DeepMind | Staff Software Engineer, Inference Performance Optimization, GenAI | Mountain View, CA | 2026-09-27 | https://www.google.com/about/careers/applications/jobs/results/123195592674288326-staff-software-engineer-inference-performance-optimization-genai-deepmind
 - Abridge | Machine Learning Infrastructure Engineer, Model Inference | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b
+- AMD | Sr. AI/ML Platform Engineer | Santa Clara, CA | 2026-09-28 | https://careers.amd.com/careers-home/jobs/87746
 <!-- SEEN-INDEX-END -->
