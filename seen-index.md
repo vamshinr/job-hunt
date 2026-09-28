@@ -526,4 +526,6 @@
 - Google DeepMind | Staff Software Engineer, Inference Performance Optimization, GenAI | Mountain View, CA | 2026-09-27 | https://www.google.com/about/careers/applications/jobs/results/123195592674288326-staff-software-engineer-inference-performance-optimization-genai-deepmind
 - Abridge | Machine Learning Infrastructure Engineer, Model Inference | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b
 - AMD | Sr. AI/ML Platform Engineer | Santa Clara, CA | 2026-09-28 | https://careers.amd.com/careers-home/jobs/87746
+- Motive | Senior AI Platform Engineer (Enterprise Systems) | India — Remote | 2026-09-28 | https://job-boards.greenhouse.io/gomotive/jobs/8781585002
+- Cerebras Systems | ML Systems Performance Engineer | Sunnyvale, CA | 2026-09-28 | https://jobs.ashbyhq.com/cerebras/474768a4-7e4f-43c9-a9d3-f23dfe6be406
 <!-- SEEN-INDEX-END -->
