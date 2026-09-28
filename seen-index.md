@@ -528,4 +528,5 @@
 - AMD | Sr. AI/ML Platform Engineer | Santa Clara, CA | 2026-09-28 | https://careers.amd.com/careers-home/jobs/87746
 - Motive | Senior AI Platform Engineer (Enterprise Systems) | India — Remote | 2026-09-28 | https://job-boards.greenhouse.io/gomotive/jobs/8781585002
 - Cerebras Systems | ML Systems Performance Engineer | Sunnyvale, CA | 2026-09-28 | https://jobs.ashbyhq.com/cerebras/474768a4-7e4f-43c9-a9d3-f23dfe6be406
+- Tenstorrent | Staff Forward Deployed Engineer | Remote — North America (Santa Clara, CA / Austin, TX / Toronto, ON) | 2026-09-28 | https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007
 <!-- SEEN-INDEX-END -->
