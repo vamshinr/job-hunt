@@ -506,4 +506,28 @@
 - Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities) | San Francisco, CA / New York, NY | 2026-09-23 | https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892
 - Anthropic | Staff+ Software Engineer, Claude Managed Agents | San Francisco, CA / New York City, NY | 2026-09-23 | https://job-boards.greenhouse.io/anthropic/jobs/5395767008
 - Harvey | Senior Software Engineer, Model Infrastructure | San Francisco, CA | 2026-09-23 | https://jobs.ashbyhq.com/harvey
+- Pokee AI | AI Infrastructure Engineer | Remote (US preferred) | 2026-09-23 | https://pokee.ai/careers/ai-infrastructure-engineer
+- NVIDIA | Senior DGX Cloud AI Infrastructure Software Engineer | Santa Clara, CA / Remote (OR, WA) | 2026-09-24 | https://jobs.nvidia.com/careers/job/893393115205
+- Microsoft AI | Senior and/or Principal Software Engineer, LLM Serving Performance | Mountain View, CA (Bay Area hybrid) | 2026-09-24 | https://freehire.me/jobs/senior-and-or-principal-software-engineer-llm-serving-performance-microsoft-lznngvke
+- Atlassian | Machine Learning Software Engineer | Remote India / Bengaluru | 2026-09-24 | https://www.atlassian.com/company/careers/details/22915
+- Dialpad | Sr. Software Engineer, AI / ML Inference Platform | Remote — United States | 2026-09-24 | https://job-boards.greenhouse.io/dialpad/jobs/8785402002
+- Inflection AI | Staff Engineer, Agentic | Palo Alto, CA | 2026-09-24 | https://job-boards.greenhouse.io/inflectionai/jobs/4681064006
+- Fireworks AI | AI Field Engineer, AI Natives | Remote US / New York, NY / San Mateo, CA | 2026-09-25 | https://jobs.ashbyhq.com/fireworks/7730b5a4-0b58-46c7-bcff-61a929a3d1bd
+- Stealth AI Infra (via Raydar/Paraform) | Member of Technical Staff, Inference Systems | San Francisco / South Bay Area, CA | 2026-09-25 | https://freehire.me/jobs/member-of-technical-staff-inference-systems-raydar-x5f4q3oh
+- NVIDIA | Principal Software Engineer, Large-Scale LLM Memory and Storage Systems | Santa Clara, CA | 2026-09-25 | https://jobs.nvidia.com/careers/job/893392559275
+- Odyssey (odysseyml) | Member of Technical Staff, ML Performance | Santa Clara, CA | 2026-09-25 | https://jobs.ashbyhq.com/odysseyml/28c99a01-1e1a-498c-adca-f2271656e824
+- Anthropic | TPU Kernel Engineer | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-26 | https://job-boards.greenhouse.io/anthropic/jobs/4720576008
+- Anthropic | Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco, CA / New York City, NY / Seattle, WA | 2026-09-26 | https://job-boards.greenhouse.io/anthropic/jobs/4970314008
+- NVIDIA | AI Computing Software Development Engineer, TensorRT-LLM | Santa Clara, CA | 2026-09-26 | https://jobs.nvidia.com/careers/job/893391509896
+- Databricks | Staff Software Engineer, Foundation Model API | San Francisco, CA | 2026-09-26 | https://www.databricks.com/company/careers/engineering/staff-software-engineer-foundation-model-api-8637143002?gh_jid=8637143002
+- RunPod | Senior ML Systems Engineer, Inference | Remote — United States | 2026-09-26 | https://jobs.ashbyhq.com/runpod/6c67ef7b-ae53-42fd-a1ca-6c635f8f00ff
+- TypeSafe AI | Member of Technical Staff, Infrastructure (Kubernetes Specialist) | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/4da613b6-6d56-4e8d-8cc4-fad8ca57e4ce
+- TypeSafe AI | Member of Technical Staff, Backend/Platform | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/typesafe-ai/d15fb33c-0679-4822-be50-2afb75320e4b
+- Google DeepMind | Staff Software Engineer, Inference Performance Optimization, GenAI | Mountain View, CA | 2026-09-27 | https://www.google.com/about/careers/applications/jobs/results/123195592674288326-staff-software-engineer-inference-performance-optimization-genai-deepmind
+- Abridge | Machine Learning Infrastructure Engineer, Model Inference | San Francisco, CA | 2026-09-27 | https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b
+- AMD | Sr. AI/ML Platform Engineer | Santa Clara, CA | 2026-09-28 | https://careers.amd.com/careers-home/jobs/87746
+- Motive | Senior AI Platform Engineer (Enterprise Systems) | India — Remote | 2026-09-28 | https://job-boards.greenhouse.io/gomotive/jobs/8781585002
+- Cerebras Systems | ML Systems Performance Engineer | Sunnyvale, CA | 2026-09-28 | https://jobs.ashbyhq.com/cerebras/474768a4-7e4f-43c9-a9d3-f23dfe6be406
+- Tenstorrent | Staff Forward Deployed Engineer | Remote — North America (Santa Clara, CA / Austin, TX / Toronto, ON) | 2026-09-28 | https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007
+- Institute of Foundation Models | Senior MLOps Engineer | Sunnyvale, CA | 2026-09-29 | https://jobs.lever.co/ifm-us/5f0feab3-1309-4c24-a703-ed1993c448b9
 <!-- SEEN-INDEX-END -->
