@@ -531,4 +531,6 @@
 - Tenstorrent | Staff Forward Deployed Engineer | Remote — North America (Santa Clara, CA / Austin, TX / Toronto, ON) | 2026-09-28 | https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007
 - Institute of Foundation Models | Senior MLOps Engineer | Sunnyvale, CA | 2026-09-29 | https://jobs.lever.co/ifm-us/5f0feab3-1309-4c24-a703-ed1993c448b9
 - Pluralis Research | Research Engineer, Geo-Distributed Inference | Remote — United States | 2026-09-30 | https://jobs.coinfund.io/companies/pluralis-research/jobs/91751992-research-engineer-geo-distributed-inference
+- TRM Labs | Machine Learning Infrastructure Engineer | San Francisco, CA | 2026-09-30 | https://job-boards.greenhouse.io/trmlabs/jobs/5811282004
+- Majestic Labs AI | LLM Inference Engineer | Los Altos, CA | 2026-09-30 | https://careers.grovevc.com/companies/majestic-labs-ai-2/jobs/82820335-llm-inference-engineer
 <!-- SEEN-INDEX-END -->
