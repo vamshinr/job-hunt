@@ -530,4 +530,5 @@
 - Cerebras Systems | ML Systems Performance Engineer | Sunnyvale, CA | 2026-09-28 | https://jobs.ashbyhq.com/cerebras/474768a4-7e4f-43c9-a9d3-f23dfe6be406
 - Tenstorrent | Staff Forward Deployed Engineer | Remote — North America (Santa Clara, CA / Austin, TX / Toronto, ON) | 2026-09-28 | https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007
 - Institute of Foundation Models | Senior MLOps Engineer | Sunnyvale, CA | 2026-09-29 | https://jobs.lever.co/ifm-us/5f0feab3-1309-4c24-a703-ed1993c448b9
+- Pluralis Research | Research Engineer, Geo-Distributed Inference | Remote — United States | 2026-09-30 | https://jobs.coinfund.io/companies/pluralis-research/jobs/91751992-research-engineer-geo-distributed-inference
 <!-- SEEN-INDEX-END -->
