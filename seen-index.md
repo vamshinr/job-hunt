@@ -533,4 +533,7 @@
 - Pluralis Research | Research Engineer, Geo-Distributed Inference | Remote — United States | 2026-09-30 | https://jobs.coinfund.io/companies/pluralis-research/jobs/91751992-research-engineer-geo-distributed-inference
 - TRM Labs | Machine Learning Infrastructure Engineer | San Francisco, CA | 2026-09-30 | https://job-boards.greenhouse.io/trmlabs/jobs/5811282004
 - Majestic Labs AI | LLM Inference Engineer | Los Altos, CA | 2026-09-30 | https://careers.grovevc.com/companies/majestic-labs-ai-2/jobs/82820335-llm-inference-engineer
+- OpenAI | Systems Generalist, GPT Infrastructure | San Francisco, CA / Seattle, WA | 2026-09-30 | https://openai.com/careers/systems-generalist-gpt-infrastructure-san-francisco/
+- Cohere | Member of Technical Staff, Inference & Model Serving | Remote — Global | 2026-09-30 | https://jobs.lever.co/cohere/bc7fe1d1-ac00-4ea3-96a4-7ad1858406af
+- Netflix | Software Engineer L5, LLM Compute & Serving Systems | Remote — United States | 2026-09-30 | https://builtin.com/job/software-engineer-l5-llm-compute-serving-systems/6694630
 <!-- SEEN-INDEX-END -->
