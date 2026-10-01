@@ -539,4 +539,6 @@
 - Inferact | Member of Technical Staff, AMD GPU Performance Engineering | San Francisco, CA | 2026-10-01 | https://jobs.ashbyhq.com/inferact/24ea1266-bc29-4838-9a61-8adc1d5bb2c6
 - Perplexity AI | Software Engineer, Agent Infra | San Francisco / Palo Alto, CA / New York, NY | 2026-10-01 | https://job-boards.greenhouse.io/perplexityai/jobs/4859811007
 - Perplexity AI | AI Engineer, Personalization Infrastructure | San Francisco / Palo Alto, CA / New York, NY | 2026-10-01 | https://job-boards.greenhouse.io/perplexityai/jobs/4823965007
+- OpenAI | Software Engineer, Productivity - Inference Runtime | San Francisco, CA | 2026-10-01 | https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f
+- OpenAI | Software Engineer, Productivity - Model Performance | San Francisco, CA | 2026-10-01 | https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a
 <!-- SEEN-INDEX-END -->
