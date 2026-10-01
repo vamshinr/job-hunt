@@ -537,4 +537,6 @@
 - Cohere | Member of Technical Staff, Inference & Model Serving | Remote — Global | 2026-09-30 | https://jobs.lever.co/cohere/bc7fe1d1-ac00-4ea3-96a4-7ad1858406af
 - Netflix | Software Engineer L5, LLM Compute & Serving Systems | Remote — United States | 2026-09-30 | https://builtin.com/job/software-engineer-l5-llm-compute-serving-systems/6694630
 - Inferact | Member of Technical Staff, AMD GPU Performance Engineering | San Francisco, CA | 2026-10-01 | https://jobs.ashbyhq.com/inferact/24ea1266-bc29-4838-9a61-8adc1d5bb2c6
+- Perplexity AI | Software Engineer, Agent Infra | San Francisco / Palo Alto, CA / New York, NY | 2026-10-01 | https://job-boards.greenhouse.io/perplexityai/jobs/4859811007
+- Perplexity AI | AI Engineer, Personalization Infrastructure | San Francisco / Palo Alto, CA / New York, NY | 2026-10-01 | https://job-boards.greenhouse.io/perplexityai/jobs/4823965007
 <!-- SEEN-INDEX-END -->
