@@ -541,4 +541,6 @@
 - Perplexity AI | AI Engineer, Personalization Infrastructure | San Francisco / Palo Alto, CA / New York, NY | 2026-10-01 | https://job-boards.greenhouse.io/perplexityai/jobs/4823965007
 - OpenAI | Software Engineer, Productivity - Inference Runtime | San Francisco, CA | 2026-10-01 | https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f
 - OpenAI | Software Engineer, Productivity - Model Performance | San Francisco, CA | 2026-10-01 | https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a
+- Anthropic | Staff+ Software Engineer, Inference Velocity | Remote-Friendly / San Francisco, CA / Seattle, WA / New York City, NY | 2026-10-02 | https://job-boards.greenhouse.io/anthropic/jobs/5097742008
+- ServiceNow (Moveworks) | Senior Agentic Search Infrastructure Engineer | Mountain View, CA | 2026-10-02 | https://careers.servicenow.com/jobs/744000139345783/senior-agentic-search-infrastructure-engineer-moveworks/
 <!-- SEEN-INDEX-END -->
