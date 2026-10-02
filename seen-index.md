@@ -545,4 +545,6 @@
 - ServiceNow (Moveworks) | Senior Agentic Search Infrastructure Engineer | Mountain View, CA | 2026-10-02 | https://careers.servicenow.com/jobs/744000139345783/senior-agentic-search-infrastructure-engineer-moveworks/
 - ElevenLabs | Research Engineer, Inference | Remote — United States (Global) | 2026-10-02 | https://elevenlabs.io/careers/2d7f9a7c-a9e6-4877-bb38-34e4d989054c/research-engineer-inference
 - Cognite | Senior Machine Learning Engineer | Bengaluru, India | 2026-10-02 | https://job-boards.greenhouse.io/cognite/jobs/4897493101
+- KREA AI | ML Inference Engineer | San Francisco, CA | 2026-10-02 | https://jobs.ashbyhq.com/krea/06a135f6-fb4c-446c-ac99-be1af655b964
+- KREA AI | Engineer, Supercomputing & Distributed Systems | San Francisco, CA | 2026-10-02 | https://jobs.ashbyhq.com/krea/ebe94024-eef6-4306-a019-10072ad0f4c9
 <!-- SEEN-INDEX-END -->
