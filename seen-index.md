@@ -550,4 +550,5 @@
 - Evergrid | AI Inference Engineer | New York City / Remote — United States | 2026-10-03 | https://jobs.ashbyhq.com/evergrid/9ff4708f-4025-42d9-a6b7-2e014eeda3ae
 - Cerebras Systems | Staff Software Engineer, Inference API | Sunnyvale, CA | 2026-10-03 | https://jobs.ashbyhq.com/cerebras/78f1098a-6022-40ba-b7a0-948711921de2
 - Robinhood | Senior Machine Learning Engineer, AI Infra | Menlo Park, CA (Bay Area hybrid) | 2026-10-03 | https://job-boards.greenhouse.io/robinhood/jobs/8189874
+- Capital One | Senior Staff AI Engineer, Agentic AI Platform | Remote Eligible (San Francisco CA / McLean VA / New York NY / San Jose CA / Cambridge MA) | 2026-10-03 | https://www.capitalonecareers.com/job/san-francisco/senior-staff-ai-engineer-agentic-ai-platform-remote-eligible/1732/101243815024
 <!-- SEEN-INDEX-END -->
