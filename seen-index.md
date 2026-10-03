@@ -547,4 +547,7 @@
 - Cognite | Senior Machine Learning Engineer | Bengaluru, India | 2026-10-02 | https://job-boards.greenhouse.io/cognite/jobs/4897493101
 - KREA AI | ML Inference Engineer | San Francisco, CA | 2026-10-02 | https://jobs.ashbyhq.com/krea/06a135f6-fb4c-446c-ac99-be1af655b964
 - KREA AI | Engineer, Supercomputing & Distributed Systems | San Francisco, CA | 2026-10-02 | https://jobs.ashbyhq.com/krea/ebe94024-eef6-4306-a019-10072ad0f4c9
+- Evergrid | AI Inference Engineer | New York City / Remote — United States | 2026-10-03 | https://jobs.ashbyhq.com/evergrid/9ff4708f-4025-42d9-a6b7-2e014eeda3ae
+- Cerebras Systems | Staff Software Engineer, Inference API | Sunnyvale, CA | 2026-10-03 | https://jobs.ashbyhq.com/cerebras/78f1098a-6022-40ba-b7a0-948711921de2
+- Robinhood | Senior Machine Learning Engineer, AI Infra | Menlo Park, CA (Bay Area hybrid) | 2026-10-03 | https://job-boards.greenhouse.io/robinhood/jobs/8189874
 <!-- SEEN-INDEX-END -->
