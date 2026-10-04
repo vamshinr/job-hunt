@@ -557,4 +557,5 @@
 - Pragmatike | Staff AI Engineer | Remote — United States | 2026-10-04 | https://jobs.ashbyhq.com/pragmatike/942f17f8-6e76-422b-bf19-51e4fa28a044
 - Snowflake | AI Systems Research and Development Engineer - LLM Inference Systems & Optimization | Bellevue, WA | 2026-10-04 | https://careers.wing.vc/companies/snowflake/jobs/92784164-ai-systems-research-and-development-engineer-llm-inference-systems-optimization
 - d-Matrix | Senior Staff LLM Inference Engineer | Santa Clara, CA | 2026-10-04 | https://jobs.ashbyhq.com/d-Matrix/2552f107-5ed7-47f3-b203-c404da391790
+- Pulse | Software Engineer, Inference | San Francisco, CA | 2026-10-04 | https://jobs.ashbyhq.com/pulse/d316e466-7dfe-42f5-af73-215892a658b4
 <!-- SEEN-INDEX-END -->
