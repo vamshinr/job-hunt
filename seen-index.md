@@ -553,4 +553,6 @@
 - Capital One | Senior Staff AI Engineer, Agentic AI Platform | Remote Eligible (San Francisco CA / McLean VA / New York NY / San Jose CA / Cambridge MA) | 2026-10-03 | https://www.capitalonecareers.com/job/san-francisco/senior-staff-ai-engineer-agentic-ai-platform-remote-eligible/1732/101243815024
 - Sarvam AI | Performance Engineer, Inference | Bengaluru / Chennai, India | 2026-10-03 | https://www.sarvam.ai/careers/jobs/7d2faba2-21a1-4a8a-aff5-f708a6959195
 - Sarvam AI | Performance Engineer, Kernels | Bengaluru / Chennai, India | 2026-10-03 | https://www.sarvam.ai/careers/jobs/72783205-b637-4431-9a0e-676a8223b063
+- Lightning AI | Research Engineer, AI/ML Systems | Remote — United States (NYC / SF / Seattle hubs) | 2026-10-04 | https://job-boards.greenhouse.io/lightningai/jobs/6045023003
+- Pragmatike | Staff AI Engineer | Remote — United States | 2026-10-04 | https://jobs.ashbyhq.com/pragmatike/942f17f8-6e76-422b-bf19-51e4fa28a044
 <!-- SEEN-INDEX-END -->
