@@ -555,4 +555,6 @@
 - Sarvam AI | Performance Engineer, Kernels | Bengaluru / Chennai, India | 2026-10-03 | https://www.sarvam.ai/careers/jobs/72783205-b637-4431-9a0e-676a8223b063
 - Lightning AI | Research Engineer, AI/ML Systems | Remote — United States (NYC / SF / Seattle hubs) | 2026-10-04 | https://job-boards.greenhouse.io/lightningai/jobs/6045023003
 - Pragmatike | Staff AI Engineer | Remote — United States | 2026-10-04 | https://jobs.ashbyhq.com/pragmatike/942f17f8-6e76-422b-bf19-51e4fa28a044
+- Snowflake | AI Systems Research and Development Engineer - LLM Inference Systems & Optimization | Bellevue, WA | 2026-10-04 | https://careers.wing.vc/companies/snowflake/jobs/92784164-ai-systems-research-and-development-engineer-llm-inference-systems-optimization
+- d-Matrix | Senior Staff LLM Inference Engineer | Santa Clara, CA | 2026-10-04 | https://jobs.ashbyhq.com/d-Matrix/2552f107-5ed7-47f3-b203-c404da391790
 <!-- SEEN-INDEX-END -->
