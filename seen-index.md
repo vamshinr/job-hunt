@@ -559,4 +559,7 @@
 - d-Matrix | Senior Staff LLM Inference Engineer | Santa Clara, CA | 2026-10-04 | https://jobs.ashbyhq.com/d-Matrix/2552f107-5ed7-47f3-b203-c404da391790
 - Pulse | Software Engineer, Inference | San Francisco, CA | 2026-10-04 | https://jobs.ashbyhq.com/pulse/d316e466-7dfe-42f5-af73-215892a658b4
 - OpenAI | AI Systems Engineer, Codex Agents | San Francisco, CA | 2026-10-05 | https://openai.com/careers/ai-systems-engineer-codex-agents-san-francisco/
+- Perplexity AI | AI Systems Engineer | San Francisco / Palo Alto, CA | 2026-10-06 | https://job-boards.greenhouse.io/perplexityai/jobs/4955748007
+- Modular | Inference Systems Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
+- Modular | Inference Optimization Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
 <!-- SEEN-INDEX-END -->
