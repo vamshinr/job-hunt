@@ -562,4 +562,5 @@
 - Perplexity AI | AI Systems Engineer | San Francisco / Palo Alto, CA | 2026-10-06 | https://job-boards.greenhouse.io/perplexityai/jobs/4955748007
 - Modular | Inference Systems Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
 - Modular | Inference Optimization Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
+- NVIDIA | Senior System Software Engineer, Agentic Inference - Dynamo | Santa Clara, CA | 2026-10-06 | https://jobs.anitab.org/companies/nvidia/jobs/87705140-senior-system-software-engineer-agentic-inference-dynamo
 <!-- SEEN-INDEX-END -->
