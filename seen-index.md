@@ -562,4 +562,7 @@
 - Perplexity AI | AI Systems Engineer | San Francisco / Palo Alto, CA | 2026-10-06 | https://job-boards.greenhouse.io/perplexityai/jobs/4955748007
 - Modular | Inference Systems Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
 - Modular | Inference Optimization Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
+- Groq | Software Engineer (all levels), High Performance Inference System | Remote / Palo Alto, CA | 2026-10-07 | https://job-boards.greenhouse.io/groq/jobs/6604555003
+- Databricks | Staff Software Engineer, AI Research Infrastructure | San Francisco, CA / New York, NY | 2026-10-07 | https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---ai-research-infrastructure-8552484002
+- Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search & Agents) | San Francisco, CA | 2026-10-07 | https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2
 <!-- SEEN-INDEX-END -->
