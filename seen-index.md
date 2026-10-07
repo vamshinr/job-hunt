@@ -564,4 +564,6 @@
 - Modular | Inference Optimization Engineer | Remote — United States / Canada | 2026-10-06 | https://job-boards.greenhouse.io/modularai
 - NVIDIA | Senior System Software Engineer, Agentic Inference - Dynamo | Santa Clara, CA | 2026-10-06 | https://jobs.anitab.org/companies/nvidia/jobs/87705140-senior-system-software-engineer-agentic-inference-dynamo
 - Figma | Software Engineer, ML Infrastructure | Remote — United States | 2026-10-06 | https://job-boards.greenhouse.io/figma/jobs/5551669004
+- Reddit | Staff Machine Learning Engineer, Ads ML Efficiency | Remote — United States | 2026-10-07 | https://job-boards.greenhouse.io/reddit/jobs/8247280
+- Figma | Software Engineer, AI Infrastructure | San Francisco, CA / New York, NY | 2026-10-07 | https://job-boards.greenhouse.io/figma/jobs/5551532004
 <!-- SEEN-INDEX-END -->
