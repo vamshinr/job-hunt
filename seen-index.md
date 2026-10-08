@@ -570,4 +570,5 @@
 - Databricks | Staff Software Engineer, AI Research Infrastructure | San Francisco, CA / New York, NY | 2026-10-07 | https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---ai-research-infrastructure-8552484002
 - Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search & Agents) | San Francisco, CA | 2026-10-07 | https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2
 - Baseten | Software Engineer, Inference Platform | San Francisco, CA | 2026-10-07 | https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456
+- Pika | Senior Software Engineer, Inference | Palo Alto, CA (Bay Area on-site) | 2026-10-08 | https://startup.jobs/senior-software-engineer-inference-pika-8404371
 <!-- SEEN-INDEX-END -->
