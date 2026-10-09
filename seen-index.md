@@ -573,4 +573,7 @@
 - Pika | Senior Software Engineer, Inference | Palo Alto, CA (Bay Area on-site) | 2026-10-08 | https://startup.jobs/senior-software-engineer-inference-pika-8404371
 - Baseten | Software Engineer, Inference Performance | Remote — United States | 2026-10-09 | https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04
 - Groq | Senior ML Engineer, Post Training & Speculative Decoding | Remote — United States / Toronto, Canada | 2026-10-09 | https://job-boards.greenhouse.io/groq/jobs/6641037003
+- Anthropic | Research Engineer / Performance Engineer, RL Distributed Systems | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/5438030008
+- Anthropic | Software Engineer, ML Networking | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/4926242008
+- Anthropic | Staff+ Software Engineer, Caching | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/5301737008
 <!-- SEEN-INDEX-END -->
