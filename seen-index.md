@@ -571,4 +571,6 @@
 - Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search & Agents) | San Francisco, CA | 2026-10-07 | https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2
 - Baseten | Software Engineer, Inference Platform | San Francisco, CA | 2026-10-07 | https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456
 - Pika | Senior Software Engineer, Inference | Palo Alto, CA (Bay Area on-site) | 2026-10-08 | https://startup.jobs/senior-software-engineer-inference-pika-8404371
+- Baseten | Software Engineer, Inference Performance | Remote — United States | 2026-10-09 | https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04
+- Groq | Senior ML Engineer, Post Training & Speculative Decoding | Remote — United States / Toronto, Canada | 2026-10-09 | https://job-boards.greenhouse.io/groq/jobs/6641037003
 <!-- SEEN-INDEX-END -->
