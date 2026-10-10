@@ -578,4 +578,5 @@
 - Anthropic | Staff+ Software Engineer, Caching | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/5301737008
 - OpenAI | Software Engineer, Trainium | San Francisco, CA | 2026-10-10 | https://openai.com/careers/software-engineer-trainium-san-francisco/
 - Anthropic | Staff Research Engineer, Multi-Agent Scaling | San Francisco, CA / New York, NY / Seattle, WA | 2026-10-10 | https://www.anthropic.com/careers/jobs
+- Microsoft AI | Software Engineer, Model API Infra | Mountain View, CA / Redmond, WA / New York, NY (Bay Area hybrid) | 2026-10-10 | https://job-boards.greenhouse.io/microsoftcorporation/jobs/4438720009
 <!-- SEEN-INDEX-END -->
