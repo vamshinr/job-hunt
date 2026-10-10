@@ -576,4 +576,5 @@
 - Anthropic | Research Engineer / Performance Engineer, RL Distributed Systems | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/5438030008
 - Anthropic | Software Engineer, ML Networking | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/4926242008
 - Anthropic | Staff+ Software Engineer, Caching | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-09 | https://job-boards.greenhouse.io/anthropic/jobs/5301737008
+- OpenAI | Software Engineer, Trainium | San Francisco, CA | 2026-10-10 | https://openai.com/careers/software-engineer-trainium-san-francisco/
 <!-- SEEN-INDEX-END -->
