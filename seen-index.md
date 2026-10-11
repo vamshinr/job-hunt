@@ -580,4 +580,5 @@
 - Anthropic | Staff Research Engineer, Multi-Agent Scaling | San Francisco, CA / New York, NY / Seattle, WA | 2026-10-10 | https://www.anthropic.com/careers/jobs
 - Microsoft AI | Software Engineer, Model API Infra | Mountain View, CA / Redmond, WA / New York, NY (Bay Area hybrid) | 2026-10-10 | https://job-boards.greenhouse.io/microsoftcorporation/jobs/4438720009
 - Venice.ai | Senior Inference Optimization Engineer | Remote — United States | 2026-10-11 | https://job-boards.greenhouse.io/veniceai/jobs/4337371009
+- Inferact | Member of Technical Staff, TPU Performance Engineering | San Francisco, CA (remote US for exceptional candidates) | 2026-10-11 | https://jobs.ashbyhq.com/inferact/952a9faf-8b4b-487e-aef0-67f81db40db6
 <!-- SEEN-INDEX-END -->
