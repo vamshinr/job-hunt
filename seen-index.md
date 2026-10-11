@@ -579,4 +579,5 @@
 - OpenAI | Software Engineer, Trainium | San Francisco, CA | 2026-10-10 | https://openai.com/careers/software-engineer-trainium-san-francisco/
 - Anthropic | Staff Research Engineer, Multi-Agent Scaling | San Francisco, CA / New York, NY / Seattle, WA | 2026-10-10 | https://www.anthropic.com/careers/jobs
 - Microsoft AI | Software Engineer, Model API Infra | Mountain View, CA / Redmond, WA / New York, NY (Bay Area hybrid) | 2026-10-10 | https://job-boards.greenhouse.io/microsoftcorporation/jobs/4438720009
+- Venice.ai | Senior Inference Optimization Engineer | Remote — United States | 2026-10-11 | https://job-boards.greenhouse.io/veniceai/jobs/4337371009
 <!-- SEEN-INDEX-END -->
