@@ -581,4 +581,5 @@
 - Microsoft AI | Software Engineer, Model API Infra | Mountain View, CA / Redmond, WA / New York, NY (Bay Area hybrid) | 2026-10-10 | https://job-boards.greenhouse.io/microsoftcorporation/jobs/4438720009
 - Venice.ai | Senior Inference Optimization Engineer | Remote — United States | 2026-10-11 | https://job-boards.greenhouse.io/veniceai/jobs/4337371009
 - Inferact | Member of Technical Staff, TPU Performance Engineering | San Francisco, CA (remote US for exceptional candidates) | 2026-10-11 | https://jobs.ashbyhq.com/inferact/952a9faf-8b4b-487e-aef0-67f81db40db6
+- Crusoe | Senior Staff Applied AI Inference Engineer | San Francisco, CA | 2026-10-12 | https://jobs.ashbyhq.com/crusoe/cdca4752-d6b5-4df4-b121-57826b41d4b5
 <!-- SEEN-INDEX-END -->
