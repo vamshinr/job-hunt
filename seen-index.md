@@ -584,4 +584,6 @@
 - Crusoe | Senior Staff Applied AI Inference Engineer | San Francisco, CA | 2026-10-12 | https://jobs.ashbyhq.com/crusoe/cdca4752-d6b5-4df4-b121-57826b41d4b5
 - Simile | ML Systems, Member of Technical Staff | San Francisco, CA | 2026-10-13 | https://jobs.ashbyhq.com/simile/9acc73e4-7f77-49dc-b0f6-1a9d26b33b04
 - DigitalOcean | Senior Software Engineer I, AI Inference Data Plane | Bengaluru, India | 2026-10-13 | https://www.dice.com/job-detail/0ca1fba9-ffff-4b5e-ab11-a26ae8a203bb
+- DigitalOcean | Senior Software Engineer I, Serverless Inference | Bengaluru, India | 2026-10-14 | https://www.themuse.com/jobs/digitalocean/senior-software-engineer-i-serverless-inference
+- DigitalOcean | Senior Forward Deployed Engineer I, AI Inference | Bengaluru, India | 2026-10-14 | https://builtinbengaluru.in/job/senior-forward-deployed-engineer-i-ai-inference/10521962
 <!-- SEEN-INDEX-END -->
