@@ -587,4 +587,5 @@
 - DigitalOcean | Senior Software Engineer I, Serverless Inference | Bengaluru, India | 2026-10-14 | https://www.themuse.com/jobs/digitalocean/senior-software-engineer-i-serverless-inference
 - DigitalOcean | Senior Forward Deployed Engineer I, AI Inference | Bengaluru, India | 2026-10-14 | https://builtinbengaluru.in/job/senior-forward-deployed-engineer-i-ai-inference/10521962
 - Cerebras Systems | AI Inference Core - Software Integration Engineer | Remote — United States / Canada | 2026-10-14 | https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887
+- Engram Lab | ML Systems & Performance Engineer | San Francisco, CA | 2026-10-15 | https://jobs.ashbyhq.com/engram/614243e2-101d-4866-a2b5-6c5b756da2ad
 <!-- SEEN-INDEX-END -->
