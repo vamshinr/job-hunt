@@ -594,4 +594,6 @@
 - Cohere | Senior Software Engineer, GPU Infrastructure (HPC) | Remote (Global / North America) | 2026-10-17 | https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473
 - Hedra | Inference Optimization Engineer | San Francisco, CA | 2026-10-18 | https://jobs.a16z.com/jobs/hedra/f28645f7-2bed-4754-9da2-a3aaa7d6aa27--inference-optimization-engineer
 - Sarvam AI | MLE, Inferencing Team (Edge AI) | Bengaluru, India | 2026-10-18 | https://careers.kula.ai/sarvam-ai/3334
+- OpenAI | Inference Engineer, Robotics | San Francisco, CA | 2026-10-19 | https://openai.com/careers/inference-engineer-robotics-san-francisco/
+- Anthropic | Staff+ Software Engineer, Research Systems Engineering | San Francisco, CA / Seattle, WA / New York City, NY | 2026-10-19 | https://job-boards.greenhouse.io/anthropic/jobs/5447118008
 <!-- SEEN-INDEX-END -->
