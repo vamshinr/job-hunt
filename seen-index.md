@@ -598,4 +598,7 @@
 - Anthropic | Staff+ Software Engineer, Research Systems Engineering | San Francisco, CA / Seattle, WA / New York City, NY | 2026-10-19 | https://job-boards.greenhouse.io/anthropic/jobs/5447118008
 - DigitalOcean | Staff Engineer, Inference Optimizations | Remote — United States | 2026-10-19 | https://remotive.com/remote/jobs/software-development/staff-engineer-inference-optimizations-5330315
 - Upstart | Principal Engineer, LLM (Platform and Tooling) | Remote — United States | 2026-10-19 | https://careers.upstart.com/jobs/principal-engineer-llm
+- uRun (HowURun) | Founding Engineer, ML Performance | San Francisco, CA | 2026-10-20 | https://jobs.ashbyhq.com/Urun/5b899730-f5cc-48a4-b4df-7b289b1879bb
+- uRun (HowURun) | Founding Engineer, ML Infrastructure | San Francisco, CA | 2026-10-20 | https://www.builtinsf.com/job/founding-engineer-ml-infrastructure/10162153
+- Cursor (Anysphere) | Software Engineer, Model Routing & Inference | San Francisco, CA / New York, NY | 2026-10-20 | https://cursor.com/careers/software-engineer-model-routing-inference
 <!-- SEEN-INDEX-END -->
