@@ -601,4 +601,5 @@
 - uRun (HowURun) | Founding Engineer, ML Performance | San Francisco, CA | 2026-10-20 | https://jobs.ashbyhq.com/Urun/5b899730-f5cc-48a4-b4df-7b289b1879bb
 - uRun (HowURun) | Founding Engineer, ML Infrastructure | San Francisco, CA | 2026-10-20 | https://www.builtinsf.com/job/founding-engineer-ml-infrastructure/10162153
 - Cursor (Anysphere) | Software Engineer, Model Routing & Inference | San Francisco, CA / New York, NY | 2026-10-20 | https://cursor.com/careers/software-engineer-model-routing-inference
+- Harvey AI | Staff Software Engineer, Model Infrastructure | San Francisco, CA | 2026-10-20 | https://www.harvey.ai/company/careers/3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c
 <!-- SEEN-INDEX-END -->
