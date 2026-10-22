@@ -606,4 +606,6 @@
 - ByteDance | Tech Lead Software Engineer, AI Compute Infrastructure | San Jose, CA | 2026-10-21 | https://joinbytedance.com/search/7593163349218035973
 - Thinking Machines Lab | Software Engineer, Inference | San Francisco, CA / New York, NY | 2026-10-22 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013914008
 - Anthropic | Software Engineer, Cloud Inference Safeguards | San Francisco, CA / Seattle, WA | 2026-10-22 | https://job-boards.greenhouse.io/anthropic/jobs/5168829008
+- OpenAI | Software Engineer, Search Infrastructure | San Francisco, CA | 2026-10-22 | https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025
+- Runway | Member of Technical Staff, ML Platform | Remote — North America | 2026-10-22 | https://job-boards.greenhouse.io/runwayml/jobs/4650196005
 <!-- SEEN-INDEX-END -->
