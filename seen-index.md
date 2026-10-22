@@ -602,4 +602,7 @@
 - uRun (HowURun) | Founding Engineer, ML Infrastructure | San Francisco, CA | 2026-10-20 | https://www.builtinsf.com/job/founding-engineer-ml-infrastructure/10162153
 - Cursor (Anysphere) | Software Engineer, Model Routing & Inference | San Francisco, CA / New York, NY | 2026-10-20 | https://cursor.com/careers/software-engineer-model-routing-inference
 - Harvey AI | Staff Software Engineer, Model Infrastructure | San Francisco, CA | 2026-10-20 | https://www.harvey.ai/company/careers/3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c
+- Pika | ML Engineer, Inference & Optimization | Palo Alto, CA (Bay Area on-site) | 2026-10-21 | https://jobs.ashbyhq.com/pika/fb9e43d7-36b8-46c7-93cd-2b7504e3036
+- ByteDance | Tech Lead Software Engineer, AI Compute Infrastructure | San Jose, CA | 2026-10-21 | https://joinbytedance.com/search/7593163349218035973
+- Thinking Machines Lab | Software Engineer, Inference | San Francisco, CA / New York, NY | 2026-10-22 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013914008
 <!-- SEEN-INDEX-END -->
