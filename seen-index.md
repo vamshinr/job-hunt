@@ -608,4 +608,6 @@
 - Anthropic | Software Engineer, Cloud Inference Safeguards | San Francisco, CA / Seattle, WA | 2026-10-22 | https://job-boards.greenhouse.io/anthropic/jobs/5168829008
 - OpenAI | Software Engineer, Search Infrastructure | San Francisco, CA | 2026-10-22 | https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025
 - Runway | Member of Technical Staff, ML Platform | Remote — North America | 2026-10-22 | https://job-boards.greenhouse.io/runwayml/jobs/4650196005
+- Anthropic | Staff+ Software Engineer, Memory & Search | San Francisco, CA / New York City, NY / Seattle, WA / Remote-Friendly (US) | 2026-10-23 | https://job-boards.greenhouse.io/anthropic/jobs/5456453008
+- Anthropic | Staff+ Software Engineer, VectorDB | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-23 | https://job-boards.greenhouse.io/anthropic/jobs/5458044008
 <!-- SEEN-INDEX-END -->
