@@ -610,4 +610,6 @@
 - Runway | Member of Technical Staff, ML Platform | Remote — North America | 2026-10-22 | https://job-boards.greenhouse.io/runwayml/jobs/4650196005
 - Anthropic | Staff+ Software Engineer, Memory & Search | San Francisco, CA / New York City, NY / Seattle, WA / Remote-Friendly (US) | 2026-10-23 | https://job-boards.greenhouse.io/anthropic/jobs/5456453008
 - Anthropic | Staff+ Software Engineer, VectorDB | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-23 | https://job-boards.greenhouse.io/anthropic/jobs/5458044008
+- Prime Intellect | Research Engineer - Inference | Remote / San Francisco, CA | 2026-10-24 | https://www.primeintellect.ai/careers/ee13090e-3fea-40f0-b785-19316f52bf08
+- Anthropic | Staff+ Software Engineer, Capacity Engineering | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-24 | https://job-boards.greenhouse.io/anthropic/jobs/5310731008
 <!-- SEEN-INDEX-END -->
