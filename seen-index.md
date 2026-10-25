@@ -613,4 +613,5 @@
 - Prime Intellect | Research Engineer - Inference | Remote / San Francisco, CA | 2026-10-24 | https://www.primeintellect.ai/careers/ee13090e-3fea-40f0-b785-19316f52bf08
 - Anthropic | Staff+ Software Engineer, Capacity Engineering | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-24 | https://job-boards.greenhouse.io/anthropic/jobs/5310731008
 - Anthropic | Staff Software Engineer, Search | San Francisco, CA / New York, NY | 2026-10-24 | https://job-boards.greenhouse.io/anthropic/jobs/5422684008
+- Cerebras Systems | Full Stack Machine Learning Engineer | Sunnyvale, CA | 2026-10-25 | https://jobs.ashbyhq.com/cerebras/c2198d42-ccad-4bee-aa43-83027aa5e46e
 <!-- SEEN-INDEX-END -->
