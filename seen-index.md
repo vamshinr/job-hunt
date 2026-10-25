@@ -614,4 +614,5 @@
 - Anthropic | Staff+ Software Engineer, Capacity Engineering | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-24 | https://job-boards.greenhouse.io/anthropic/jobs/5310731008
 - Anthropic | Staff Software Engineer, Search | San Francisco, CA / New York, NY | 2026-10-24 | https://job-boards.greenhouse.io/anthropic/jobs/5422684008
 - Cerebras Systems | Full Stack Machine Learning Engineer | Sunnyvale, CA | 2026-10-25 | https://jobs.ashbyhq.com/cerebras/c2198d42-ccad-4bee-aa43-83027aa5e46e
+- River AI | Software Engineer, Inference Systems | Palo Alto, CA | 2026-10-25 | https://jobs.generalcatalyst.com/companies/river-ai-2/jobs/93095678-software-engineer-inference-systems
 <!-- SEEN-INDEX-END -->
