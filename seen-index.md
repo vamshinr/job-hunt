@@ -616,4 +616,5 @@
 - Cerebras Systems | Full Stack Machine Learning Engineer | Sunnyvale, CA | 2026-10-25 | https://jobs.ashbyhq.com/cerebras/c2198d42-ccad-4bee-aa43-83027aa5e46e
 - River AI | Software Engineer, Inference Systems | Palo Alto, CA | 2026-10-25 | https://jobs.generalcatalyst.com/companies/river-ai-2/jobs/93095678-software-engineer-inference-systems
 - Cohere | Senior/Staff Software Engineer (Back-End), Inference | Remote — United States / Canada | 2026-10-26 | https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6
+- Hippocratic AI | LLM Inference Systems Engineer | Menlo Park, CA | 2026-10-27 | https://jobs.generalcatalyst.com/companies/hippocractic-ai/jobs/96282114-llm-inference-systems-engineer
 <!-- SEEN-INDEX-END -->
