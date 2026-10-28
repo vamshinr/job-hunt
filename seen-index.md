@@ -618,4 +618,6 @@
 - Cohere | Senior/Staff Software Engineer (Back-End), Inference | Remote — United States / Canada | 2026-10-26 | https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6
 - Hippocratic AI | LLM Inference Systems Engineer | Menlo Park, CA | 2026-10-27 | https://jobs.generalcatalyst.com/companies/hippocractic-ai/jobs/96282114-llm-inference-systems-engineer
 - Anthropic | Staff+ Software Engineer, Claude App Infrastructure | San Francisco, CA / New York, NY / Seattle, WA | 2026-10-28 | https://job-boards.greenhouse.io/anthropic/jobs/5065894008
+- World Labs | Performance Engineer (Inference, Training & GPU) | San Francisco, CA | 2026-10-28 | https://job-boards.greenhouse.io/worldlabs/jobs/4238069009
+- ServiceNow (Moveworks) | Staff Software Engineer, Agentic AI Harness & Quality | Mountain View, CA | 2026-10-28 | https://careers.servicenow.com/jobs/744000141814159/staff-software-engineer-agentic-ai-harness-quality-moveworks/
 <!-- SEEN-INDEX-END -->
