@@ -617,4 +617,5 @@
 - River AI | Software Engineer, Inference Systems | Palo Alto, CA | 2026-10-25 | https://jobs.generalcatalyst.com/companies/river-ai-2/jobs/93095678-software-engineer-inference-systems
 - Cohere | Senior/Staff Software Engineer (Back-End), Inference | Remote — United States / Canada | 2026-10-26 | https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6
 - Hippocratic AI | LLM Inference Systems Engineer | Menlo Park, CA | 2026-10-27 | https://jobs.generalcatalyst.com/companies/hippocractic-ai/jobs/96282114-llm-inference-systems-engineer
+- Anthropic | Staff+ Software Engineer, Claude App Infrastructure | San Francisco, CA / New York, NY / Seattle, WA | 2026-10-28 | https://job-boards.greenhouse.io/anthropic/jobs/5065894008
 <!-- SEEN-INDEX-END -->
