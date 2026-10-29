@@ -620,4 +620,5 @@
 - Anthropic | Staff+ Software Engineer, Claude App Infrastructure | San Francisco, CA / New York, NY / Seattle, WA | 2026-10-28 | https://job-boards.greenhouse.io/anthropic/jobs/5065894008
 - World Labs | Performance Engineer (Inference, Training & GPU) | San Francisco, CA | 2026-10-28 | https://job-boards.greenhouse.io/worldlabs/jobs/4238069009
 - ServiceNow (Moveworks) | Staff Software Engineer, Agentic AI Harness & Quality | Mountain View, CA | 2026-10-28 | https://careers.servicenow.com/jobs/744000141814159/staff-software-engineer-agentic-ai-harness-quality-moveworks/
+- Anthropic | Model Performance Software Engineer, Claude Code | San Francisco, CA / New York, NY | 2026-10-29 | https://job-boards.greenhouse.io/anthropic/jobs/5098025008
 <!-- SEEN-INDEX-END -->
