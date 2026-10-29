@@ -622,4 +622,5 @@
 - ServiceNow (Moveworks) | Staff Software Engineer, Agentic AI Harness & Quality | Mountain View, CA | 2026-10-28 | https://careers.servicenow.com/jobs/744000141814159/staff-software-engineer-agentic-ai-harness-quality-moveworks/
 - Anthropic | Model Performance Software Engineer, Claude Code | San Francisco, CA / New York, NY | 2026-10-29 | https://job-boards.greenhouse.io/anthropic/jobs/5098025008
 - Arm | Staff Software Engineer, AI Inference Runtime | Seattle, WA (Hybrid) | 2026-10-29 | https://careers.arm.com/job/seattle/staff-software-engineer-ai-inference-runtime/33099/100399715376
+- Snap | Software Engineer, ML Infrastructure, Core Inference | Palo Alto, CA / Bellevue, WA / Los Angeles, CA | 2026-10-29 | https://jobs.generalcatalyst.com/companies/snap-inc-2/jobs/97614779-software-engineer-ml-infrastructure-core-inference-level-4
 <!-- SEEN-INDEX-END -->
