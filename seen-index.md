@@ -627,4 +627,5 @@
 - Predibase | Software Engineer, ML Inference | San Francisco / Sunnyvale, CA | 2026-10-30 | https://jobs.felicis.com/companies/predibase/jobs/44695399-software-engineer-ml-inference
 - Amazon Web Services | Machine Learning Engineer II, AWS Inference Optimization | Santa Clara, CA | 2026-10-30 | https://jobs.anitab.org/companies/amazon-3-60ad394d-c673-4474-9694-344b0cae748f/jobs/98033381-machine-learning-engineer-ii-aws-inference-optimization
 - You.com | Senior Backend Engineer, Inference Platform | Remote / San Francisco, CA / New York, NY | 2026-10-30 | https://job-boards.greenhouse.io/youcom/jobs/4528457008
+- Anthropic | TPU Performance Engineer | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-31 | https://www.anthropic.com/careers/jobs/4741104008
 <!-- SEEN-INDEX-END -->
