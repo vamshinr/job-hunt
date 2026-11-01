@@ -629,4 +629,5 @@
 - You.com | Senior Backend Engineer, Inference Platform | Remote / San Francisco, CA / New York, NY | 2026-10-30 | https://job-boards.greenhouse.io/youcom/jobs/4528457008
 - Anthropic | TPU Performance Engineer | San Francisco, CA / New York City, NY / Seattle, WA | 2026-10-31 | https://www.anthropic.com/careers/jobs/4741104008
 - Yobi AI | Machine Learning Engineer - Inference / Serving | Remote (US + Canada) | 2026-10-31 | https://jobs.ashbyhq.com/yobi/11855546-e216-4518-bfae-bb020d3a7baa
+- OpenAI | Software Engineer, GPT Infrastructure | San Francisco, CA | 2026-11-01 | https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/
 <!-- SEEN-INDEX-END -->
