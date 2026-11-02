@@ -632,4 +632,7 @@
 - OpenAI | Software Engineer, GPT Infrastructure | San Francisco, CA | 2026-11-01 | https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/
 - NVIDIA | Senior Deep Learning Software Engineer, Inference and Model Optimization | Remote — United States / Santa Clara, CA | 2026-11-01 | https://arc.dev/remote-jobs/j/nvidia-senior-deep-learning-software-engineer-inference-and-model-optimization-l8wyr0hoax
 - Atlassian | Machine Learning System Engineer (AI & ML Platform, Inference Team) | Seattle, WA / Remote — United States | 2026-11-01 | https://www.atlassian.com/company/careers/details/27388
+- Zoom | Staff AI Engineer, Zoom AI Services Platform | San Jose, CA / Seattle, WA | 2026-11-02 | https://careers.zoom.us/jobs/ai-engineer-seattle-washington-united-states-d8e43d8d-d411-44b0-9c2d-75a99ed8ca28
+- Anthropic | Staff+ Software Engineer, Platform Acceleration | San Francisco, CA / New York City, NY / Seattle, WA | 2026-11-02 | https://job-boards.greenhouse.io/anthropic/jobs/5451889008
+- Anthropic | Staff+ Software Engineer, Observability | San Francisco, CA / New York City, NY / Seattle, WA | 2026-11-02 | https://job-boards.greenhouse.io/anthropic/jobs/5139910008
 <!-- SEEN-INDEX-END -->
