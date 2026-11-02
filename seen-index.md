@@ -635,4 +635,6 @@
 - Zoom | Staff AI Engineer, Zoom AI Services Platform | San Jose, CA / Seattle, WA | 2026-11-02 | https://careers.zoom.us/jobs/ai-engineer-seattle-washington-united-states-d8e43d8d-d411-44b0-9c2d-75a99ed8ca28
 - Anthropic | Staff+ Software Engineer, Platform Acceleration | San Francisco, CA / New York City, NY / Seattle, WA | 2026-11-02 | https://job-boards.greenhouse.io/anthropic/jobs/5451889008
 - Anthropic | Staff+ Software Engineer, Observability | San Francisco, CA / New York City, NY / Seattle, WA | 2026-11-02 | https://job-boards.greenhouse.io/anthropic/jobs/5139910008
+- Cursor (Anysphere) | Software Engineer, ML Platform | San Francisco, CA | 2026-11-02 | https://cursor.com/careers/software-engineer-ml-platform
+- Baseten | Applied AI Inference Engineer | Remote — United States | 2026-11-02 | https://www.choppingblock.ai/jobs/applied-ai-inference-engineer-at-baseten
 <!-- SEEN-INDEX-END -->
