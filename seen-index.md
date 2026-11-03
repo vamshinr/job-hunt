@@ -637,4 +637,6 @@
 - Anthropic | Staff+ Software Engineer, Observability | San Francisco, CA / New York City, NY / Seattle, WA | 2026-11-02 | https://job-boards.greenhouse.io/anthropic/jobs/5139910008
 - Cursor (Anysphere) | Software Engineer, ML Platform | San Francisco, CA | 2026-11-02 | https://cursor.com/careers/software-engineer-ml-platform
 - Baseten | Applied AI Inference Engineer | Remote — United States | 2026-11-02 | https://www.choppingblock.ai/jobs/applied-ai-inference-engineer-at-baseten
+- Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA / Seattle, WA | 2026-11-03 | https://job-boards.greenhouse.io/anthropic/jobs/5436684008
+- Anthropic | Staff + Sr. Software Engineer, Scaling | New York, NY / San Francisco, CA / Seattle, WA | 2026-11-03 | https://job-boards.greenhouse.io/anthropic/jobs/5436703008
 <!-- SEEN-INDEX-END -->
