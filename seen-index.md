@@ -639,4 +639,5 @@
 - Baseten | Applied AI Inference Engineer | Remote — United States | 2026-11-02 | https://www.choppingblock.ai/jobs/applied-ai-inference-engineer-at-baseten
 - Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA / Seattle, WA | 2026-11-03 | https://job-boards.greenhouse.io/anthropic/jobs/5436684008
 - Anthropic | Staff + Sr. Software Engineer, Scaling | New York, NY / San Francisco, CA / Seattle, WA | 2026-11-03 | https://job-boards.greenhouse.io/anthropic/jobs/5436703008
+- StackYak | Senior AI Inference Engineer | Remote — United States | 2026-11-03 | https://apply.workable.com/stackyak/j/3D0819B998/
 <!-- SEEN-INDEX-END -->
