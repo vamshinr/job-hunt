@@ -640,4 +640,5 @@
 - Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA / Seattle, WA | 2026-11-03 | https://job-boards.greenhouse.io/anthropic/jobs/5436684008
 - Anthropic | Staff + Sr. Software Engineer, Scaling | New York, NY / San Francisco, CA / Seattle, WA | 2026-11-03 | https://job-boards.greenhouse.io/anthropic/jobs/5436703008
 - StackYak | Senior AI Inference Engineer | Remote — United States | 2026-11-03 | https://apply.workable.com/stackyak/j/3D0819B998/
+- OpenAI | Software Engineer, Monetization ML Infrastructure | San Francisco, CA | 2026-11-04 | https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa
 <!-- SEEN-INDEX-END -->
