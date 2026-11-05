@@ -644,4 +644,5 @@
 - Together AI | (Senior/Junior) AI Inference Reliability Engineer, Compute Infra | San Francisco, CA | 2026-11-04 | https://job-boards.greenhouse.io/togetherai/jobs/5268939007
 - Together AI | (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | San Francisco, CA | 2026-11-04 | https://job-boards.greenhouse.io/togetherai/jobs/5266079007
 - Sapience AI | AI/ML Infra / Systems Engineer (Inference) | Remote — United States | 2026-11-05 | https://peerlist.io/company/sapienceai/careers/aiml-infra--systems-engineer-inference/jobhnn7rrdbk6knkk1onkj97b8kl98
+- Mercor | AI Infrastructure Engineer | San Francisco, CA | 2026-11-05 | https://jobs.menlovc.com/companies/mercor/jobs/98299594-ai-infrastructure-engineer
 <!-- SEEN-INDEX-END -->
