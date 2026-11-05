@@ -643,4 +643,5 @@
 - OpenAI | Software Engineer, Monetization ML Infrastructure | San Francisco, CA | 2026-11-04 | https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa
 - Together AI | (Senior/Junior) AI Inference Reliability Engineer, Compute Infra | San Francisco, CA | 2026-11-04 | https://job-boards.greenhouse.io/togetherai/jobs/5268939007
 - Together AI | (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | San Francisco, CA | 2026-11-04 | https://job-boards.greenhouse.io/togetherai/jobs/5266079007
+- Sapience AI | AI/ML Infra / Systems Engineer (Inference) | Remote — United States | 2026-11-05 | https://peerlist.io/company/sapienceai/careers/aiml-infra--systems-engineer-inference/jobhnn7rrdbk6knkk1onkj97b8kl98
 <!-- SEEN-INDEX-END -->
