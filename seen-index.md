@@ -646,4 +646,5 @@
 - Sapience AI | AI/ML Infra / Systems Engineer (Inference) | Remote — United States | 2026-11-05 | https://peerlist.io/company/sapienceai/careers/aiml-infra--systems-engineer-inference/jobhnn7rrdbk6knkk1onkj97b8kl98
 - Mercor | AI Infrastructure Engineer | San Francisco, CA | 2026-11-05 | https://jobs.menlovc.com/companies/mercor/jobs/98299594-ai-infrastructure-engineer
 - Cohere | Forward Deployed Engineer, Inference | Remote — United States / Canada (North America) | 2026-11-06 | https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09
+- Affirm | Senior Software Engineer, Backend (AI Platform) | Remote — United States | 2026-11-06 | https://job-boards.greenhouse.io/affirm/jobs/8040267003
 <!-- SEEN-INDEX-END -->
