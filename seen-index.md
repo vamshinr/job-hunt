@@ -648,4 +648,5 @@
 - Cohere | Forward Deployed Engineer, Inference | Remote — United States / Canada (North America) | 2026-11-06 | https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09
 - Affirm | Senior Software Engineer, Backend (AI Platform) | Remote — United States | 2026-11-06 | https://job-boards.greenhouse.io/affirm/jobs/8040267003
 - Anthropic | Machine Learning Infrastructure Engineer, Core Resources | San Francisco, CA (Remote-Friendly) | 2026-11-07 | https://boards.greenhouse.io/anthropic/jobs/4095101008
+- Cerebras Systems | Senior Software Engineer, ML API - AI Inference | Sunnyvale, CA | 2026-11-07 | https://jobs.ashbyhq.com/cerebras/e391dd3c-5908-4533-93f3-fe471187dfa9
 <!-- SEEN-INDEX-END -->
