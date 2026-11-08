@@ -649,4 +649,5 @@
 - Affirm | Senior Software Engineer, Backend (AI Platform) | Remote — United States | 2026-11-06 | https://job-boards.greenhouse.io/affirm/jobs/8040267003
 - Anthropic | Machine Learning Infrastructure Engineer, Core Resources | San Francisco, CA (Remote-Friendly) | 2026-11-07 | https://boards.greenhouse.io/anthropic/jobs/4095101008
 - Cerebras Systems | Senior Software Engineer, ML API - AI Inference | Sunnyvale, CA | 2026-11-07 | https://jobs.ashbyhq.com/cerebras/e391dd3c-5908-4533-93f3-fe471187dfa9
+- Near AI | LLM Inference Engineer | San Francisco, CA / Remote | 2026-11-08 | https://job-boards.eu.greenhouse.io/nearai/jobs/4919948101
 <!-- SEEN-INDEX-END -->
