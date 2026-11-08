@@ -650,4 +650,6 @@
 - Anthropic | Machine Learning Infrastructure Engineer, Core Resources | San Francisco, CA (Remote-Friendly) | 2026-11-07 | https://boards.greenhouse.io/anthropic/jobs/4095101008
 - Cerebras Systems | Senior Software Engineer, ML API - AI Inference | Sunnyvale, CA | 2026-11-07 | https://jobs.ashbyhq.com/cerebras/e391dd3c-5908-4533-93f3-fe471187dfa9
 - Near AI | LLM Inference Engineer | San Francisco, CA / Remote | 2026-11-08 | https://job-boards.eu.greenhouse.io/nearai/jobs/4919948101
+- RunPod | Senior ML Systems Engineer, Inference | Remote — United States | 2026-11-08 | https://builtin.com/job/senior-ml-systems-engineer-inference/11379265
+- You.com | Senior Backend Engineer, Inference Platform | Remote — United States (SF / NY office preferred) | 2026-11-08 | https://job-boards.greenhouse.io/youcom/jobs/4564251008
 <!-- SEEN-INDEX-END -->
