@@ -654,4 +654,5 @@
 - You.com | Senior Backend Engineer, Inference Platform | Remote — United States (SF / NY office preferred) | 2026-11-08 | https://job-boards.greenhouse.io/youcom/jobs/4564251008
 - Liquid AI | Member of Technical Staff, Partner Inference Engineer | San Francisco, CA / Boston, MA | 2026-11-10 | https://jobs.ashbyhq.com/liquid-ai/cd6b8a8d-2600-4ab4-99d6-3ceb2d1c467b
 - Code Metal | Staff AI Platform Engineer | Remote — United States (Boston hub) | 2026-11-10 | https://jobs.ashbyhq.com/code-metal/d940836d-3c14-4ac4-a16b-e0d690320f99
+- Apple | Senior Software Engineer, Private Cloud Compute Inference Routing | Cupertino, CA (Bay Area) | 2026-11-11 | https://jobs.anitab.org/companies/apple/jobs/97548124-senior-software-engineer-private-cloud-compute-inference-routing
 <!-- SEEN-INDEX-END -->
