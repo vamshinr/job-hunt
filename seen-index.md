@@ -656,4 +656,5 @@
 - Code Metal | Staff AI Platform Engineer | Remote — United States (Boston hub) | 2026-11-10 | https://jobs.ashbyhq.com/code-metal/d940836d-3c14-4ac4-a16b-e0d690320f99
 - Apple | Senior Software Engineer, Private Cloud Compute Inference Routing | Cupertino, CA (Bay Area) | 2026-11-11 | https://jobs.anitab.org/companies/apple/jobs/97548124-senior-software-engineer-private-cloud-compute-inference-routing
 - Vanta | Senior Software Engineer, AI Platform | Remote — United States | 2026-11-11 | https://jobs.ashbyhq.com/vanta
+- Reducto | Machine Learning Infrastructure Tech Lead | San Francisco, CA | 2026-11-12 | https://reducto.ai/careers/36de424a-cc97-4972-83c8-0a46b9954f65
 <!-- SEEN-INDEX-END -->
