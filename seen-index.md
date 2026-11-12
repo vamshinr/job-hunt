@@ -657,4 +657,6 @@
 - Apple | Senior Software Engineer, Private Cloud Compute Inference Routing | Cupertino, CA (Bay Area) | 2026-11-11 | https://jobs.anitab.org/companies/apple/jobs/97548124-senior-software-engineer-private-cloud-compute-inference-routing
 - Vanta | Senior Software Engineer, AI Platform | Remote — United States | 2026-11-11 | https://jobs.ashbyhq.com/vanta
 - Reducto | Machine Learning Infrastructure Tech Lead | San Francisco, CA | 2026-11-12 | https://reducto.ai/careers/36de424a-cc97-4972-83c8-0a46b9954f65
+- Gatik AI | Senior AI Infrastructure Engineer | Mountain View, CA | 2026-11-12 | https://job-boards.greenhouse.io/gatikaiinc/jobs/4664442006
+- Realm Labs | Software Engineer, ML Infrastructure | Sunnyvale, CA | 2026-11-12 | https://builtin.com/job/software-engineer-ml-infrastructure/9169159
 <!-- SEEN-INDEX-END -->
