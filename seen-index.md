@@ -659,4 +659,6 @@
 - Reducto | Machine Learning Infrastructure Tech Lead | San Francisco, CA | 2026-11-12 | https://reducto.ai/careers/36de424a-cc97-4972-83c8-0a46b9954f65
 - Gatik AI | Senior AI Infrastructure Engineer | Mountain View, CA | 2026-11-12 | https://job-boards.greenhouse.io/gatikaiinc/jobs/4664442006
 - Realm Labs | Software Engineer, ML Infrastructure | Sunnyvale, CA | 2026-11-12 | https://builtin.com/job/software-engineer-ml-infrastructure/9169159
+- Gray Swan AI | Machine Learning Infrastructure Engineer | Remote — Global | 2026-11-13 | https://www.grayswan.ai/careers
+- Reducto | Machine Learning Infra Engineer | San Francisco, CA | 2026-11-13 | https://reducto.ai/careers/df35cc55-1783-402d-b0d9-ca1352f50d0b
 <!-- SEEN-INDEX-END -->
