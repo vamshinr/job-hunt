@@ -666,4 +666,6 @@
 - Waymo | Staff Software Engineer, Inference, ML Platform | Mountain View, CA | 2026-11-14 | https://www.waymo.com/joinus/5774383/
 - Waymo | Senior Software Engineer, Inference, ML Platform | Mountain View, CA | 2026-11-14 | https://www.waymo.com/joinus/5934581/
 - PolarGrid | Inference Optimization Engineer | Remote (Canada/Global) | 2026-11-14 | https://wellfound.com/jobs/4522846-inference-optimization-engineer
+- Modular | GenAI Systems Engineer | Remote — United States / Canada | 2026-11-14 | https://job-boards.greenhouse.io/modularai
+- Modular | Platform Engineer, AI Inference | Remote — United States | 2026-11-14 | https://job-boards.greenhouse.io/modularai
 <!-- SEEN-INDEX-END -->
