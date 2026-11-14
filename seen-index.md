@@ -663,4 +663,7 @@
 - Reducto | Machine Learning Infra Engineer | San Francisco, CA | 2026-11-13 | https://reducto.ai/careers/df35cc55-1783-402d-b0d9-ca1352f50d0b
 - Harvey | Research Engineer, Infrastructure | San Francisco, CA (Hybrid) | 2026-11-14 | https://jobs.ashbyhq.com/harvey/9b63e15d-2d43-4c4a-94be-75908e942ea7
 - Goodfire | Research Engineer, Training Infrastructure | San Francisco, CA | 2026-11-14 | https://job-boards.greenhouse.io/goodfire/jobs/4889498008
+- Waymo | Staff Software Engineer, Inference, ML Platform | Mountain View, CA | 2026-11-14 | https://www.waymo.com/joinus/5774383/
+- Waymo | Senior Software Engineer, Inference, ML Platform | Mountain View, CA | 2026-11-14 | https://www.waymo.com/joinus/5934581/
+- PolarGrid | Inference Optimization Engineer | Remote (Canada/Global) | 2026-11-14 | https://wellfound.com/jobs/4522846-inference-optimization-engineer
 <!-- SEEN-INDEX-END -->
