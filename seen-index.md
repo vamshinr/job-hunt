@@ -669,4 +669,5 @@
 - Modular | GenAI Systems Engineer | Remote — United States / Canada | 2026-11-14 | https://job-boards.greenhouse.io/modularai
 - Modular | Platform Engineer, AI Inference | Remote — United States | 2026-11-14 | https://job-boards.greenhouse.io/modularai
 - Perplexity AI | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | San Francisco, CA / New York, NY / Seattle, WA | 2026-11-15 | https://job-boards.greenhouse.io/perplexityai/jobs/4788858007
+- Anthropic | Staff+ Software Engineer, Deployment | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY | 2026-11-15 | https://job-boards.greenhouse.io/anthropic/jobs/5466480008
 <!-- SEEN-INDEX-END -->
