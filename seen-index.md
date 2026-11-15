@@ -668,4 +668,5 @@
 - PolarGrid | Inference Optimization Engineer | Remote (Canada/Global) | 2026-11-14 | https://wellfound.com/jobs/4522846-inference-optimization-engineer
 - Modular | GenAI Systems Engineer | Remote — United States / Canada | 2026-11-14 | https://job-boards.greenhouse.io/modularai
 - Modular | Platform Engineer, AI Inference | Remote — United States | 2026-11-14 | https://job-boards.greenhouse.io/modularai
+- Perplexity AI | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | San Francisco, CA / New York, NY / Seattle, WA | 2026-11-15 | https://job-boards.greenhouse.io/perplexityai/jobs/4788858007
 <!-- SEEN-INDEX-END -->
