@@ -671,4 +671,5 @@
 - Perplexity AI | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | San Francisco, CA / New York, NY / Seattle, WA | 2026-11-15 | https://job-boards.greenhouse.io/perplexityai/jobs/4788858007
 - Anthropic | Staff+ Software Engineer, Deployment | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY | 2026-11-15 | https://job-boards.greenhouse.io/anthropic/jobs/5466480008
 - Anyscale | Research Engineer (Endpoints) | San Francisco, CA | 2026-11-16 | https://jobs.lever.co/anyscale/10c95af9-d943-4788-9acf-95ad2e819e39
+- Groq | Sr. Staff Inference Serving Engineer | San Francisco, CA / New York, NY / Dallas, TX (Remote) | 2026-11-17 | https://job-boards.greenhouse.io/groq
 <!-- SEEN-INDEX-END -->
