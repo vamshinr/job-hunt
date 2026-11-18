@@ -673,4 +673,5 @@
 - Anyscale | Research Engineer (Endpoints) | San Francisco, CA | 2026-11-16 | https://jobs.lever.co/anyscale/10c95af9-d943-4788-9acf-95ad2e819e39
 - Groq | Sr. Staff Inference Serving Engineer | San Francisco, CA / New York, NY / Dallas, TX (Remote) | 2026-11-17 | https://job-boards.greenhouse.io/groq
 - Preference Model | Member of Technical Staff, ML Infrastructure Engineer, RL Post-training | San Francisco, CA / Seattle, WA | 2026-11-17 | https://jobs.ashbyhq.com/Preference-Model/9822e369-8936-4baa-adf4-87dd6f9059ac
+- Capital One | AI Engineer 5 (FM Hosting, LLM Inference) | New York, NY / San Jose, CA / McLean, VA / Cambridge, MA / San Francisco, CA | 2026-11-18 | https://www.capitalonecareers.com/job/new-york/ai-engineer-5-fm-hosting-llm-inference/1732/101758346832
 <!-- SEEN-INDEX-END -->
