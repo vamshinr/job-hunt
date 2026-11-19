@@ -675,4 +675,5 @@
 - Preference Model | Member of Technical Staff, ML Infrastructure Engineer, RL Post-training | San Francisco, CA / Seattle, WA | 2026-11-17 | https://jobs.ashbyhq.com/Preference-Model/9822e369-8936-4baa-adf4-87dd6f9059ac
 - Capital One | AI Engineer 5 (FM Hosting, LLM Inference) | New York, NY / San Jose, CA / McLean, VA / Cambridge, MA / San Francisco, CA | 2026-11-18 | https://www.capitalonecareers.com/job/new-york/ai-engineer-5-fm-hosting-llm-inference/1732/101758346832
 - Stealth AI (via Raydar/Paraform) | Machine Learning Infrastructure Engineer | San Francisco, CA | 2026-11-18 | https://apply.workable.com/raydar/j/A0FB08A1A8/
+- Google DeepMind | Software Engineer, Agentic Model Serving, Robotics | Mountain View, CA | 2026-11-19 | https://www.google.com/about/careers/applications/jobs/results/124910793232655046-software-engineer
 <!-- SEEN-INDEX-END -->
