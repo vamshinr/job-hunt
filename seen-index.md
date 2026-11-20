@@ -677,4 +677,5 @@
 - Stealth AI (via Raydar/Paraform) | Machine Learning Infrastructure Engineer | San Francisco, CA | 2026-11-18 | https://apply.workable.com/raydar/j/A0FB08A1A8/
 - Google DeepMind | Software Engineer, Agentic Model Serving, Robotics | Mountain View, CA | 2026-11-19 | https://www.google.com/about/careers/applications/jobs/results/124910793232655046-software-engineer
 - Positron AI | ML Systems Engineer, Model Architectures | Remote — United States | 2026-11-19 | https://ats.rippling.com/positron
+- xAI | Sr. Software Engineer, Training/Inference (C++) | Palo Alto, CA (Bay Area) | 2026-11-20 | https://job-boards.greenhouse.io/xai/jobs/5285276007
 <!-- SEEN-INDEX-END -->
