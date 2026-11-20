@@ -678,4 +678,5 @@
 - Google DeepMind | Software Engineer, Agentic Model Serving, Robotics | Mountain View, CA | 2026-11-19 | https://www.google.com/about/careers/applications/jobs/results/124910793232655046-software-engineer
 - Positron AI | ML Systems Engineer, Model Architectures | Remote — United States | 2026-11-19 | https://ats.rippling.com/positron
 - xAI | Sr. Software Engineer, Training/Inference (C++) | Palo Alto, CA (Bay Area) | 2026-11-20 | https://job-boards.greenhouse.io/xai/jobs/5285276007
+- ChipAgents | ML Systems, LLM Post-Training | San Jose, CA (SF Bay Area) | 2026-11-20 | https://jobs.ashbyhq.com/alpha-design-ai-inc
 <!-- SEEN-INDEX-END -->
