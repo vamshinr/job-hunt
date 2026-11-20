@@ -679,4 +679,6 @@
 - Positron AI | ML Systems Engineer, Model Architectures | Remote — United States | 2026-11-19 | https://ats.rippling.com/positron
 - xAI | Sr. Software Engineer, Training/Inference (C++) | Palo Alto, CA (Bay Area) | 2026-11-20 | https://job-boards.greenhouse.io/xai/jobs/5285276007
 - ChipAgents | ML Systems, LLM Post-Training | San Jose, CA (SF Bay Area) | 2026-11-20 | https://jobs.ashbyhq.com/alpha-design-ai-inc
+- Zenlayer | Staff Software Engineer, LLM Inference Platform | Remote — United States | 2026-11-20 | https://app.welcometothejungle.com/jobs/7IY57XAl
+- Harvey | Senior Software Engineer, Agents | San Francisco, CA | 2026-11-20 | https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97
 <!-- SEEN-INDEX-END -->
