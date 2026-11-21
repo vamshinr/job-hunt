@@ -681,4 +681,6 @@
 - ChipAgents | ML Systems, LLM Post-Training | San Jose, CA (SF Bay Area) | 2026-11-20 | https://jobs.ashbyhq.com/alpha-design-ai-inc
 - Zenlayer | Staff Software Engineer, LLM Inference Platform | Remote — United States | 2026-11-20 | https://app.welcometothejungle.com/jobs/7IY57XAl
 - Harvey | Senior Software Engineer, Agents | San Francisco, CA | 2026-11-20 | https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97
+- Black Forest Labs | Member of Technical Staff, Pretraining / Inference Optimization | San Francisco, CA | 2026-11-21 | https://job-boards.greenhouse.io/blackforestlabs/jobs/4132248008
+- SF Tensor | Founding GPU Kernel Engineer | San Francisco, CA | 2026-11-21 | https://www.ycombinator.com/companies/sf-tensor/jobs/LZCpehq-founding-gpu-kernel-engineer
 <!-- SEEN-INDEX-END -->
