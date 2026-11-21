@@ -683,4 +683,7 @@
 - Harvey | Senior Software Engineer, Agents | San Francisco, CA | 2026-11-20 | https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97
 - Black Forest Labs | Member of Technical Staff, Pretraining / Inference Optimization | San Francisco, CA | 2026-11-21 | https://job-boards.greenhouse.io/blackforestlabs/jobs/4132248008
 - SF Tensor | Founding GPU Kernel Engineer | San Francisco, CA | 2026-11-21 | https://www.ycombinator.com/companies/sf-tensor/jobs/LZCpehq-founding-gpu-kernel-engineer
+- Fuse Energy | AI Inference Engineer | Remote — United States | 2026-11-21 | https://apply.workable.com/fuseenergy/j/5E494FB5A4/
+- Flex.ai | AI Inference Engineer | Bengaluru, India | 2026-11-21 | https://wellfound.com/jobs/4901361-ai-inference-engineer
+- Maitai | Senior LLM Engineer | Redwood City, CA | 2026-11-21 | https://www.workatastartup.com/jobs/75504
 <!-- SEEN-INDEX-END -->
