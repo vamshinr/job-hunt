@@ -686,4 +686,5 @@
 - Fuse Energy | AI Inference Engineer | Remote — United States | 2026-11-21 | https://apply.workable.com/fuseenergy/j/5E494FB5A4/
 - Flex.ai | AI Inference Engineer | Bengaluru, India | 2026-11-21 | https://wellfound.com/jobs/4901361-ai-inference-engineer
 - Maitai | Senior LLM Engineer | Redwood City, CA | 2026-11-21 | https://www.workatastartup.com/jobs/75504
+- Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI | San Francisco / New York | 2026-11-21 | https://scale.com/careers/4625341005
 <!-- SEEN-INDEX-END -->
