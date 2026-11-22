@@ -688,4 +688,6 @@
 - Maitai | Senior LLM Engineer | Redwood City, CA | 2026-11-21 | https://www.workatastartup.com/jobs/75504
 - Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI | San Francisco / New York | 2026-11-21 | https://scale.com/careers/4625341005
 - Beam | Machine Learning Engineer | New York, NY / Remote — United States | 2026-11-22 | https://www.workatastartup.com/jobs/76899
+- Hyperbolic Labs | Inference Engineer | San Francisco, CA | 2026-11-22 | https://jobs.ashbyhq.com/hyperbolic
+- Mirendil | Member of Technical Staff, Inference | San Francisco, CA | 2026-11-22 | https://jobs.ashbyhq.com/mirendil/2b19bb41-18a8-4b82-b96d-c5516f3e6313
 <!-- SEEN-INDEX-END -->
