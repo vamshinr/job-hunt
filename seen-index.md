@@ -687,4 +687,5 @@
 - Flex.ai | AI Inference Engineer | Bengaluru, India | 2026-11-21 | https://wellfound.com/jobs/4901361-ai-inference-engineer
 - Maitai | Senior LLM Engineer | Redwood City, CA | 2026-11-21 | https://www.workatastartup.com/jobs/75504
 - Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI | San Francisco / New York | 2026-11-21 | https://scale.com/careers/4625341005
+- Beam | Machine Learning Engineer | New York, NY / Remote — United States | 2026-11-22 | https://www.workatastartup.com/jobs/76899
 <!-- SEEN-INDEX-END -->
