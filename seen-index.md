@@ -690,4 +690,6 @@
 - Beam | Machine Learning Engineer | New York, NY / Remote — United States | 2026-11-22 | https://www.workatastartup.com/jobs/76899
 - Hyperbolic Labs | Inference Engineer | San Francisco, CA | 2026-11-22 | https://jobs.ashbyhq.com/hyperbolic
 - Mirendil | Member of Technical Staff, Inference | San Francisco, CA | 2026-11-22 | https://jobs.ashbyhq.com/mirendil/2b19bb41-18a8-4b82-b96d-c5516f3e6313
+- Adaption Labs | Inference Engineer | San Francisco, CA (Hybrid) | 2026-11-23 | https://jobs.ashbyhq.com/adaption/a5eb14f9-f1cc-4d86-8ce9-4c29d13271a3
+- Sanas AI | Member of Technical Staff, ML Inference Engineering | Palo Alto, CA / Bengaluru, India | 2026-11-23 | https://ats.rippling.com/sanas/jobs/8c314a48-3328-4e77-ba4e-eee852673a58
 <!-- SEEN-INDEX-END -->
