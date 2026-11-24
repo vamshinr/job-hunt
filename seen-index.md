@@ -692,4 +692,6 @@
 - Mirendil | Member of Technical Staff, Inference | San Francisco, CA | 2026-11-22 | https://jobs.ashbyhq.com/mirendil/2b19bb41-18a8-4b82-b96d-c5516f3e6313
 - Adaption Labs | Inference Engineer | San Francisco, CA (Hybrid) | 2026-11-23 | https://jobs.ashbyhq.com/adaption/a5eb14f9-f1cc-4d86-8ce9-4c29d13271a3
 - Sanas AI | Member of Technical Staff, ML Inference Engineering | Palo Alto, CA / Bengaluru, India | 2026-11-23 | https://ats.rippling.com/sanas/jobs/8c314a48-3328-4e77-ba4e-eee852673a58
+- Liquid AI | Member of Technical Staff, ML Inference Engineer (PyTorch) | San Francisco, CA / Boston, MA | 2026-11-24 | https://jobs.lever.co/liquid.ai/5e97c450-0c89-43ef-a367-35e567514131
+- Sierra | Software Engineer, Agent Architecture | San Francisco, CA | 2026-11-24 | https://jobs.thrivecap.com/companies/sierra-2-90e5d64d-40bb-415e-bbca-4108552c8ee9/jobs/72329674-software-engineer-agent-architecture
 <!-- SEEN-INDEX-END -->
